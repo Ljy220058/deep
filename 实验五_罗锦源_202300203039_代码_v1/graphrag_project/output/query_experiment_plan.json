@@ -1,0 +1,41 @@
+{
+  "project_root": "c:\\Users\\26318\\Documents\\trae_projects\\ollama_pro\\实验五_罗锦源_202300203039_代码_v1\\graphrag_project",
+  "index_summary": {
+    "entities": 653,
+    "relationships": 186,
+    "communities": 4,
+    "community_reports": 4
+  },
+  "experiments": [
+    {
+      "name": "global_theme_overview",
+      "method": "global",
+      "query": "What are the major themes across the corpus about endurance training, nutrition, and performance improvement?",
+      "response_type": "List of 5-8 points",
+      "purpose": "适合做主题概览，观察跨文档汇总能力",
+      "command": "python -m graphrag query --root . --method global \"What are the major themes across the corpus about endurance training, nutrition, and performance improvement?\"",
+      "comparison_focus": "global 更适合跨文档主题归纳；local 更适合围绕具体实体和事实追问",
+      "evaluation_dimensions": [
+        "回答粒度",
+        "跨文档综合能力",
+        "具体事实命中率",
+        "是否贴近知识图谱中的实体关系"
+      ]
+    },
+    {
+      "name": "local_fact_lookup",
+      "method": "local",
+      "query": "What are the reported effects of HIIT and MICT on running economy and VO2max?",
+      "response_type": "Bullet list",
+      "purpose": "适合做具体事实查询，观察局部证据检索能力",
+      "command": "python -m graphrag query --root . --method local \"What are the reported effects of HIIT and MICT on running economy and VO2max?\"",
+      "comparison_focus": "global 更适合跨文档主题归纳；local 更适合围绕具体实体和事实追问",
+      "evaluation_dimensions": [
+        "回答粒度",
+        "跨文档综合能力",
+        "具体事实命中率",
+        "是否贴近知识图谱中的实体关系"
+      ]
+    }
+  ]
+}

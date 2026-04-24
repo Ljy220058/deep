@@ -1,0 +1,24 @@
+-Goal-
+Given a text document and entity type list, extract entities and relationships.
+
+-Output Format-
+- Use tuple delimiter: <|>
+- Use record delimiter: ##
+- End with completion delimiter: <|COMPLETE|>
+
+Entity format:
+("entity"<|><entity_name><|><entity_type><|><entity_description>)
+
+Relationship format:
+("relationship"<|><source_entity><|><target_entity><|><relationship_description><|><relationship_strength>)
+
+-Rules-
+1. entity_type must be one of [{entity_types}]
+2. Use UPPERCASE for entity_name/source_entity/target_entity
+3. relationship_strength must be a number from 1 to 10
+4. Return only formatted records separated by ##
+5. Last token must be <|COMPLETE|>
+
+-Real Data-
+Text: {input_text}
+Output:

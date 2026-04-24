@@ -1,0 +1,2466 @@
+SYSTEMATIC REVIEW
+published: 24 August 2021
+doi: 10.3389/fphys.2021.715044
+Frontiers in Physiology | www.frontiersin.org 1 August 2021 | Volume 12 | Article 715044
+Edited by:
+Hamdi Chtourou,
+University of Sfax, Tunisia
+Reviewed by:
+Ellen Freiberger,
+University of Erlangen
+Nuremberg, Germany
+J. Matthew Hinkley,
+AdventHealth, United States
+*Correspondence:
+Lawrence D. Hayes
+Lawrence.Hayes@UWS.ac.uk
+†ORCID:
+Lawrence D. Hayes
+orcid.org/0000-0002-6654-0072
+Bradley T. Elliott
+orcid.org/0000-0003-4295-3785
+Zerbu Yasar
+orcid.org/0000-0001-8838-7286
+Theodoros M. Bampouras
+orcid.org/0000-0002-8991-4655
+Nicholas F. Sculthorpe
+orcid.org/0000-0001-8235-8580
+Nilihan E. M. Sanal-Hayes
+orcid.org/0000-0003-4979-9653
+Christopher Hurst
+orcid.org/0000-0002-7239-6599
+Specialty section:
+This article was submitted to
+Exercise Physiology,
+a section of the journal
+Frontiers in Physiology
+Received: 26 May 2021
+Accepted: 20 July 2021
+Published: 24 August 2021
+Citation:
+Hayes LD, Elliott BT, Yasar Z,
+Bampouras TM, Sculthorpe NF,
+Sanal-Hayes NEM and Hurst C (2021)
+High Intensity Interval Training (HIIT) as
+a Potential Countermeasure for
+Phenotypic Characteristics of
+Sarcopenia: A Scoping Review.
+Front. Physiol. 12:715044.
+doi: 10.3389/fphys.2021.715044
+High Intensity Interval Training (HIIT)
+as a Potential Countermeasure for
+Phenotypic Characteristics of
+Sarcopenia: A Scoping Review
+Lawrence D. Hayes1*†, Bradley T. Elliott2†, Zerbu Yasar3†, Theodoros M. Bampouras4,5†,
+Nicholas F. Sculthorpe1†, Nilihan E. M. Sanal-Hayes6† and Christopher Hurst7,8†
+1 School of Health and Life Sciences, University of the West of Scotland, Hamilton, United Kingdom, 2 Translational
+Physiology Research Group, School of Life Sciences, Univer sity of Westminster, London, United Kingdom, 3 Active Ageing
+Research Group, Institute of Health, University of Cumbria, Lancaster, United Kingdom, 4 Lancaster Medical School,
+Lancaster University, Lancaster, United Kingdom, 5 The Centre for Ageing Research, Lancaster University, Lanc aster,
+United Kingdom, 6 Department of Psychology, Lancaster University, Lancaste r, United Kingdom, 7 AGE Research Group,
+Translational and Clinical Research Institute, Newcastle U niversity, Newcastle upon Tyne, United Kingdom, 8 National Institute
+for Health Research Newcastle Biomedical Research Centre, Newcastle upon Tyne Hospitals National Health Service
+Foundation Trust and Newcastle University, Newcastle upon Tyne, United Kingdom
+Background: Sarcopenia is deﬁned as a progressive and generalized loss o f skeletal
+muscle quantity and function associated predominantly wit h aging. Physical activity
+appears the most promising intervention to attenuate sarco penia, yet physical activity
+guidelines are rarely met. In recent years high intensity in terval training (HIIT) has garnered
+interested in athletic populations, clinical populations , and general population alike. There
+is emerging evidence of the efﬁcacy of HIIT in the young old (i .e. seventh decade of
+life), yet data concerning the oldest old (i.e., ninth decad e of life onwards), and those
+diagnosed with sarcopenic are sparse.
+Objectives: In this scoping review of the literature, we aggregated info rmation regarding
+HIIT as a potential intervention to attenuate phenotypic ch aracteristics of sarcopenia.
+Eligibility Criteria: Original investigations concerning the impact of HIIT on mu scle
+function, muscle quantity or quality, and physical perform ance in older individuals (mean
+age ≥60 years of age) were considered.
+Sources of Evidence: Five electronic databases (Medline, EMBASE, Web of
+Science, Scopus, and the Cochrane Central Register of Contr olled Trials [CENTRAL])
+were searched.
+Methods: A scoping review was conducted using the
+Arksey and O’Malley
+methodological framework ( 2005). Review selection and characterization were
+performed by two independent reviewers using pretested for ms.
+Results: Authors reviewed 1,063 titles and abstracts for inclusion w ith 74 selected
+for full text review. Thirty-two studies were analyzed. Twe nty-seven studies had a mean
+participant age in the 60s, two in the 70s, and three in the 80s . There were 20 studies
+which examined the effect of HIIT on muscle function, 22 whic h examined muscle
+quantity, and 12 which examined physical performance. HIIT was generally effective
+Hayes et al. HIIT and Sarcopenia Scoping Review
+in Improving muscle function and physical performance comp ared to non-exercised
+controls, moderate intensity continuous training, or pre- HIIT (study design-dependent),
+with more ambiguity concerning muscle quantity.
+Conclusions: Most studies presented herein utilized outcome measures de ﬁned by the
+European Working Group on Sarcopenia in Older People (EWGSOP ). However, there
+are too few studies investigating any form of HIIT in the olde st old (i.e., ≥80 years of
+age), or those already sarcopenic. Therefore, more interve ntion studies are needed in
+this population.
+Keywords: aging, exercise, HIIT, high intensity, power, sarcopenia, sprint, strength
+KEY POINTS
+• A variety of intensity prescriptions were utilized in previous
+experiments, which included “all-out” eﬀort, percentage of
+maximal heart rate, perceived a percentage of peak oxygen
+uptake, percentage of intensity at termination of a ramped
+exercise test, percentage of peak instantaneous power, rating
+of perceived exertion, and percentage of maximum gait speed.
+• Twenty-seven studies had a mean participant age in the
+60s, two in the 70s, and three in the 80s. There were
+20 studies which examined the eﬀect of HIIT on muscle
+function, 22 studies which examined the eﬀect of HIIT on
+muscle quantity, and 12 studies which examined the eﬀect of
+HIIT on physical function (which are the outcomes used to
+diagnose sarcopenia).
+• No previous investigation had considered HIIT in a sarcopenic
+or pre-sarcopenic population, and only three studies were in
+the oldest old humans.
+INTRODUCTION
+Rationale
+Sarcopenia is a progressive skeletal muscle disorder,
+characterized by reduced skeletal muscle quantity and func tion
+which is associated with a range of negative health outcomes
+including frailty, falls, reduced quality of life, and mort ality
+(
+Cruz-Jentoft and Sayer, 2019; Cruz-Jentoft et al., 2019 ). In
+addition to these individual health impacts, sarcopenia place s
+a considerable economic burden on healthcare systems with
+the associated costs in the UK estimated at £2.5 billion per year
+(
+Pinedo-Villanueva et al., 2019 ). Taken together, these eﬀects
+highlight the need to develop treatment strategies to count eract
+the deleterious consequences of sarcopenia.
+Factors including chronic inﬂammation, mitochondrial
+dysfunction, and reduced satellite cell function contribu te to
+the onset and progression of sarcopenia ( Ziaaldini et al., 2017 ).
+Exercise training has the potential to counteract these cell ular,
+molecular, and neural alterations ( Marzetti et al., 2017; Seo and
+Hwang, 2020 ) with aerobic and resistance exercise capable of
+inducing diﬀerential adaptations ( Hawley et al., 2014 ). Previous
+work has demonstrated that resistance exercise has multisy stem
+eﬀects, acting at both the physiological [e.g., improvements
+in mitochondrial function ( Melov et al., 2007 ) and reduced
+inﬂammation ( Beyer et al., 2012 )] and the functional level [e.g.,
+improvements in muscle strength and physical performance
+(
+Peterson et al., 2010; Steib et al., 2010 )]. To date there remains
+no pharmacological treatment approved for the treatment of
+sarcopenia and resistance exercise training is recommended a s its
+primary treatment (
+Dent et al., 2018 ). Given the multi-factorial
+nature of sarcopenia, exercise programmes for older adults li ving
+with sarcopenia often involve a combination of exercise modes
+(
+Witham et al., 2020 ) with the aim of simultaneously improving
+muscular and cardiorespiratory function ( Hurst et al., 2019a ).
+Oﬀering a range of alternative exercise training approaches
+which can simultaneously improve multiple outcomes (e.g.,
+muscle strength, physical performance, and cardiorespirator y
+ﬁtness) could help to maximize the potential of exercise as a
+therapeutic strategy for older people living with sarcopenia.
+High intensity interval training (HIIT) has previously been
+shown to exert substantial cardio-protective eﬀects, across a
+range of population groups (
+Knowles et al., 2015; Hwang et al.,
+2016; Batacan et al., 2017; Füzéki and Banzer, 2018; Hannan e t al.,
+2018; Hayes et al., 2020; Herbert et al., 2021 ). In the clinical
+context, HIIT has been shown to be a safe, feasible and eﬀectiv e
+therapeutic strategy in patients living with diabetes ( Little et al.,
+2011), heart failure ( Angadi et al., 2015 ) and coronary artery
+disease ( Warburton et al., 2005 ). From a pragmatic perspective,
+HIIT can be embedded within the clinical pathway ( Way et al.,
+2020) and can be delivered using a range of exercise modes (e.g.,
+stair climbing, stepping, cycling, walking).
+Despite this, much less is known about how HIIT could
+improve elements of muscular structure and function. A
+recent narrative review (
+Callahan et al., 2021 ) outlined several
+mechanistic explanations as to why HIIT might be anabolic
+in nature. These authors called for further investigation o f
+HIIT in populations of diﬀerent age groups and training
+status to explore this phenomenon further. Moreover, they
+proposed HIIT may be beneﬁcial in middle and older age
+where physical conditioning (i.e., aerobic ﬁtness) and incr eased
+muscle quantity were simultaneously desired. Whether HIIT
+could provide the necessary improvements in muscle quantity,
+quality, and strength, in addition to cardioprotective eﬀects
+however, remain unclear (
+Hurst et al., 2019b ). The potential for
+HIIT to simultaneously induce improvements in cardiometabo lic
+health and muscular health is an appealing strategy. However,
+Frontiers in Physiology | www.frontiersin.org 2 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+until now there has not been a comprehensive review of HIIT
+within older adults pertaining to phenotypic characteristics of
+sarcopenia using a systematic search strategy.
+Given that exercise programmes delivered to older people
+with sarcopenia in clinical practice are varied and often poorly
+prescribed (
+Witham et al., 2020 ), delivering eﬀective and
+engaging exercise programmes to older people is of prime
+concern (
+Dismore et al., 2020; Collado-Mateo et al., 2021 ). HIIT
+is reportedly enjoyable ( Thum et al., 2017 ), can be completed
+without gym equipment ( Blackwell et al., 2017; Dunford et al.,
+2021; Yasar et al., 2021 ), and deliver self-perceived health and
+ﬁtness improvements ( Knowles et al., 2015 ). However, before
+HIIT can be proposed as a viable countermeasure to phenotypic
+characteristics of sarcopenia, it is important to consider th e
+existing literature in terms of methodologies, quality of re search
+and heterogeneity, to determine whether a systematic revie w and
+meta-analysis is possible, and if not to identify the areas in which
+the current literature is deﬁcient. A comprehensive review o f
+HIIT and its eﬀect on phenotypic characteristics of sarcopenia i s
+important for clinicians and exercise practitioners to ensur e they
+are equipped to support community-dwelling older adults and
+their families/caregivers. Therefore, it seemed prudent to conduct
+a scoping review in this area to map the existing literature in
+terms of the volume, nature, and characteristics of the prima ry
+research (
+Arksey and O’Malley, 2005). We used a scoping review
+rather than systematic review and meta-analysis because our
+aim was not to ask a precise question and were more interested
+in the characteristics of investigations conducted (
+Munn et al.,
+2018). Moreover, the topic has not yet been extensively reviewed
+and may have been complex or heterogeneous in nature. If
+existing research was heterogeneous, a systematic review a nd
+meta-analysis would not have been possible, and therefore we
+opted to scope the area in this manuscript (
+Mays et al., 2001 ).
+Objectives
+We aimed to provide an overview of existing literature relati ng
+to phenotypic characteristics of sarcopenia pre- and post-HIIT
+in older adults. The four speciﬁc objectives of this scoping
+review were to (1) conduct a systematic search of the publishe d
+literature for the eﬀect of HIIT on muscle strength, muscle
+quantity or quality, and physical performance [aligned to the
+2018 operational deﬁnition of sarcopenia (
+Cruz-Jentoft et al.,
+2019)] in older adults, (2) map characteristics and methodologi es
+used and classiﬁed as “HIIT” within the interventions, (3)
+outline the range and characteristics of outcome variables used,
+and (4) provide recommendations for the advancement of the
+investigative area.
+METHODS
+Protocol and Registration
+The review was conducted and reported according to the
+Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses extension for scoping reviews (PRISMA-
+ScR) guidelines (
+Tricco et al., 2018 ) and the ﬁve-stage framework
+outlined in Arksey and O’Malley ( Arksey and O’Malley, 2005). A
+review protocol was not published.
+Eligibility Criteria
+Studies that met the following criteria were included: (1)
+involvement of human participants with a mean age of ≥ 60
+years [considered the start of old age (
+United Nations, 2020 )]; (2)
+not a review; (3) an intervention which included bouts of hig h
+intensity exercise interspersed with periods of recovery, in cluding
+exercise deﬁned as HIIT or sprint interval training (SIT). We
+deﬁned high intensity as exercise >85% peak oxygen uptake
+(VO2peak) or 85% maximal heart rate (HR max) or equivalent
+perception-based approaches (e.g., Borg 6–20 scale or similar) ;
+(4) employing an intervention design and include an exercise
+training period of >2 weeks; (5) including HIIT in isolation
+or performed in combination with another form of exercise;
+(6) including outcome measures related to either (i) muscle
+function (either strength or power), (ii) muscle quantity, or (iii)
+physical performance.
+Search Strategy
+The search strategy consisted of a combination of free-text
+and MeSH terms relating to “high-intensity interval training , ”
+“sarcopenia, ” and “older adults” which were developed throug h
+examination of previously published original and review artic les
+(e.g., screening of titles, abstracts, keywords). Filters w ere applied
+to ensure that only records published in English language
+involving human participants were included in the search resu lts.
+Full search terms and the complete search strategy can be foun d
+in the online Supplementary Material associated with this article
+(Supplementary Material 1 ).
+Information Sources
+Five electronic databases (Medline, EMBASE, Web of Science,
+Scopus, and the Cochrane Central Register of Controlled Trials
+[CENTRAL]) were searched to identify original research art icles
+published from the earliest available up until 12th March 2020 .
+Reference lists from included studies and previously publishe d
+review articles were examined for potentially eligible papers.
+Study Selection
+Data were extracted by two reviewers (LH & CH) independently
+and compared in an unblinded and standardized manner. Once
+each database search was completed and manuscripts were
+sourced, all studies were downloaded into a single referenc e
+list with duplicates removed. Titles and abstracts were then
+screened for eligibility and full texts were only retrieved f or
+studies with HIIT incorporated. Two reviewers then read and
+coded all the included articles using the PEDro scale (
+de
+Morton, 2009 ). Full texts were then thoroughly assessed using
+the complete eligibility criteria with ﬁrst (LH) and last (CH)
+authors conﬁrming inclusion and exclusion. Following this
+quality assessment, the same reviewers read and coded each
+of the studies and assessed the following moderators: desig n
+method (randomized control trial; RCT, controlled trial; C T
+or uncontrolled trial; UCT), combined or HIIT in isolation,
+and outcome variable. Furthermore, participant descriptions and
+training programme variables were extracted with as much det ail
+provided by the authors. Any disagreement between reviewers
+Frontiers in Physiology | www.frontiersin.org 3 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+FIGURE 1 |Schematic ﬂow diagram describing exclusions of potential st udies and ﬁnal number of studies.
+was discussed in a consensus meeting, and unresolved items w ere
+addressed by a third reviewer.
+Data Items
+Data extracted from each study included sample size, group
+descriptions, study design, analysis method, and outcome da ta.
+Methodological quality was assessed using the modiﬁed 0–
+10 PEDro scale (
+de Morton, 2009 ). The primary outcome
+variables were deﬁned as muscle strength or power, muscle
+quantity or quality, and physical performance, pre- and post-
+intervention. There was heterogeneity in study inclusion c riteria,
+interventions, assessment tools, and outcomes, thus a poole d
+analysis was not appropriate.
+RESULTS
+Study Selection
+Following the initial database search, 1,267 records were
+identiﬁed ( Figure 1). Once duplicates were removed, 1,063
+titles and abstracts remained, and were screened for inclus ion,
+resulting in 74 full-text articles being screened. Of these, 42 were
+excluded and 32 remained.
+Study Characteristics
+Of the 32 studies included, 14 were RCTs (
+Adamson et al.,
+2014, 2020; Hwang et al., 2016; Coetsee and Terblanche, 2017;
+Sculthorpe et al., 2017; Aboarrage Junior et al., 2018; Malin
+et al., 2018; Martins et al., 2018; Ballesta-García et al., 2 019;
+Hurst et al., 2019c; Jiménez-García et al., 2019; Nunes et al. ,
+2019; Taylor et al., 2019; Coswig et al., 2020
+), one was a quasi-
+experimental, non-randomized, single-blinded controlled study
+(Losa-Reyna et al., 2019 ), 16 were observational cohort studies
+(Bruseghini et al., 2015, 2019; Boereboom et al., 2016; Guada lupe-
+Grau et al., 2017; Hayes et al., 2017; Herbert et al., 2017a,b ;
+Robinson et al., 2017; Wyckelsma et al., 2017; Andonian et al.,
+2018; Bartlett et al., 2018; Buckinx et al., 2018, 2019; Søga ard
+et al., 2018, 2019; Snijders et al., 2019
+), and one was a pilot
+study (although randomized; ( Beetham et al., 2019 ) ( Table 1).
+Where a study had multiple outcome measures, they were
+examined separately. Three out of 32 (9%) included HIIT in
+Frontiers in Physiology | www.frontiersin.org 4 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 1 |General study information of investigations concerning HIIT and phenotypic characteristics of sarcopenia.
+Reference Population Study design Study protocol
+available/
+Preregistered
+Intervention characteristics Outcome(s) PEDro
+score
+Duration
+(weeks)
+Total sessions Exercise protocol Exercise
+intensity
+Adherence/
+Compliance/
+Attendance
+Adverse events
+Aboarrage
+Junior et al.
+(2018)
+25 untrained females total, 15
+in training group (aged 65 ± 7
+years); normal body mass;
+disease free.
+RCT No 24 weeks 72 5 min warm-up preceded
+jump-based SIT (20 min of 20
+repetitions of 30 s work, 30 s
+rest); 5 min cool-down on a
+cycle ergometer.
+All-out >90% inclusion criteria “No participants in
+either group left
+the study or
+Presented any
+injuries as result of
+the exercise
+program”
+Muscle quantity
+Physical
+performance
+5
+Adamson
+et al. (2014)
+12 untrained older adults in
+total, 6 in training group (aged
+65 ± 4 years); normal body
+mass; disease free.
+RCT No 6 weeks 12 6–10 6 s sprints on a cycle
+ergometer against ∼7% body
+mass,∼ 60 s rest.
+All-out - Not reported Physical
+performance
+5
+Adamson
+et al. (2020)
+34 untrained older adults, 11 in
+once per week training, and 11
+in twice per week training
+group (aged 65 ± 3 years);
+disease free.
+RCT No 8 weeks 8 for the once
+per week
+training group
+16 for the twice
+per week
+training group
+6–10 6 s sprints on a cycle
+ergometer against ∼7% body
+mass,∼ 60 s rest.
+All-out - Not reported Physical
+performance
+5
+Andonian
+et al. (2018)
+21 untrained, sedentary older
+adults with rheumatoid arthritis
+(n = 12; 64 ± 7 years) or
+prediabetes ( n = 9; 71 ± 5
+years), free of CVD or diabetes,
+able-bodied.
+Observational
+cohort study
+The study was
+registered with
+ClinicalTrials.gov
+10 weeks 30 5 min warm-up preceded 90 s
+work, 90 s rest); 5 minute
+cool-down on a treadmill.
+80-90% HRR - Not reported Muscle quantity 2
+Ballesta-
+García et al.
+(2019)
+54 individuals ( n = 18, 66 ± 5
+years in the HIIT group, n = 18,
+70 ± 9 years in the MICT
+group, and, n = 18, 67 ±69
+years in the control group
+group), without hypertension or
+a disease that would interfere
+with exercise.
+RCT with MICT
+and non-exercise
+control
+The study was
+registered
+prospectively with
+ClinicalTrials.gov
+18 weeks 36 1–1.5 min work, 2–2.5 min
+rest). 6–12 intervals. The
+programme was progressed
+over the 18 weeks.
+“Movements of the lower limbs,
+combined with the movements
+of
+the upper limbs with or without
+external load.”
+14–18 on the
+Borg scale
+>80% inclusion criteria.
+There were registered
+adverse events in MICT
+and control groups. Four
+women in
+the MICT group and one
+in control were lost to
+follow-up due to eye
+surgery, foot surgery,
+clavicle fracture, and two
+hip fractures
+after a fall. These adverse
+events did not occur
+during exercise classes.
+Not reported Physical
+performance
+Muscle function
+6
+Bartlett et al.
+(2018)
+12 untrained, sedentary older
+adults with rheumatoid arthritis
+(64 ± 7 years), free of CVD or
+diabetes, able-bodied.
+Observational
+cohort study
+The study was
+registered with
+ClinicalTrials.gov
+10 weeks 30 5 min warm-up preceded
+60–90 s work, 60–90 s rest;
+5 min cool-down on a treadmill.
+Time per session was matched
+at 30 min.
+80–90% VO 2
+reserve
+targeted.
+85 ± 5%
+achieved.
+99% adherence. Not reported Physical
+performance
+2
+Beetham
+et al. (2019)
+21 individuals with stage 3–4
+kidney disease ( n = 9, 61 ± 6
+years in the HIIT group and
+n = 5, 63 ± 11 years in the
+MICT group), overweight and
+varied diabetic status.
+Randomized pilot
+trial vs MICT
+The study was
+registered at the
+Australian and
+New Zealand
+Clinical Trials
+Registry
+12 weeks 36 5 min warm-up preceded 4 ×
+4 min intervals with 3 min rest
+on a treadmill. The programme
+was progressed over the 12
+weeks.
+80–95%
+peak heart rate.
+33/36 for HIIT, 34/36 for
+MICT.
+None attributed to
+the intervention.
+Muscle quantity 8
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 5 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 1 |Continued
+Reference Population Study design Study protocol
+available/
+Preregistered
+Intervention characteristics Outcome(s) PEDro
+score
+Duration
+(weeks)
+Total sessions Exercise protocol Exercise
+intensity
+Adherence/
+Compliance/
+Attendance
+Adverse events
+Boereboom
+et al. (2016)
+21 individuals (aged ∼ 67
+years)
+Observational
+cohort study
+The study was
+registered with
+ClinicalTrials.gov
+31 days 12 2 min warm-up preceded 5 ×
+60 s intervals with 90 s rest on
+a cycle ergometer.
+100–110%
+power achieved
+during a ramped
+CPET protocol
+to failure.
+12 (full compliance) Not reported Muscle quantity 2
+Bruseghini
+et al. (2015)
+12 healthy older adults (aged
+68 ± 4 years).
+Proof-of-concept
+observational
+cohort study
+No 8 weeks 24 10 min warm-up preceded 7 ×
+2 min intervals with 2 min rest
+on a cycle ergometer.
+85–95%
+VO2peak
+Not reported Not reported Muscle function
+Muscle quantity
+2
+Bruseghini
+et al. (2019)
+12 moderately active healthy
+men (aged 69 ± 4 years),
+normal body mass, disease
+free.
+Observational
+cohort study
+No 8 weeks 24 10 min warm-up preceded 7 ×
+2 min intervals with 2 min rest
+on a cycle ergometer. The
+programme was progressed
+every 2 weeks.
+85–95%
+VO2peak
+Not reported None attributed to
+the intervention.
+Muscle function 2
+Buckinx
+et al. (2019)
+33 untrained adults (aged
+69 ± 4 years), non-smoking,
+low alcohol consuming,
+postmenopausal (if female),
+without counter-indication to
+exercise.
+Observational
+cohort dataset
+No 12 weeks 36 5 min warm-up preceded 10 ×
+30 s intervals with 90 s rest on
+an elliptical device. The
+programme was progressed.
+80–85% peak
+heart rate or
+>17 on the Borg
+scale
+>80% inclusion criteria Not reported Physical
+performance
+Muscle function
+Muscle quantity
+3
+Buckinx
+et al. (2018)
+30 untrained adults (aged
+69 ± 4 years), non-smoking,
+low alcohol consuming,
+postmenopausal (if female),
+without counter-indication to
+exercise.
+Observational
+cohort dataset
+No 12 weeks 36 5 min warm-up preceded 10 ×
+30 s intervals with 90 s rest on
+an elliptical device. The
+programme was progressed.
+80–85% peak
+heart rate or
+>17 on the Borg
+scale
+>80% inclusion criteria Not reported Physical
+performance
+3
+Coetsee
+and
+Terblanche
+(2017)
+67 inactive individuals ( n = 13,
+65 ± 6 years in the HIIT group
+and n = 129, 63 ± 6 years in
+the control group), normal BMI,
+no cognitive impairment, and
+no comorbidities.
+RCT No 16 weeks 48 4 × 4 min intervals with 3 min
+rest on a treadmill. The
+programme was progressed
+90–95% peak
+heart rate.
+Not reported Not reported Physical
+performance
+5
+Coswig
+et al. (2020)
+46 untrained female nursing
+home residents (aged 81 ± 5
+years), n = 15 in HIIT group.
+Comorbidities that did not
+preclude involvement.
+RCT with MICT as
+a positive control
+group
+No 8 weeks 16 5 min warm-up preceded 4 ×
+4 min intervals with 4 min rest
+on a treadmill. The programme
+was progressed
+85–95% peak
+heart rate.
+>80% inclusion criteria. Not reported Physical
+performance
+Muscle quantity
+5
+Guadalupe-
+Grau et al.
+(2017)
+9 males (aged 84 ± 3 years)
+with low to severe COPD.
+Participants were overweight
+according to BMI, and 4/9
+were sarcopenic.
+Observational
+cohort study
+No 9 weeks 18 Strength training plus HIIT.
+HIIT commenced from the third
+week:
+5 min warm-up preceded 4 ×
+15 s, progressing to 5 × 25 s
+intervals with 60 s rest on a
+cycle ergometer.
+“Sprints” at
+80–90% HRR
+>80% inclusion criteria.
+14 started. 9 completed.
+Not Not reported Physical
+performance
+Muscle function
+2
+Hayes et al.
+(2017)
+22 sedentary but otherwise
+healthy, males (62 ± 2 years)
+Observational
+cohort study with
+MICT phase
+No 6 weeks
+HIIT
+preceded
+by 6
+weeks
+MICT
+9 HIIT sessions 6 × 30 s intervals with 3 min
+rest on a cycle ergometer.
+40% PPO or
+∼141% power
+achieved during
+a ramped CPET
+protocol to
+failure.
+100% adherence Not reported Muscle quantity 2
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 6 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 1 |Continued
+Reference Population Study design Study protocol
+available/
+Preregistered
+Intervention characteristics Outcome(s) PEDro
+score
+Duration
+(weeks)
+Total sessions Exercise protocol Exercise
+intensity
+Adherence/
+Compliance/
+Attendance
+Adverse events
+Herbert
+et al.
+(2017a)
+22 sedentary but otherwise
+healthy, males (62 ± 2 years)
+17 male masters athletes
+(60 ± 5 years)
+Observational
+cohort study with
+MICT phase
+No 6 weeks
+HIIT
+preceded
+by 6
+weeks
+MICT
+9 HIIT sessions 6 × 30 s intervals with 3 min
+rest on a cycle ergometer.
+40% PPO or
+∼141% power
+achieved during
+a ramped CPET
+protocol to
+failure.
+100% adherence Not reported Muscle quantity 2
+Herbert
+et al.
+(2017b)
+17 male masters athletes
+(60 ± 5 years)
+Observational
+cohort study
+No 6 weeks
+HIIT
+preceded
+by 6
+weeks
+MICT
+9 HIIT sessions 6 × 30 s intervals with 3 min
+rest on a cycle ergometer.
+40% PPO or
+∼141% power
+achieved during
+a ramped CPET
+protocol to
+failure.
+100% adherence Not reported Muscle function 2
+Hurst et al.
+(2019c)
+36 untrained older adults, who
+were disease free ( n = 18 HIIT;
+aged ∼62 years, n = 18
+control; aged ∼63 years).
+RCT The study was
+registered with
+ClinicalTrials.gov
+12 weeks 24 6 min warm-up preceded 4
+sets of 4 resistance exercises.
+The programme was
+progressed
+>90%
+peak heart rate
+was targeted.
+89% peak heart
+rate achieved.
+Mean heart rate
+was 82%
+maximum.
+>90% inclusion criteria.
+99% achieved.
+None attributed to
+the intervention.
+Muscle function 7
+Hwang et al.
+(2016)
+51 untrained older adults, who
+were disease free ( n = 15
+completed HIIT; aged 65 ± 1
+years, n = 15 completed
+control; aged 64 ± 2 years).
+RCT No 8 weeks 32 10 min warm-up preceded 4 ×
+4 min intervals with 3 min rest of
+synchronous arm and leg
+exercise on a non-weight
+bearing all-extremity air-braked
+ergometer. The programme
+was progressed.
+>90%
+peak heart rate.
+84% completed the
+study. Of those who
+completed the study,
+89% attendance was
+achieved for HIIT.
+None attributed to
+the intervention.
+Muscle quantity 6
+Jiménez-
+García et al.
+(2019)
+82 healthy older adults 68 ± 5
+years of age ( n = 26 in HIIT)
+RCT The study was
+registered with
+ClinicalTrials.gov
+12 weeks 24 10 min warm-up preceded 4 ×
+4 min suspension squats with
+3 min rest.
+90–95%
+peak heart rate.
+>80% attendance as
+inclusion criteria.
+None attributed to
+the intervention.
+Physical
+performance
+8
+Losa-Reyna
+et al. (2019)
+20 pre-frail or frail patients
+without multiple comorbidities,
+84 ± 5 years of age ( n = 11 in
+HIIT)
+Quasi-
+experimental,
+non-randomized,
+single-blinded
+controlled study
+No 6 weeks 12 Resistance training plus HIIT.
+5 min warm-up preceded
+resistance exercise, and then
+6–10 × 10–30 s with 40–100 s
+rest on a treadmill. The
+programme was progressed
+90% maximal
+gait speed
+16 started, 11 ﬁnished. Not reported Physical
+performance
+Muscle function
+5
+Malin et al.
+(2018)
+Sedentary obese subjects
+(61±3 years)
+RCT with MICT as
+control
+No 2 weeks 12 10 × 3 min intervals with 4 min
+rest on a cycle ergometer. The
+programme was progressed
+90% peak heart
+rate
+Not reported Not reported Muscle quantity 5
+Martins
+et al. (2018)
+16 postmenopausal sedentary
+women at high risk of type II
+diabetes ( n = 8 HIIT; aged
+64 ± 7 years, n = 8 combined
+training; aged 65 ± 6 years).
+RCT with
+combined training
+(resistance and
+aerobic) as control
+The study was
+registered with
+ClinicalTrials.gov
+12 weeks 36 5 min warm-up preceded 10 ×
+60 s with 60 s rest bodyweight
+squats and steps. The
+programme was progressed
+>85%
+peak heart rate
+14 started, 8 ﬁnished. Not reported Muscle quantity
+Physical
+performance
+Muscle function
+5
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 7 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 1 |Continued
+Reference Population Study design Study protocol
+available/
+Preregistered
+Intervention characteristics Outcome(s) PEDro
+score
+Duration
+(weeks)
+Total sessions Exercise protocol Exercise
+intensity
+Adherence/
+Compliance/
+Attendance
+Adverse events
+Nunes et al.
+(2019)
+24 postmenopausal obese
+sedentary women ( n = 12 HIIT;
+aged ∼63 years, n = 12
+combined training; aged ∼63
+years).
+RCT with
+combined training
+(resistance and
+aerobic) as control
+The study was
+registered with
+ClinicalTrials.gov
+12 weeks 36 5 min warm-up preceded 10 ×
+60 s with 60 s rest bodyweight
+squats and steps. The
+programme was progressed
+>85%
+peak heart rate
+13 started, 12 ﬁnished.
+91% adherence
+Not reported Muscle quantity
+Physical
+performance
+Muscle function
+5
+Robinson
+et al. (2017)
+8 untrained older adults
+(71 ± 6 years), disease free,
+non-smokers.
+Observational
+cohort study with
+sedentary control
+phase, followed by
+randomization into
+HIIT, combined
+training (resistance
+and aerobic), or
+resistance only
+training.
+The study was
+registered with
+ClinicalTrials.gov
+12 weeks 36 4 × 4 min with 3 min rest on a
+cycle ergometer.
+>90%
+VO2peak
+27 started, 23 ﬁnished. Not reported Muscle quantity
+Muscle function
+3
+Sculthorpe
+et al. (2017)
+22 sedentary older males
+(62 ± 4 years), disease free.
+RCT No 12 weeks,
+of which 6
+weeks
+was HIIT
+9 5 min warm-up preceded 6 ×
+60 s with 3 min rest on a cycle
+ergometer.
+40% PPO for the
+ﬁrst 3 sessions,
+then 50% PPO
+for the remaining
+6 sessions.
+100% adherence. None attributed to
+the intervention.
+Muscle quantity
+Muscle function
+5
+Snijders
+et al. (2019)
+14 sedentary men (74 ± 8
+years), disease free,
+non-smokers.
+Observational
+cohort study
+The study was
+registered with
+ClinicalTrials.gov
+12 weeks 36 Resistance training plus HIIT
+3 min warm-up preceded 10 x
+60 s with 60 s rest on a cycle
+ergometer.
+∼90%
+peak heart rate
+Not reported Not reported Muscle function
+Muscle quantity
+2
+Søgaard
+et al. (2018)
+22 sedentary older adults (aged
+63 ± 1 years), disease free,
+non-smokers.
+Observational
+cohort study
+No 6 weeks 18 2 min warm-up preceded 5 ×
+60 s with 90 s rest on a cycle
+ergometer.
+>85% power
+achieved during
+a ramped
+protocol to
+failure
+(individualized so
+participants
+could maintain
+intensity for
+60 s).
+28 started, 22 ﬁnished. Not reported Muscle quantity 2
+Søgaard
+et al. (2019)
+22 sedentary older adults (aged
+63 ± 1 years), disease free,
+non-smokers.
+Observational
+cohort study
+No 6 weeks 18 2 min warm-up preceded 5 ×
+60 s with 90 s rest on a cycle
+ergometer.
+>85% power
+achieved during
+a ramped
+protocol to
+failure
+(individualized so
+participants
+could maintain
+intensity for
+60 s).
+Not reported Not reported Muscle quantity 2
+Taylor et al.
+(2019)
+29 older adults (aged 64 ± 8
+years) split into HIIT and MICT.
+RCT with MICT as
+control
+No 12 weeks 36 Not reported Not reported Not reported Not reported Mus cle quantity 4
+Wyckelsma
+et al. (2017)
+15 older adults (aged 69 ± 4
+years) disease free.
+Observational
+cohort study
+No 12 weeks 36 3 min warm-up preceded 4 ×
+4 min with 4 min rest on a cycle
+ergometer.
+90–95% peak
+heart rate.
+Not reported Not reported Muscle quantity 2
+RCT, randomized control trial; MICT, moderate intensity continuous trai ning; SIT, sprint interval training; HIIT, high intensity interval tra ining.
+Frontiers in Physiology | www.frontiersin.org 8 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+a multicomponent intervention ( Guadalupe-Grau et al., 2017;
+Losa-Reyna et al., 2019; Snijders et al., 2019 ). Sixteen studies
+included HIIT on a cycle ergometer, six included HIIT on a
+treadmill, seven included resistance exercise HIIT (inclu ding
+bodyweight exercises), two included HIIT on an elliptical tra iner,
+and one study did not detail the intervention. Three studies
+used an “all-out” intensity, 15 used a percentage of HR max
+or heart rate reserve (HRR) to prescribe intensity, four used
+a percentage of VO 2peak to prescribe intensity, three used a
+percentage of intensity at termination of a ramped incrementa l
+exercise protocol to prescribe intensity, four used percentag e of
+peak power output to prescribe intensity, one used the Borg scale
+to prescribe intensity, one study used a percentage of maximum
+gait speed to prescribe intensity, and one study did not detail
+the intervention. Twenty-seven studies had a mean age in the
+60s, two in the 70s, and three in the 80s. One study considered
+frail participants. There were 20 studies which examined the
+eﬀect of HIIT on muscle function, 22 studies which examined
+the eﬀect of HIIT on muscle quantity, and 12 studies which
+examined the eﬀect of HIIT on physical function ( Figure 2).
+Several studies investigated more than one parameter, thus w hy
+the sum of the studies above is greater than the number of
+included studies.
+HIIT and Muscle Function
+There were 20 studies which examined the eﬀect of HIIT on
+muscle function using one or more of the criteria outline by
+EWGSOP (
+Cruz-Jentoft et al., 2019 ) ( Table 2). Of these, 18
+measured muscle strength, and ﬁve measured muscle power
+(some studies measured both, thus why this total is not 20).
+Of those reporting strength, six used the handgrip test, one
+used a 30 s arm curl test, ﬁve used a 30 s chair stand test,
+four used the 5 repetitions chair stand test, one used a 10
+repetition chair stand test, two used knee extensor isokinet ic
+dynamometry, one used a strain gauge for the knee extensors,
+four used a leg press, two used a chest press, three used
+a knee extension machine (which was not a dynamometer),
+and one used latissimus dorsi pull-down, horizontal row, and
+shoulder press. Of the 20 studies examining strength outcome s,
+15 reported ≥1 strength parameter having been improved by
+HIIT compared to pre-training or compared to a moderate
+intensity continuous training (MICT) or non-exercise contr ol.
+Of the remaining three (
+Robinson et al., 2017; Martins et al.,
+2018; Nunes et al., 2019 ), they all reported strength had improved
+more in a combined aerobic and resistance training group tha n a
+HIIT group.
+There were ﬁve studies which examined the eﬀect of HIIT on
+muscle power, with two studies examining peak power output
+during cycle ergometry, and the remaining three determined
+power during a resistance training exercise (leg extension o r leg-
+press). One investigation examined power during a 5 repetition
+chair stand test (
+Losa-Reyna et al., 2019 ). Of these studies,
+all reported improved power output post-HIIT. There was no
+evident association between change in muscle function (eit her 5
+rep chair stand, 30 s chair stand, or grip strength) and numbe r of
+bouts completed ( Supplementary Figures 1a–c ).
+FIGURE 2 |Schematic representation of frequency of outcome examined
+(n = 54) within the 32 included studies concerning HIIT and phenoty pic
+characteristics of sarcopenia.
+HIIT and Muscle Quantity or Quality
+There were 22 studies which examined the eﬀect of HIIT
+on muscle quantity or a surrogate (fat free mass, lean mass,
+thigh volume; Table 3). Of these, 13 measured whole body
+lean mass by dual-energy X-ray absorptiometry (DEXA), nine
+measured leg lean mass by DEXA (of these, all nine also
+reported whole body lean mass), one measured whole body lean
+mass by air plethysmography, one measured M. vastus lateralis
+muscle thickness by ultrasonography, two measured quadrice ps
+muscle volume by magnetic resonance imaging (MRI), two
+measured quadriceps cross-sectional area (CSA) or anatomic al
+CSA (ACSA) by MRI, one measured whole body lean mass by
+MRI, one measured thigh muscle area by peripheral quantitative
+computed tomography (pQCT), and six measured whole body
+lean mass by bioelectrical impedance analysis (BIA). Of the
+22 studies examining muscle quantity or quality outcomes, 11
+reported ≥1 muscle quantity parameter was improved by HIIT,
+14 reported no diﬀerence in ≥1 measure from pre-intervention
+or vs. a no exercise control, two reported inferior adaptation
+following HIIT compared to a group undertaking resistance
+training in ≥1 measure, one study reported lean mass was lost
+post-HIIT to a similar extent as a non-exercise control, and
+one did not report post-intervention lean mass (some studies
+measured several outcomes, thus why this total is not 22). Th ere
+was no evident relationship between change in muscle quantit y
+(as measured by lean mass) and number of bouts completed
+(Supplementary Figure 1d ).
+HIIT and Physical Performance
+There were 12 studies which examined the eﬀect of HIIT
+on physical function ( Table 4). One used the short physical
+performance battery (SPPB), eight used gait speed or the 6 min
+walk test (6MWT), nine used the timed up and go (TUG)
+test, and one used the 400 m walk test (some studies utilized
+more than one outcome). Of the 12 studies examining physical
+performance, all reported ≥1 parameter was improved by
+HIIT. The only study examining SPPB reported HIIT improved
+SPPB performance.
+There was no evident relationship between change in muscle
+performance (as measured by TUG and 6MWT) and number of
+bouts completed ( Supplementary Figures 1e,f ).
+Frontiers in Physiology | www.frontiersin.org 9 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 2 |Summary of study details concerning HIIT and muscle function.
+Reference Method of outcome
+measurement
+Summary of results
+MUSCLE STRENGTH
+Aboarrage
+Junior et al.
+(2018)
+30 s chair stand test ➚ vs. pre-HIIT,➚ vs. control
+HIIT group 30 s chair stand test was 16 ± 4 repetitions and 19 ± 5 repetitions pre- and post-intervention, respectively.
+Control group 30 s chair stand test was 20 ± 2 repetitions and 19 ± 2 repetitions pre- and post-intervention, respectively.
+Adamson et al.
+(2014)
+5 rep chair stand test ➚ vs. pre-HIIT,➚ vs. control
+HIIT group 5 rep chair stand test was 10.5 ± 2.2 s and 9.0 ± 1.6 s pre- and post-intervention, respectively.
+Control group 5 rep chair stand test was 12.1 ± 4.9 s and 11.9 ± 4.0 s pre- and post-intervention, respectively.
+Adamson et al.
+(2020)
+5 rep chair stand test ➚ vs. pre-HIIT,➚ vs. control
+HIIT once weekly group 5 rep chair stand test was 11.9 ± 1.8 and 10.6 ± 2.1 s pre- and post-intervention, respectively.
+HIIT twice weekly group 5 rep chair stand test was 12.0 ± 2.1 s and 9.3 ± 1.1 s pre- and post-intervention, respectively.
+Control group 5 rep chair stand test was 12.1 ± 4.3 and 12.3 ± 4.2 s pre- and post-intervention, respectively.
+Ballesta-García
+et al. (2019)
+30 s arm curl test
+30 s chair stand test
+➚ vs. pre-HIIT,➚ vs. control,➚ vs. MICT
+HIIT group 30 s arm curl test was 28.9 ± 5.2 repetitions and 31.7 ± 5.5 repetitions pre- and post-intervention, respectively .
+Control group 30 s arm curl test was 20.6 ± 3.0 repetitions and 22.4 ± 2.9 repetitions pre- and post-intervention, respectively .
+MICT group 30 s arm curl test was 25.6 ± 5.2 repetitions and 25.1 ± 4.1 repetitions pre- and post-intervention, respectively .
+HIIT group 30 s chair stand test was 15.1 ± 2.7 repetitions and 20.7 ± 3.2 repetitions pre- and post-intervention, respectively .
+Control group 30 s chair stand test was 16.8 ± 2.9 repetitions and 14.9 ± 2.9 repetitions pre- and post-intervention,
+respectively.
+MICT group 30 s chair stand test was 13.7 ± 3.4 repetitions and 17.5 ± 4.9 repetitions pre- and post-intervention,
+respectively.
+Bartlett et al.
+(2018)
+30 s chair stand test
+Handgrip strength
+➚ vs. pre-HIIT
+30 s chair stand test was 14 ± 4 repetitions and 17 ± 5 repetitions pre- and post-HIIT, respectively.
+➞ vs. pre-HIIT
+Handgrip strength was 18.3 ± 7.2 and 19.0 ± 8.1 kg pre- and post-HIIT, respectively.
+Bruseghini et al.
+(2015)
+Knee extensor
+isokinetic
+dynamometry.
+➚ vs. pre-HIIT,➘ vs. resistance training
+HIIT group isometric knee extensor torque at 60 ◦ knee ﬂexion was 200 ± 21 Nm and 215 ± 32 Nm pre- and post-intervention,
+respectively.
+Resistance training group isometric knee extensor torque a t 60 ◦ knee ﬂexion was 202 ± 23 Nm and 223 ± 39 Nm pre- and
+post-intervention, respectively.
+➞ vs. pre-HIIT,➘ vs. resistance training
+HIIT group isometric knee extensor torque at 90 ◦ knee ﬂexion was 169 ± 34 and 165 ± 31 Nm pre- and post-intervention,
+respectively.
+Resistance training group isometric knee extensor torque a t 90 ◦ knee ﬂexion was 166 ± 38 and 177 ± 42 Nm pre- and
+post-intervention, respectively.
+HIIT group concentric knee extensor torque at 60 ◦ ·s−1 was 160 ± 24 and 163 ± 22 pre- and post-intervention, respectively.
+Resistance training group concentric knee extensor torque at 60 ◦ · s−1 was 164 ± 26 and 179 ± 31 Nm pre- and
+post-intervention, respectively.
+HIIT group concentric knee extensor torque at 120 ◦ ·s−1 was 130 ± 23 and 133 ± 24 pre- and post-intervention, respectively.
+Resistance training group concentric knee extensor torque at 120 ◦ ·s−1 was 132 ± 23 and 139 ± 23 Nm pre- and
+post-intervention, respectively.
+Bruseghini et al.
+(2019)
+Knee extensor
+isokinetic
+dynamometry.
+➞ vs. pre-HIIT,➘ vs. resistance training
+Knee extensor isokinetic dynamometry results at 90 ◦ knee ﬂexion and 120 ◦ ·s−1 are identical to
+Bruseghini et al. (2015) .
+Buckinx et al.
+(2018)
+10 rep chair stand test ➚ vs. pre-HIIT
+10 rep chair stand test was 18.8 ± 3.7 and 15.6 ± 3.7 s pre- and post-HIIT, respectively.
+Buckinx et al.
+(2019)
+Handgrip strength
+Knee extensor
+isometric strength
+using a
+chain-mounted strain
+gauge.
+➚ vs. pre-HIIT
+Relative handgrip strength was 0.41 ± 0.11 and 0.43 ± 0.12 kg·kg−1 pre- and post-HIIT respectively, in a low protein group.
+Relative handgrip strength was 0.40 ± 0.09 and 0.41 ± 0.08 kg·kg−1 pre- and post-HIIT respectively, in a high protein group.
+➞ vs. pre-HIIT
+Relative knee extensor isometric strength was 9.8 ± 2.5 and 10.1 ± 1.9 N ·kg−1 pre- and post-HIIT, respectively, in a low
+protein group.
+Relative knee extensor isometric strength was 10.2 ± 1.6 and 10.4 ± 1.6 N ·kg−1 pre- and post-HIIT, respectively, in a high
+protein group.
+Coswig et al.
+(2020)
+30 s chair stand test ➚ vs. pre-HIIT,➚ vs. MICT
+HIIT group 30 s chair stand test was 8.4 ± 1.4 repetitions and 11.8 ± 2.1 repetitions pre- and post-intervention, respectively .
+MICT group 30 s chair stand test was 8.5 ± 1.1 repetitions and 11.0 ± 1.6 repetitions pre- and post-intervention,
+respectively.
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 10 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 2 |Continued
+Reference Method of outcome
+measurement
+Summary of results
+Guadalupe-Grau
+et al. (2017)
+30 s chair stand test
+Upper- and lower-limb
+isometric strength
+using a hydraulic hand
+dynamometer.
+3 RM leg press and
+chest press.
+Handgrip strength
+➚ vs. pre-HIIT
+30 s chair stand test was 11.9 ± 4.2 repetitions and 17.0 ± 3.8 repetitions pre- and post-HIIT, respectively.
+Shoulder abduction strength was 10.9 ± 3.8 and 15.8 ± 4.3 kg pre- and post-HIIT, respectively.
+Hip ﬂexion strength was 14.8 ± 3.7 and 21.1 ± 4.7 kg pre- and post-HIIT, respectively.
+Leg extension strength was 11.9 ± 2.1 and 18.2 ± 2.8 kg pre- and post-HIIT, respectively.
+1-RM leg press strength was ∼90 ± 20 and 145 ± 10 kg pre- and post-HIIT, respectively.
+1-RM chest press strength was ∼22 ± 8 and 40 ± 10 kg pre- and post-HIIT, respectively.
+➞ vs. pre-HIIT
+Handgrip strength was 28.4 ± 5.0 and 30.3 ± 5.2 kg pre- and post-HIIT, respectively.
+Hurst et al.
+(2019c)
+Handgrip strength ➞ vs. pre-HIIT,➞ vs. control,
+HIIT group handgrip strength was 36.2 ± 10.9 and ∼38.1 kg pre- and post-intervention, respectively.
+Control group handgrip strength was 33.9 ± 11.0 and ∼ 33.4 kg pre- and post-intervention, respectively.
+Jiménez-García
+et al. (2019)
+Handgrip strength ➚ vs. pre-HIIT,➚ vs. control,➚ vs. MICT
+HIIT group handgrip strength was ∼25 ± 1 and ∼28 ± 2 kg pre- and post-intervention, respectively.
+Control group handgrip strength was ∼27 ± 2 and ∼27 ± 2 kg pre- and post-intervention, respectively.
+HIIT group handgrip strength was ∼25 ± 2 and ∼26 ± 2 kg pre- and post-intervention, respectively.
+Losa-Reyna
+et al. (2019)
+5 rep chair stand test
+Leg-press
+force-velocity testing
+and 1-RM
+Handgrip strength
+➚ vs. pre-HIIT,➚ vs. control
+HIIT group 5 rep chair stand test was 15.6 ± 2.7 and 10.8 ± 2.5 s pre- and post-intervention, respectively.
+Control group 5 rep chair stand test was 15.7 ± 3.0 and 14.8 ± 4.0 s pre- and post-intervention, respectively.
+HIIT group handgrip strength was 16.3 ± 3.6 and 18.3 ± 2.3 kg pre- and post-intervention, respectively.
+Control group handgrip strength was 20.8 ± 6.0 and 20.1 ± 5.7 kg pre- and post-intervention, respectively.
+➚ vs. pre-HIIT
+1-RM leg-press strength was 49.2 ± 19.0 and 62.4 ± 23.2 kg pre- and post-HIIT, respectively.
+Load at peak power leg-press was 36.3 ± 18.1 and 42.3 ± 17.4 kg pre- and post-HIIT, respectively.
+Martins et al.
+(2018)
+1-RM unilateral knee
+extension.
+➚ vs. pre-HIIT,➘ vs. combined training
+HIIT group unilateral knee extension strength was 56.2 ± 17.7 and 56.8 ± 21.9 kg pre- and post-intervention, respectively.
+Combined training group unilateral knee extension strengt h was 47.8 ± 8.5 and 64.0 ± 64.0 kg pre- and post-intervention,
+respectively.
+Nunes et al.
+(2019)
+5 rep chair stand test
+1-RM unilateral knee
+extension.
+➚ vs. pre-HIIT,➞ vs. combined training
+HIIT group 5 rep chair stand test was 12.3 (10.2–14.5) s and 9.3 ( 7.5–11.1) s pre- and post-intervention, respectively.
+Combined training group 5 rep chair stand test was 11.0 (9.7– 12.4) s and 7.8 (6.8–8.8) s pre- and post-intervention,
+respectively.
+➚ vs. pre-HIIT,➘ vs. combined training
+HIIT group unilateral knee extension strength was 57.9 (47.6– 68.1) and 61.5 (45.7–77.2) kg pre- and post-intervention,
+respectively.
+Combined training group unilateral knee extension strengt h was 50.7 (41.1–60.3) and 65.4 (54.8–75.9) kg pre- and
+post-intervention, respectively.
+Robinson et al.
+(2017)
+1-RM leg press. ➚ vs. pre-HIIT,➘ vs. combined training,➘ vs. resistance training
+HIIT group increased 1-RM leg press ∼1.0 kg ·FFM−1
+leg from pre- to post-intervention.
+Combine training group increased 1-RM leg press ∼3.5 kg ·FFM−1
+leg from pre- to post-intervention.
+Resistance training group increased 1-RM leg press ∼4.3 kg ·FFM−1
+leg from pre- to post-intervention.
+Snijders et al.
+(2019)
+1-RM leg press, chest
+press, latissimus dorsi
+pull-down, horizontal
+row, shoulder press,
+and knee extension.
+➚ vs. pre-HIIT
+1-RM leg press was 72 ± 25 and 92 ± 35 kg pre- and post-HIIT, respectively.
+1-RM chest press was 21 ± 6 and 24 ± 7 kg pre- and post-HIIT, respectively.
+1-RM latissimus dorsi pull-down was 26 ± 4 and 30 ± 5 kg pre- and post-HIIT, respectively.
+1-RM knee extension was 27 ± 8 and 35 ± 9 kg pre- and post-HIIT, respectively.
+➞ vs. pre-HIIT
+1-RM shoulder press was 24 ± 7 and 27 ± 8 kg pre- and post-HIIT, respectively.
+1-RM horizontal row was 28 ± 9 and 29 ± 5 kg pre- and post-HIIT, respectively.
+MUSCLE POWER
+Buckinx et al.
+(2018)
+Leg extensor power. ➚ vs. pre-HIIT
+Leg extensor power was 155 ± 70 and 186 ± 69 W pre- and post-HIIT, respectively.
+Herbert et al.
+(2017a)
+Peak power output,
+determined by a 6 s
+sprint on a cycle
+ergometer.
+➚ vs. pre-HIIT
+Peak power output was 766 ± 163 and 856 ± 211 W pre- and post-HIIT, respectively.
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 11 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 2 |Continued
+Reference Method of outcome
+measurement
+Summary of results
+Hurst et al.
+(2019c)
+Leg extensor power. ➚ vs. pre-HIIT,➚ vs. control,
+HIIT group leg extensor power was 159 ± 65 W and ∼165 W pre- and post-intervention, respectively.
+Control group leg extensor power was 162 ± 63 and ∼162 W pre- and post-intervention, respectively.
+Losa-Reyna
+et al. (2019)
+Leg-press
+force-velocity testing.
+5 rep chair stand test
+power
+➚ vs. pre-HIIT,➚ vs. control
+HIIT group 5 rep chair stand power was 104 ± 32 and 156 ± 50 W pre- and post-intervention, respectively.
+Control group 5 rep chair stand test was 123 ± 23 and 134 ± 35 W pre- and post-intervention, respectively.
+➚ vs. pre-HIIT
+HIIT group 5 leg-press peak power was 113 ± 62 and 153 ± 96 W pre- and post-intervention, respectively.
+Sculthorpe et al.
+(2017)
+Peak power output,
+determined by a 6 s
+sprint on a cycle
+ergometer.
+➚ vs. pre-HIIT,➚ vs. control
+HIIT group peak power output was 699 ± 180 and 831 ± 171 W pre- and post-intervention, respectively.
+Control group peak power output was 655 ± 130 and 657 ± 133 W pre- and post-intervention, respectively.
+1-RM, One repetition maximum; MICT, Moderate intensity continuous training; MIIT, Moderate intensity interval training ➚ , superior to; ➘ , worse than; ➞ , equal to (according to statistical
+interpretation of original authors). Data are presented as mean ± standard deviation or mean (95% conﬁdence intervals).
+DISCUSSION
+This scoping review provided an overview of existing literatu re
+pertaining to HIIT and phenotypic characteristics of sarcopeni a.
+We examined outcomes according to the revised EWGSOP
+deﬁnition (
+Cruz-Jentoft et al., 2019 ) to facilitate translation of
+research ﬁndings into clinical practice. Firstly, the earlies t article
+cited was Adamson et al. (2014) published in 2014, which
+speaks to this rapidly emerging area of research. This review
+catalogs existing literature, with a view to facilitating di scussion
+of research opportunities and issues that need to be addressed in
+future studies.
+In relation to our ﬁrst objective, which was to search the
+literature for the eﬀect of HIIT on phenotypic characteristics of
+sarcopenia in older adults, we observed most studies reported at
+least one positive change in characteristics when compared to vs.
+pre-HIIT, vs. non-exercise control, or vs. MICT. In this conte xt,
+19 of 20 studies reported an improvement to ≥1 muscle function
+outcome for ≥1 comparisons examined (vs. pre-HIIT, vs. non-
+exercise control, or vs. MICT) (
+Bruseghini et al., 2019 ). Similarly,
+twelve of 22 reported an improvement to ≥1 muscle quantity
+outcome for ≥1 comparison examined, and 11 of 12 reported an
+improvement to for ≥1 physical performance outcome for ≥1
+comparison examined.
+In relation to our second objective, training programmes
+ranged in duration from 2 to 24 weeks (median = 9.5 weeks),
+incorporated resistance training based HIIT, running/walk ing
+HIIT, cycling HIIT, and HIIT combined with other exercise
+modes (i.e., resistance training). Populations studied wer e
+commonly in the 7th decade of life, and mostly living
+independently. In relation to our third objective, muscle qu antity,
+or quality was most frequently studied in the included liter ature.
+DEXA was the most utilized measurement method, which is in
+line with the EWGSOP algorithm for sarcopenia case ﬁndings
+in clinical practice (
+Cruz-Jentoft et al., 2019 ). However, these
+are only routinely found in research facilities and hospitals
+and would likely require a referral from primary care before
+an individual received a DEXA scan. Importantly, none of the
+included studies involved participants who had been diagnosed
+with sarcopenia using a formalized deﬁnition. This limits
+the clinical signiﬁcance of the included literature and clea rly
+highlights a need for further work in this population.
+HIIT and Muscle Function
+According to the revised EWGSOP deﬁnition of sarcopenia
+(
+Cruz-Jentoft et al., 2019 ), muscle function is primarily
+considered as muscle strength. Yet, the chair stand test (or
+its variations) is named as a parameter that measures muscle
+strength. However, as the chair stand test relies on the abil ity
+to generate force over a short period of time, this could be
+considered a test of muscle power, rather than a measure of
+maximal force. The term dynapenia [i.e., the age-associated
+reduction in muscle strength and power (
+Clark and Manini, 2012;
+Manini and Clark, 2012 )] was originally used to diﬀerentiate
+itself from sarcopenia ( Clark and Manini, 2008 ), which has its
+roots in age-related reduced muscle mass [Greek translation
+= “poverty of ﬂesh” (
+Kim and Choi, 2013 )]. However, more
+recent deﬁnitions and diagnoses of sarcopenia have broadened
+to include muscle function. In this context, when one measur es
+muscle strength using non-isometric movements (i.e., when
+work occurs), force, distance, and time can be extracted, wh ich
+is quantiﬁcation of power. Thus, we believed it pertinent to
+include studies which concerned muscle power within this
+review. In fact, muscle power associates more strongly with
+physical performance and independence than muscle quantity
+(
+Clark and Manini, 2010; Trombetti et al., 2016 ), which may
+explain why the chair stand test is at the forefront of the revi sed
+EWGSOP algorithm for diagnosing and quantifying sarcopenia
+(
+Cruz-Jentoft et al., 2019 ). Moreover, as this is a scoping review,
+our a priori aim was to outline the range and characteristics of
+outcome variables examined.
+In this review, only six studies used grip strength as an
+outcome measure ( Guadalupe-Grau et al., 2017; Buckinx et al.,
+2019; Hurst et al., 2019c; Jiménez-García et al., 2019 ). This is
+interesting to note as EWGSOP propose grip strength as the
+primary measurement of muscle strength in clinical practice
+Frontiers in Physiology | www.frontiersin.org 12 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 3 |Summary of study details concerning HIIT and muscle quantity o r quality.
+Reference Method of outcome
+measurement
+Summary of results
+Aboarrage
+Junior et al.
+(2018)
+Whole body lean mass
+by DEXA.
+➞ vs. control
+HIIT group lean mass was 40 ± 6 and 41 ± 6 kg pre- and post-intervention, respectively.
+Control group lean mass was 40 ± 9 and 41 ± 10 kg pre- and post-intervention, respectively.
+Andonian et al.
+(2018)
+Whole body lean mass
+by air displacement
+plethysmography.
+➞ vs. pre-HIIT
+Rheumatoid arthritis group lean mass was 44.9 ± 8.9 and 44.7 ± 7.8 kg pre- and post-HIIT, respectively.
+Prediabetes group lean mass was 50.1 ± 12.2 and 50.1 ± 12.0 kg pre- and post-HIIT, respectively.
+Beetham et al.
+(2019)
+Whole body and lower
+limb lean mass by
+DEXA.
+➞ vs. pre-HIIT,➞ vs. MICT
+HIIT group low limb lean mass was 17.6 ± 6.6 and ∼17.2 kg pre- and post-intervention, respectively.
+MICT group lower limb lean mass was 17.0 ± 2.8 and ∼17.3 kg pre- and post-intervention, respectively.
+Boereboom
+et al. (2016)
+Whole body and leg
+lean mass by DEXA.
+M. vastus lateralis
+muscle thickness
+determined by
+ultrasonography.
+➞ vs. pre-HIIT
+Lean mass was 45.2 ± 11.1 and 45.3 ± 11.1 kg pre- and post-HIIT, respectively.
+➚ vs. pre-HIIT
+Leg lean mass was 4.1 ± 1.3 and 4.2 ± 1.2 kg pre- and post-HIIT, respectively.
+m. vastus lateralis thickness was 2.04 ± 0.27 and 2.17 ± 0.28 cm pre- and post-HIIT, respectively.
+Bruseghini et al.
+(2015)
+Whole body and lower
+limb lean mass by
+DEXA. CSA and
+volume of the
+quadriceps by MRI.
+➞ vs. pre-HIIT,➘ vs. resistance training
+HIIT group lean mass was 56.9 ± 6.2 and 57.7 ± 5.3 kg pre- and post-intervention, respectively.
+Resistance training group lean mass was 57.3 ± 5.9 and 57.6 ± 5.8 kg pre- and post-intervention, respectively.
+➚ vs. pre-HIIT,➞ vs. resistance training
+HIIT group total quadriceps CSA was 60.3 ± 10.6 and 62.9 ± 10.5 cm 2 pre- and post-intervention, respectively.
+Resistance training group total quadriceps CSA was 59.5 ± 9.3 and 62.0 ± 9.3 cm2 pre- and post-intervention, respectively.
+HIIT group total quadriceps volume was 820 ± 198 and 865 ± 199 cm 3 pre- and post-intervention, respectively.
+Resistance training group total quadriceps volume was 812 ± 184 and 852 ± 188 cm 3 pre- and post-intervention,
+respectively.
+Bruseghini et al.
+(2019)
+Volume and ACSA of
+the quadriceps by
+MRI.
+➚ vs. pre-HIIT,➞ vs. resistance training
+Total quadriceps volume results are identical to
+Bruseghini et al. (2015) .
+HIIT group total quadriceps ACSA increased 3.09 ± 1.38, 2.27 ± 252, and 2.65 ± 3.04 cm 2 at 25, 50, and 75% femur
+length, respectively, compared to pre-intervention.
+Resistance training group total quadriceps ACSA increased 3.19 ± 1.24, 3.03 ± 3.04, and 3.40 ± 3.21 cm 2 at 25, 50, and
+75% femur length, respectively compared to pre-interventi on.
+➞ vs. pre-HIIT,➘ vs. resistance training
+HIIT group PCSA at 50% femur length was unchanged post-interve ntion.
+Resistance training group PCSA at 50% femur length increase d post-intervention.
+Buckinx et al.
+(2019)
+Whole body and leg
+lean mass by DEXA.
+Thigh muscle area by
+pQCT.
+➞ vs. pre-HIIT
+Lean mass was 51.8 ± 7.3 and 53.0 ± 7.9 kg pre- and post-HIIT, respectively, in a low protein group .
+Lean mass was 43.1 ± 9.3 and 43.4 ± 9.5 kg pre- and post-HIIT, respectively, in a high protein grou p.
+Leg lean mass was 18.4 ± 3.0 and 18.8 ± 3.3 kg pre- and post-HIIT, respectively, in a low protein group .
+Leg lean mass was 15.4 ± 3.5 and 15.7 ± 3.5 kg pre- and post-HIIT, respectively, in a high protein grou p.
+Thigh muscle area was 91.8 ± 11.9 and 94.4 ± 15.6 cm 2 pre- and post-HIIT, respectively, in a low protein group.
+Thigh muscle area was 99.3 ± 21.7 cm 2 and 95.7 ± 21.8 cm 2 pre- and post-HIIT, respectively, in a high protein group.
+Coswig et al.
+(2020)
+Whole body lean mass
+by BIA.
+➞ vs. pre-HIIT,➞ vs. MICT
+HIIT group lean mass was 29.4 ± 2.8 and 29.6 ± 2.7 kg pre- and post-intervention, respectively.
+MICT group lean mass was 30.1 ± 3.5 and 29.9 ± 3.6 kg pre- and post-intervention, respectively.
+Hayes et al.
+(2017)
+Whole body lean mass
+by BIA.
+➚ vs. pre-HIIT
+Lean mass was 66.7 ± 7.1 and 69.1 ± 8.3 kg pre- and post-HIIT, respectively.
+Herbert et al.
+(2017b)
+Whole body lean mass
+by BIA.
+➚ vs. pre-HIIT
+Sedentary group lean mass was 66.7 ± 7.1 and 69.1 ± 8.3 kg pre- and post-HIIT, respectively.
+Masters athlete group lean mass was 65.2 ± 6.4 and 67.9 ± 5.1 kg pre- and post-HIIT, respectively.
+Hwang et al.
+(2016)
+Whole body lean mass
+by DEXA.
+➞ vs. pre-HIIT,➞ vs. control,➞ vs. MICT
+HIIT group lean mass was 44.6 ± 2.6 and 45.0 ± 2.4 kg pre- and post-intervention, respectively.
+MICT group lean mass was 47.8 ± 2.1 and 47.7 ± 1.9 kg pre- and post-intervention, respectively.
+Control group lean mass was 48.3 ± 2.9 and 48.4 ± 2.9 kg pre- and post-intervention, respectively.
+Jiménez-García
+et al. (2019)
+Whole body lean mass
+by BIA.
+➞ vs. pre-HIIT,➞ vs. control,➞ vs. MIIT
+HIIT group lean mass was 24.9 ± 5.7 and 25.7 ± 6.7 kg pre- and post-intervention, respectively.
+MIIT group lean mass was 25.6 ± 6.6 and 24.5 ± 6.3 kg pre- and post-intervention, respectively.
+Control group lean mass was 24.6 ± 4.8 and 23.8 ± 4.5 kg pre- and post-intervention, respectively.
+(Continued)
+Frontiers in Physiology | www.frontiersin.org 13 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 3 |Continued
+Reference Method of outcome
+measurement
+Summary of results
+Malin et al.
+(2018)
+Whole body lean mass
+by BIA.
+➘ vs. pre-HIIT,➞ vs. control
+HIIT group lean mass decreased 0.4 ± 0.1 kg from pre- to post-intervention.
+Control group lean mass decreased 0.4 ± 0.1 kg from pre- to post-intervention
+Martins et al.
+(2018)
+Whole body lean mass
+by DEXA, expressed
+as muscle mass index.
+➚ vs. pre-HIIT,➞ vs. combined training
+HIIT group muscle mass index was 6.6 ± 0.7 and 6.8 ± 0.9 kg ·m2 pre- and post-intervention, respectively.
+Combined training group muscle mass index was 6.6 ± 1.1 kg and 6.8 ± 1.3 kg ·m2 pre- and post-intervention, respectively.
+Nunes et al.
+(2019)
+Whole body and leg
+lean mass by DEXA.
+➞ vs. pre-HIIT,➞ vs. combined training
+HIIT group lean mass was 37.5 (33.9–41.1) kg and 37.5 (33.8–41. 2) kg pre- and post-intervention, respectively.
+Combined training group lean mass was 36.0 (32.7–39.2) kg an d 36.3 (32.8–39.8) kg pre- and post-intervention, respecti vely.
+➚ vs. pre-HIIT,➞ vs. combined training
+HIIT group leg lean mass was 12.7 (11.1–14.2) kg and 12.9 (11.3– 14.6) kg pre- and post-intervention, respectively.
+Combined training group leg lean mass was 12.3 (10.8–13.8) k g and 12.7 (11.1–14.4) kg pre- and post-intervention,
+respectively.
+Robinson et al.
+(2017)
+Whole body lean mass
+by DEXA.
+➚ vs. pre-HIIT,➞ vs. combined training,➞ vs. resistance training
+HIIT group increased fat free mass ∼0.9 kg from pre- to post-intervention.
+Combine training group increased fat free mass ∼1.0 kg from pre- to post-intervention.
+Resistance training group increased fat free mass ∼1.2 kg from pre- to post-intervention.
+Sculthorpe et al.
+(2017)
+Whole body lean mass
+by BIA.
+➚ vs. pre-HIIT,➚ vs. control
+HIIT group lean mass was 65.9 ± 6.7 and 68.1 ± 7.5 kg pre- and post-intervention, respectively.
+Control group lean mass was 63.4 ± 6.9 and 63.6 ± 7.3 kg pre- and post-intervention, respectively.
+Snijders et al.
+(2019)
+Whole body and leg
+lean mass by DEXA.
+➞ vs. pre-HIIT
+Lean mass was 55.0 ± 7.8 kg and 55.3 ± 7.7 kg pre- and post-HIIT, respectively.
+Leg lean mass was 19.3 ± 3.6 kg and 19.5 ± 3.4 kg pre- and post-HIIT, respectively.
+Søgaard et al.
+(2018)
+Whole body and leg
+lean mass by DEXA.
+➞ vs. pre-HIIT
+Female lean mass was 43.3 ± 1.0 and 43.7 ± 1.0 kg pre- and post-HIIT, respectively.
+Male lean mass was 59.6 ± 2.0 and 60.0 ± 2.0 kg pre- and post-HIIT, respectively.
+Female leg lean mass was 15.5 ± 0.4 kg and 15.5 ± 0.5 kg pre- and post-HIIT, respectively.
+Male leg lean mass was 21.0 ± 0.7 and 21.2 ± 0.7 kg pre- and post-HIIT, respectively.
+Søgaard et al.
+(2019)
+Whole body and leg
+lean mass by DEXA.
+➚ vs. pre-HIIT
+Lean mass was 51.5 ± 2.1 and 51.8 ± 2.1 kg pre- and post-HIIT, respectively.
+Taylor et al.
+(2019)
+Whole body lean mass
+by MRI.
+➚ vs. pre-HIIT,➞ vs. MICT
+HIIT group increased fat free mass 0.3 ± 0.9 kg from pre- to post-intervention.
+MICT group increased fat free mass 0.9 ± 1.5 kg from pre- to post-intervention.
+Wyckelsma et al.
+(2017)
+Whole body and leg
+lean mass by DEXA.
+Data not reported post-intervention
+DEXA, Dual-energy X-ray absorptiometry; MRI, Magnetic resonance imagin g; CSA, Cross sectional area; ACSA, Anatomical cross-sectional area; pQCT, peripheral quantitative computed
+tomography; BIA, bioelectrical impedance analysis; MICT, Moderate inten sity continuous training; MIIT, Moderate intensity interval training; ➚ , superior to; ➘ , worse than; ➞ , equal to
+(according to statistical interpretation of original authors). Data ar e presented as mean ± standard deviation or mean (95% conﬁdence intervals).
+and research studies ( Cruz-Jentoft et al., 2019 ). However, of
+these six investigations, two were published before the revi sed
+EWGSOP guidelines, and four were published the same year,
+so data collection may have been pre-update.
+Wi´sniowska-
+Szurlej et al. (2019) examined handgrip strength and other
+mobility parameters including gait speed, balance, and chair
+stand and observed weak correlations between handgrip stre ngth
+and mobility in older adults under long-term care facilities .
+Yee et al. (2021) corroborated this ﬁnding reporting weak
+correlations between chair stand test and handgrip strengt h in
+community-dwelling older adults. Similarly, changes in ha ndgrip
+strength do correlate with changes in leg muscle strength of
+physical performance during an exercise intervention program
+in frail older people (
+Tieland et al., 2015 ), suggesting it is
+not a good surrogate of mobility, muscle function, or change
+in muscle function of muscle other than those involved in
+gripping. If the two proposed measures of muscle strength to
+diagnose sarcopenia are not in agreement, then an alternativ e
+method for measuring muscle strength is necessary in this
+population. This may explain why most studies in this review
+have not measured handgrip and instead opted for isokinetic
+dynamometry, considered the gold standard for assessing mu scle
+strength but not commonly used in a clinical setting. When
+considering the body of studies examining muscle function, t he
+majority report increased strength (70% of studies) or power
+(100% of studies) following HIIT.
+Considering reduced muscle function is at the forefront
+of the recent update on the deﬁnition and treatment of
+sarcopenia (
+Cruz-Jentoft et al., 2019 ), any intervention targeting
+the prevention or reversal of phenotypic characteristics of
+sarcopenia must be capable of enhancing muscle strength. To
+our knowledge,
+Losa-Reyna et al. (2019) is the only investigation
+Frontiers in Physiology | www.frontiersin.org 14 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+TABLE 4 |Summary of study details concerning HIIT and physical perform ance.
+Reference Method of outcome
+measurement
+Summary of results
+Aboarrage
+Junior et al.
+(2018)
+TUG ➚ vs. pre-HIIT,➚ vs. control
+HIIT group TUG was 6.86 ± 1.24 and 6.22 ± 1.13 s pre- and post-intervention, respectively.
+Control group TUG was 5 ± 1 and 6 ± 1 s pre- and post-intervention, respectively.
+Adamson et al.
+(2014)
+TUG ➚ vs. pre-HIIT,➚ vs. control
+HIIT group TUG was 6.5 ± 0.8 and 5.8 ± 0.6 s pre- and post-intervention, respectively.
+Control group TUG was 6.9 ± 1.0 and 6.7 ± 1.0 s pre- and post-intervention, respectively.
+Adamson et al.
+(2020)
+TUG ➚ vs. pre-HIIT,➚ vs. control
+HIIT once weekly group TUG was 6.7 ± 0.9 and 6.2 ± 0.7 s pre- and post-intervention, respectively.
+HIIT twice weekly TUG was 7.0 ± 1.2 and 5.9 ± 0.5 s pre- and post-intervention, respectively.
+Control group TUG was 7.0 ± 1.1 and 6.7 ± 1.1 s pre- and post-intervention, respectively.
+Ballesta-García
+et al. (2019)
+TUG 6MWT ➚ vs. pre-HIIT,➚ vs. control
+HIIT group TUG was 6.08 ± 1.31 and 5.30 ± 0.80 s pre- and post-intervention, respectively.
+MICT group TUG was 6.40 ± 1.23 and 5.53 ± 1.28 s pre- and post-intervention, respectively.
+Control group TUG was 5.89 ± 0.74 and 6.25 ± 0.89 s pre- and post-intervention, respectively.
+HIIT group 6MWT was 564 ± 41.0 and 600 ± 74.9 m pre- and post-intervention, respectively.
+MICT group 6MWT was 502 ± 72.3 and 545 ± 72.6 m pre- and post-intervention, respectively.
+Control group 6MWT was 510 ± 59.0 and 494 ± 49.5 m pre- and post-intervention, respectively.
+Bartlett et al.
+(2018)
+TUG 400 m walk ➞ vs. pre-HIIT
+TUG was 8.8 ± 1.8 and 8.4 ± 1.9 s pre- and post-intervention, respectively.
+➚ vs. pre-HIIT
+400 m walk was 251 ± 62 and 233 ± 51 s pre- and post-intervention, respectively.
+Buckinx et al.
+(2018)
+TUG 6MWT ➚ vs. pre-HIIT
+HIIT group TUG was 7.5 ± 1.1 and 6.6 ± 0.9 s pre- and post-intervention, respectively.
+HIT group 6MWT was 550 ± 85 and 618 ± 91 m pre- and post-intervention, respectively.
+Coetsee and
+Terblanche
+(2017)
+TUG ➞ vs. pre-HIIT,➞ vs. control,➞ vs. MICT,➞ vs. resistance training
+HIIT group TUG was 5.6 ± 0.7 and 5.3 ± 0.7 s pre- and post-intervention, respectively.
+Control group TUG was 5.5 ± 1.1 and 5.7 ± 0.8 s pre- and post-intervention, respectively.
+MICT group TUG was 5.6 ± 0.7 and 5.4 ± 0.8 s pre- and post-intervention, respectively.
+RT group TUG was 5.4 ± 0.9 and 5.1 ± 0.8 s pre- and post-intervention, respectively.
+Coswig et al.
+(2020)
+Gait speed (10 m) 6MWT ➞ vs. pre-HIIT,➞ vs. MIIT,➞ vs. MICT
+HIIT group gait velocity was 1.3 ± 0.1 and 1.3 ± 0.1 m ·s−1 pre- and post-intervention, respectively.
+MIIT group gait velocity was 1.3 ± 0.1 and 1.2 ± 0.1 m ·s−1 pre- and post-intervention, respectively.
+MICT group gait velocity was 1.3 ± 0.1 and 1.3 ± 0.1 m ·s−1 pre- and post-intervention, respectively.
+➚ vs. pre-HIIT,➞ vs. MIIT,➞ vs. MICT
+HIIT group 6MWT was 406 ± 74 and 454 ± 72 m pre- and post-intervention, respectively.
+MIIT group 6MWT was 403 ± 83 and 451 ± 84 m pre- and post-intervention, respectively.
+MICT group 6MWT was 413 ± 58 and 427 ± 68 m pre- and post-intervention, respectively.
+Guadalupe-Grau
+et al. (2017)
+TUG 6MWT ➚ vs. pre-HIIT
+TUG was 9.1 ± 1.6 and 7.0 ± 0.9 s pre- and post-intervention, respectively.
+6MWT was 286.1 ± 107.2 and 396.2 ± 106.5 m pre- and post-intervention, respectively.
+Jiménez-García
+et al. (2019)
+Gait speed (via TUG test) ➚ vs. pre-HIIT,➚ vs. MIIT,➚ vs. control
+HIIT group gait speed was 0.73 and 0.89 m ·s−1 pre- and post-intervention, respectively.
+MIIT group gait speed was 0.75 and 0.75 m ·s−1 pre- and post-intervention, respectively.
+Control group gait sped was 0.75 and 0.75 m ·s−1 pre- and post-intervention, respectively.
+Losa-Reyna
+et al. (2019)
+SPPB 6MWT ➚ vs. pre-HIIT,➚ vs. control
+HIIT group SPPB was 6.8 ± 1.5 points and 9.8 ± 1.5 points pre- and post-intervention, respectively.
+Control group SPPB was 7.4 ± 2.0 points and 6.9 ± 2.7 points pre- and post-intervention, respectively.
+➞ vs. pre-HIIT
+6MWT was 257 ± 62 and 302 ± 72 m pre- and post-intervention, respectively.
+6MWT was not performed in the control group.
+Martins et al.
+(2018)
+6MWT ➚ vs. pre-HIIT,➞ vs. combined training
+HIIT group 6MWT was 577 ± 83 and 600 ± 92 m pre- and post-intervention, respectively.
+Combined training group 6MWT was 614 ± 89 and 669 ± 105 m pre- and post-intervention,
+respectively.
+TUG, timed up and go; 6MWT, 6-min walk test; SPPB, short physical perfor mance battery; HIIT, high intensity interval training; MICT, moderate inte nsity continuous training; MIIT,
+Moderate intensity interval training; ➚ , superior to; ➘ , worse than; ➞ , equal to (according to statistical interpretation of original authors). Data ar e presented as mean ± standard
+deviation or mean (95% conﬁdence intervals).
+Frontiers in Physiology | www.frontiersin.org 15 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+to examine an exercise intervention containing HIIT in frai l
+older adults. These authors examined the inﬂuence of a 6-wee k
+multicomponent exercise intervention (including walking-b ased
+HIIT) focused on enhancing muscle power in ∼84-year olds
+(range 77–96 years; 75% females; 35% pre-frail and 65% frail) .
+Post-intervention, leg press strength had improved by 34%, and
+muscle power improved by 47%. Moreover, load at peak power
+on the force-velocity curve increased by 23%, which suggests this
+type of intervention may improve muscle strength and power in
+frail and pre-frail elderly.
+HIIT and Muscle Quantity or Quality
+In this review, 20/21 (95%) of studies report appendicular skele tal
+muscle mass measured by DEXA, BIA, or MRI, or cross-sectional
+area of the thigh by MRI or pQCT scan, which are the primary
+measurement of muscle quantity proposed by EWGSOP in
+clinical practice and research (
+Cruz-Jentoft et al., 2019 ). The
+remaining investigation used air plethysmography to determi ne
+whole body lean mass ( Andonian et al., 2018 ). When considering
+the body of studies examining total body lean mass, several
+reported no increase from pre-HIIT (
+Bruseghini et al., 2015;
+Boereboom et al., 2016; Hwang et al., 2016; Andonian et al.,
+2018; Malin et al., 2018; Søgaard et al., 2018; Beetham et al. ,
+2019; Buckinx et al., 2019; Jiménez-García et al., 2019; Nune s
+et al., 2019; Snijders et al., 2019; Coswig et al., 2020
+), whereas
+some reported an increase post-HIIT compared to pre-HIIT
+(
+Hayes et al., 2017; Herbert et al., 2017a; Sculthorpe et al.,
+2017). To add further uncertainty, two studies which observed
+no increase in whole body lean quantity observed increased t high
+lean mass ( Boereboom et al., 2016; Bruseghini et al., 2019 ). Taken
+together, it is unclear whether HIIT can signiﬁcantly incre ase
+muscle quantity or quality, and the result may be determined by
+measurement technique of muscle quantity.
+There are no data concerning the eﬀect of HIIT on skeletal
+muscle quantity or its surrogates (e.g., fat free mass [FFM], lean
+body mass) in adults diagnosed with sarcopenia, or oldest old
+humans, despite emerging evidence in the rodent model (
+Seldeen
+et al., 2018 ). Thus, data from the middle old and young old
+must be extrapolated until these studies exist. In this conte xt,
+and despite no changes in muscle strength, Robinson et al.
+(
+Robinson et al., 2017 ) observed a ∼1 kg increase in FFM in
+sedentary ∼71 year olds following 3 days/week cycling HIIT and
+2 days/week of treadmill walking. This increase was greater in
+a resistance training only group, however. Interestingly, F FM
+was also increased to the same extend in a young ( ∼25 years
+old) sedentary cohort, suggesting HIIT can increase FFM in t he
+young and old to equal magnitude. This can be interpreted in tw o
+ways: 1) sedentary older adults maintain muscle plasticity a nd
+sensitivity to HIIT into older age, and 2) HIIT can increase F FM
+quantity in young sedentary adults who have not experienced
+muscle wastage. However, as all participants were untrained,
+increased FFM could be attributed to both young and old
+participants being HIIT-naïve.
+It would have been a reasonable a priori hypothesis to predict
+HIIT performed at the greatest relative intensity (i.e., all -out or
+SIT) would result in the greatest increases in muscle quanti ty, as
+intensities closer to maximal voluntary contraction are kn own
+to induce muscle hypertrophy (
+Schoenfeld, 2010; Krzysztoﬁk
+et al., 2019 ). However, this was not observed as Aboarrage
+Junior et al. (2018) utilized an all-out protocol, with no reported
+increases in lean mass. Likewise, it may have been expected
+untrained participants would exhibit the greatest increase in
+muscle quantity. However,
+Herbert et al. (2017a) examined the
+body composition changes in a group of previously sedentary
+older males and masters athletes, and reported FFM increased
+∼3% (from ∼67 to ∼69 kg) and ∼4% (from ∼65 to ∼68 kg),
+respectively. This suggests HIIT may be eﬃcacious at increasi ng
+FFM in highly active older males and previously sedentary old er
+male, if they are HIIT-naïve. Yet, these data are not ubiquit ous
+through the included literature of this review. Adequate in take
+of dietary protein is also an important consideration for older
+adults and any potential exercise induced increases in muscle
+mass are likely to be inﬂuenced by this (
+Beaudart et al.,
+2019).
+HIIT and Physical Performance
+In this review, all of the studies assessing physical performan ce
+reported gait speed (part of the SPPB), the SPPB, or the TUG
+test as an outcome, which are the primary measurements of
+physical performance proposed by EWGSOP in clinical practice
+and research (
+Cruz-Jentoft et al., 2019 ). Four investigations also
+reported the 5 repetitions chair stand test separately ( Adamson
+et al., 2014, 2020; Losa-Reyna et al., 2019; Nunes et al., 2019 ).
+However, this is one element of the SPPB, so those reporting
+SPPB values will have conducted this test. When considering th e
+body of literature examining physical performance, all studie s
+reported improvements post-HIIT. When considering studies
+examining physical performance, all studies report increased
+physical performance of ≥1 parameter following HIIT. In
+some instances HIIT did not improve performance more than
+another training method, where investigations had a paralle l
+arm (
+Martins et al., 2018; Ballesta-García et al., 2019; Nunes
+et al., 2019 ). Physical performance represents a multidimensional
+construct involving a range of physiological systems across t he
+whole-body (Beaudart et al., 2019 ) and is a key component in the
+deﬁnition of severe sarcopenia ( Cruz-Jentoft et al., 2019 ).
+Losa-Reyna et al. (2019) observed that a 6-week
+multicomponent exercise intervention (including walking-
+based HIIT) focused on enhancing muscle power improved the
+frailty phenotype by 1.6 points, muscle strength by 34%, and
+muscle power by 47%, suggesting this type of intervention is
+feasible in frail and pre-frail elderly. As this intervention was
+multicomponent, it is not possible to quantify the contributi on
+of HIIT to the overall improvement, and therefore it is diﬃcul t
+to ascertain whether adaptations would have occurred were
+HIIT examined in isolation, rather than simultaneously with a
+resistance training programme.
+Strengths and Limitations
+In cataloging the research concerning HIIT and phenotypic
+characteristics of sarcopenia, several issues and considera tions
+came to light, all of which have important implications for the
+interpretation of this body of literature, and improvement of
+future investigations. Firstly, the use of exercise terminol ogy
+requires clarity. In this context, we mean the deﬁnition of
+“HIIT.” HIIT has previously been described as periods of work
+Frontiers in Physiology | www.frontiersin.org 16 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+>85% VO 2peak or 85% HR max or equivalent perception-based
+approaches, interspersed by recovery periods ( Gibala et al., 2012 ).
+Only articles matching this description were included in thi s
+article. Several articles were returned from our database s earching
+which termed the exercise intervention HIIT, but often thes e did
+not reach this threshold of intensity. Similarly, when exer cise
+is described as “all-out, ” this should be termed SIT, which
+although a subcategory of HIIT, is unique in its prescription
+(
+Weston et al., 2014 ). It is imperative to classify protocols
+based on the nature of exercise prescription as diﬀerent interv al
+exercise classiﬁcations will alter experience and potential ly
+subsequent adaptation to the exercise ( Biddle and Batterham,
+2015). Penultimately, the majority of studies considered small
+samples sized, which limits interpretation. Finally, the maj or
+limitation of the present scoping review is the lack of studies
+in older adults diagnosed with sarcopenia. Whilst the litera ture
+assessment was comprehensive, it is possible that studies may
+have been missed from the analysis, but as three databases we re
+searched, it is unlikely enough were missed to create a large void
+in the included literature.
+One questions that cannot be answered in the current scoping
+review is the eﬀect of age on adaptations in physical performance ,
+muscle function, or muscle quantity with HIIT. Whilst we
+attempted to examine results by decade (60–69, 70–79, and ≥80
+years of age), it was noted that most published results were
+performed in “younger old” participants between 60 and 70
+years of age. Further meta-analytical subgroup analysis or m eta-
+regression may thus be required to examine diﬀering responses
+by age group. In a similar manner, another limitation noted is
+the inability to examine potential sex diﬀerences in responses to
+HIIT for any outcome. Whilst most studies utilized both male
+and female participants, groups were typically mixed and thus no
+insight into sex diﬀerence of HIIT responses is attempted here.
+With a need to better describe and report female physiology in
+exercise physiology literature (
+Elliott-Sale et al., 2021 ), more work
+in this area may this be called for.
+It is also important to acknowledge that the studies included in
+this review were delivered across a range of settings and inv olved
+a diverse range of older adults of varying health and ﬁtness s tatus.
+While this makes generalizing ﬁndings diﬃcult, it does sugg est
+that HIIT may be feasible across a broad range of settings wit h
+a wide range of older people. However, it is important to make
+clear that HIIT may not be suitable for all older people and all
+exercise programmes should be individually prescribed based on
+the characteristics of the individual.
+Recommendations for Advancement of the
+Investigative Area
+In relation to our fourth objective (provide recommendation s
+for the advancement of the investigative area), this review
+revealed a dearth of studies considering participants diagno sed
+with sarcopenia. Therefore, our primary recommendation for
+advancement of the research area is to increase studies that
+recruit participants or patients with sarcopenia, or those who a re
+at risk from sarcopenia (i.e., the oldest old). These studies could
+be feasibility trials, as there is little information as to w hether
+HIIT is a feasible exercise approach in older people. Secondly,
+given the issue regarding terminology and exercise intensit y
+discussed above, authors are encouraged to be consistent in th e
+use of exercise terminology by adhering to the consensus on
+exercise reporting template [CERT; (
+Slade et al., 2016 )] in future
+investigations, which would permit assessment of intervent ion
+heterogeneity. Thirdly, studies included within this revi ew had
+a sample size ranging from 8 to 82 participants, possibly due
+to resource commitments associated with having large sample
+sizes and/or rigorous research design. We suggest multicen tre
+RCTs to improve (a) statistical power, and (b) the quality
+of available evidence, as only 17/32 studies achieved ≥5 on
+the PEDro scale. Finally, although this review focused dire ctly
+on phenotypic characteristics of sarcopenia (i.e., quantitat ive
+assessment), qualitative investigations on the perceptions o f
+adults with phenotypic characteristics of sarcopenia on this t ype
+of exercise and how it could be delivered to this population
+with minimizing any barriers will be beneﬁcial for the ﬁeld
+of gerontology.
+CONCLUSIONS AND PRACTICAL
+RECOMMENDATIONS
+In conclusion, most studies presented herein utilized outco me
+measures deﬁned by the revised EWGSOP guidelines. There
+was divergence observed in exercise interventions, with HII T
+interventions involving a range of exercise modes delivered in a
+range of settings. Currently, there is some evidence sugges ting
+HIIT may improve phenotypic characteristics of sarcopenia.
+However, there are few studies investigating any form of HII T in
+the very old, or those diagnosed with sarcopenia. Therefore, m ore
+intervention studies are needed in this population to conﬁrm
+this phenomenon and conﬁdently quantify the eﬀectiveness of
+HIIT. In addition, we need to understand if this is a safe and
+feasible training approach in this population. In a practical
+context, combined interventions involving HIIT and resista nce
+training are a worthy avenue for investigation as resistance
+training is the most potent stimulus to increase muscle quanti ty
+and studies herein showed divergent results concerning HII T
+and muscle quantity. Finally, HIIT or SIT that is easy to apply
+(i.e., without equipment needs, travel, specialist training, a nd
+intensity monitoring such as heart rate or power output) or can
+be supported virtually is likely needed to promote the transitio n
+of HIIT from the laboratory to the real world.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are includ ed
+in the article/ Supplementary Material, further inquiries can be
+directed to the corresponding authors.
+AUTHOR CONTRIBUTIONS
+LH and CH: conceptualization, methodology, investigation,
+and project administration. LH and NS-H: formal analysis
+and investigation. LH, BE, ZY, TB, NS, NS-H, and
+Frontiers in Physiology | www.frontiersin.org 17 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+CH: writing—original draft preparation. LH, BE, TB, NS,
+NS-H, and CH: writing—review and editing. LH and BE:
+visualization. LH and CH: funding acquisition. All authors
+contributed to the article and approved the submitted version .
+ACKNOWLEDGMENTS
+The authors wish to acknowledge the support of respective
+employers in preparation of this review.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fphys.
+2021.715044/full#supplementary-material
+Supplementary Figure 1 |Percent change ( /Delta1%) in outcome measures for
+muscle function (a) 5 s chair stand, (b) 30 s chair stand, (c) grip strength, muss
+quality (d) lean mass, or muscle performance (e) timed up and go (TUG), and (f)
+6 min walk test (6MWT), all as a function of the number of bouts completed.
+Dashed lines indicate 95% conﬁdence intervals.
+REFERENCES
+Aboarrage Junior, A. M., Teixeira, C. V. L. S., Dos Santos, R. N., Machado,
+A. F., Evangelista, A. L., Rica, R. L., et al. (2018). A high-int ensity
+jump-based aquatic exercise program improves bone mineral density and
+functional ﬁtness in postmenopausal women. Rejuvenation Res . 21, 535–540.
+doi: 10.1089/rej.2018.2069
+Adamson, S., Kavaliauskas, M., Lorimer, R., and Babraj, J. (2020) . The impact
+of sprint interval training frequency on blood glucose control and ph ysical
+function of older adults. IJERPH. 17:454. doi: 10.3390/ijerph17020454
+Adamson, S. B., Lorimer, R., Cobley, J. N., and Babraj, J. A. (2014) . Extremely short-
+duration high-intensity training substantially improves the physi cal function
+and self-reported health status of elderly adults. J. Am. Geriatr. Soc . 62,
+1380–1381. doi: 10.1111/jgs.12916
+Andonian, B. J., Bartlett, D. B., Huebner, J. L., Willis, L., Hoselto n, A., Kraus, V. B.,
+et al. (2018). Eﬀect of high-intensity interval training on mus cle remodeling
+in rheumatoid arthritis compared to prediabetes. Arthritis Res Ther . 20:283.
+doi: 10.1186/s13075-018-1786-6
+Angadi, S. S., Mookadam, F., Lee, C. D., Tucker, W. J., Haykows ky, M. J., and
+Gaesser, G. A. (2015). High-intensity interval training vs. mo derate-intensity
+continuous exercise training in heart failure with preserved ejec tion fraction: a
+pilot study. J. Appl. Physiol. 119, 753–758. doi: 10.1152/japplphysiol.00518.2014
+Arksey, H., and O’Malley, L. (2005). Scoping studies: towards a meth odological
+framework. Int J Soc Res Methodol. 8:19–32. doi: 10.1080/1364557032000119616
+Ballesta-García, I., Martínez-González-Moro, I., Rubio-Arias, J. Á., and Carrasco-
+Poyatos, M. (2019). High-intensity interval circuit trainin g versus moderate-
+intensity continuous training on functional ability and body mass index in
+middle-aged and older women: a randomized controlled trial. IJERPH 16:4205.
+doi: 10.3390/ijerph16214205
+Bartlett, D. B., Willis, L. H., Slentz, C. A., Hoselton, A., Kelly, L., Hue bner, J. L.,
+et al. (2018). Ten weeks of high-intensity interval walk traini ng is associated
+with reduced disease activity and improved innate immune function in older
+adults with rheumatoid arthritis: a pilot study. Arthritis Res. Ther . 20:127.
+doi: 10.1186/s13075-018-1624-x
+Batacan, R. B., Duncan, M. J., Dalbo, V. J., Tucker, P. S., and F enning, A. S.
+(2017). Eﬀects of high-intensity interval training on cardio metabolic health: a
+systematic review and meta-analysis of intervention studies. Br. J. Sports Med .
+51, 494–503. doi: 10.1136/bjsports-2015-095841
+Beaudart, C., Rolland, Y., Cruz-Jentoft, A. J., Bauer, J. M., Sie ber, C., Cooper,
+C., et al. (2019). Assessment of muscle function and physical perfo rmance
+in daily clinical practice: a position paper endorsed by the european
+society for clinical and economic aspects of osteoporosis, osteo arthritis
+and Musculoskeletal Diseases (ESCEO). Calcif Tissue Int . 105, 1–14.
+doi: 10.1007/s00223-019-00545-w
+Beetham, K. S., Howden, E. J., Fassett, R. G., Petersen, A., Trew in, A. J.,
+Isbel, N. M., et al. (2019). High-intensity interval training in chronic kidney
+disease: a randomized pilot study. Scand. J. Med. Sci. Sports. 26, 1197–1204.
+doi: 10.1111/sms.13436
+Beyer, I., Mets, T., and Bautmans, I. (2012). Chronic low-grade i nﬂammation and
+age-related sarcopenia. Curr Opin Clin Nutrition Metabolic Care 15, 12–22.
+doi: 10.1097/MCO.0b013e32834dd297
+Biddle, S. J. H., and Batterham, A. M. (2015). High-intensity int erval exercise
+training for public health: a big HIT or shall we HIT it on the head? Int. J.
+Behav. Nutr. Phys. Act . 12:95. doi: 10.1186/s12966-015-0254-9
+Blackwell, J., Atherton, P. J., Smith, K., Doleman, B., Williams, J. P., Lund, J.
+N., et al. (2017). The eﬃcacy of unsupervised home-based exerci se regimens
+in comparison to supervised laboratory-based exercise training upon cardio-
+respiratory health facets. Physiol. Rep. 5:e13390. doi: 10.14814/phy2.13390
+Boereboom, C. L., Phillips, B. E., Williams, J. P., and Lund, J. N. (201 6).
+A 31-day time to surgery compliant exercise training programme
+improves aerobic health in the elderly. Tech. Coloproctol . 20, 375–382.
+doi: 10.1007/s10151-016-1455-1
+Bruseghini, P., Calabria, E., Tam, E., Milanese, C., Oliboni, E., P ezzato, A.,
+et al. (2015). Eﬀects of eight weeks of aerobic interval trainin g and of
+isoinertial resistance training on risk factors of cardiometaboli c diseases and
+exercise capacity in healthy elderly subjects. Oncotarget. 6, 16998–17015.
+doi: 10.18632/oncotarget.4031
+Bruseghini, P., Capelli, C., Calabria, E., Rossi, A. P., and Tam, E. ( 2019). Eﬀects of
+high-intensity interval training and isoinertial training on leg extensors muscle
+function, structure, and intermuscular adipose tissue in older adu lts. Front
+Physiol. 10:1260. doi: 10.3389/fphys.2019.01260
+Buckinx, F., Gouspillou, G., Carvalho, L., Marcangeli, V., El Haj j Boutros, G.,
+Dulac, M., et al. (2018). Eﬀect of high-intensity interval trai ning combined with
+L-citrulline supplementation on functional capacities and muscle fun ction in
+dynapenic-obese older adults. JCM. 7:561. doi: 10.3390/jcm7120561
+Buckinx, F., Marcangeli, V., Pinheiro Carvalho, L., Dulac, M., H ajj Boutros, G.,
+Gouspillou, G., et al. (2019). Initial dietary protein intake inﬂue nce muscle
+function adaptations in older men and women following high-intens ity interval
+training combined with citrulline. Nutrients 11:1685. doi: 10.3390/nu11071685
+Callahan, M. J., Parr, E. B., Hawley, J. A., and Camera, D. M. (2021). Can high-
+intensity interval training promote skeletal muscle anabolism? Sports Med . 51,
+405–421. doi: 10.1007/s40279-020-01397-3
+Clark, B. C., and Manini, T. M. (2008). Sarcopenia =/= dynapenia. J. Gerontol Biol.
+Sci. Med. Sci . 63, 829–834. doi: 10.1093/gerona/63.8.829
+Clark, B. C., and Manini, T. M. (2010). Functional consequence s of sarcopenia
+and dynapenia in the elderly. Curr. Opin. Clin. Nutr. Metab. Care 13, 271–276.
+doi: 10.1097/MCO.0b013e328337819e
+Clark, B. C., and Manini, T. M. (2012). What is dynapenia? Nutrition 28, 495–503.
+doi: 10.1016/j.nut.2011.12.002
+Coetsee, C., and Terblanche, E. (2017). The eﬀect of three diﬀe rent exercise
+training modalities on cognitive and physical function in a healt hy older
+population. Eur. Rev. Aging Phys. Act . 14:13. doi: 10.1186/s11556-017-0183-5
+Collado-Mateo, D., Lavín-Pérez, A. M., Peñacoba, C., Del Coso, J., Leyton-Román,
+M., Luque-Casado, A., et al. (2021). Key factors associated w ith adherence to
+physical exercise in patients with chronic diseases and older ad ults: an umbrella
+review. Int. J. Environ. Res. Public Health 18:2023. doi: 10.3390/ijerph18042023
+Coswig, V. S., Barbalho, M., Raiol, R., Del Vecchio, F. B., Ramire z-Campillo, R.,
+and Gentil, P. (2020). Eﬀects of high vs moderate-intensity int ermittent training
+on functionality, resting heart rate and blood pressure of elderly women. J.
+Transl. Med. 18:88. doi: 10.1186/s12967-020-02261-8
+Cruz-Jentoft, A. J., Bahat, G., Bauer, J., Boirie, Y., Bruyère, O ., Cederholm, T., et al.
+(2019). Sarcopenia: revised European consensus on deﬁnition an d diagnosis.
+Age Ageing 48, 16–31. doi: 10.1093/ageing/afy169
+Cruz-Jentoft, A. J., and Sayer, A. A. (2019). Sarcopenia. Lancet 393, 2636–2646.
+doi: 10.1016/S0140-6736(19)31138-9
+de Morton, N. A. (2009). The PEDro scale is a valid measure of the metho dological
+quality of clinical trials: a demographic study. Aust. J. Physiother . 55, 129–133.
+doi: 10.1016/S0004-9514(09)70043-1
+Frontiers in Physiology | www.frontiersin.org 18 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+Dent, E., Morley, J. E., Cruz-Jentoft, A. J., Arai, H., Kritchevsky , S. B., Guralnik, J.,
+et al. (2018). International clinical practice guidelines for Sar copenia (ICFSR):
+screening, diagnosis and management. J. Nutr. Health Aging . 22, 1148–1161.
+doi: 10.1007/s12603-018-1139-9
+Dismore, L., Hurst, C., Sayer, A. A., Stevenson, E., Aspray, T., an d Granic,
+A. (2020). Study of the older adults’ motivators and barriers enga ging in a
+nutrition and resistance exercise intervention for sarcopeni a: an embedded
+qualitative project in the MIlkMAN Pilot study. Gerontol. Geriatr. Med.
+6:2333721420920398. doi: 10.1177/2333721420920398
+Dunford, E. C., Valentino, S. E., Dubberley, J., Oikawa, S. Y., Mc Glory, C., Lonn, E.,
+et al. (2021). Brief vigorous stair climbing eﬀectively improves cardi orespiratory
+ﬁtness in patients with coronary artery disease: a randomized trial. Front Sports
+Act Living. 3:630912. doi: 10.3389/fspor.2021.630912
+Elliott-Sale, K. J., Minahan, C. L., de Jonge, X. A. K. J., Ackerman, K. E., Sipil,ä
+S., Constantini, N. W., et al. (2021). Methodological conside rations for studies
+in sport and exercise science with women as participants: a working g uide
+for standards of practice for research on women. Sports Med . 51, 843–861.
+doi: 10.1007/s40279-021-01435-8
+Füzéki, E., and Banzer, W. (2018). Physical activity recommend ations for health
+and beyond in currently inactive populations. Int J Environ Res Public Health .
+15:1042. doi: 10.3390/ijerph15051042
+Gibala, M. J., Little, J. P., MacDonald, M. J., and Hawley, J. A. (2 012). Physiological
+adaptations to low-volume, high-intensity interval training in health and
+disease. J. Physiol. 590, 1077–1084. doi: 10.1113/jphysiol.2011.224725
+Guadalupe-Grau, A., Aznar-Laín, S., Mañas, A., Castellanos, J., Alcázar, J., Ara,
+I., et al. (2017). Short- and long-term eﬀects of concurrent strengt h and HIIT
+training in octogenarians with COPD. J. Aging Phys. Activity . 25, 105–115.
+doi: 10.1123/japa.2015-0307
+Hannan, A. L., Hing, W., Simas, V., Climstein, M., Coombes, J. S., J ayasinghe,
+R., et al. (2018). High-intensity interval training versus mode rate-intensity
+continuous training within cardiac rehabilitation: a systemati c review and
+meta-analysis. Open Access J. Sports Med . 9, 1–17. doi: 10.2147/OAJSM.S150596
+Hawley, J. A., Hargreaves, M., Joyner, M. J., and Zierath, J. R. ( 2014). Integrative
+biology of exercise. Cell 159, 738–749. doi: 10.1016/j.cell.2014.10.029
+Hayes, L. D., Herbert, P., Sculthorpe, N., and Grace, F. (2020). High intensity
+interval training (HIIT) produces small improvements in fasting glucos e,
+insulin, and insulin resistance in sedentary older men but not maste rs athletes.
+Exp. Gerontol. 140:111074. doi: 10.1016/j.exger.2020.111074
+Hayes, L. D., Herbert, P., Sculthorpe, N. F., and Grace, F. M. (2017) . Exercise
+training improves free testosterone in lifelong sedentary aging men. Endocr
+Connect. 6, 306–310. doi: 10.1530/EC-17-0082
+Herbert, P., Hayes, L., Sculthorpe, N., and Grace, F. (2017b). HIIT pro duces
+increases in muscle power and free testosterone in male masters athlete s.
+Endocrine Connect. 6, 430–436. doi: 10.1530/EC-17-0159
+Herbert, P., Hayes, L. D., Beaumont, A. J., Grace, F. M., and Sculth orpe, N. F.
+(2021). Six weeks of high intensity interval training (HIIT) pre serves aerobic
+capacity in sedentary older males and male masters athletes for four ye ars: a
+reunion study. Exp. Gerontol. 150:111373. doi: 10.1016/j.exger.2021.111373
+Herbert, P., Hayes, L. D., Sculthorpe, N., and Grace, F. M. (2017a). High-
+intensity interval training (HIIT) increases insulin-like growt h factor-I (IGF-I)
+in sedentary aging men but not masters’ athletes: an observation al study. Aging
+Male. 20, 54–59. doi: 10.1080/13685538.2016.1260108
+Hurst, C., Scott, J. P. R., Weston, K. L., and Weston, M. (2019b ). High-
+intensity interval training: a potential exercise countermeas ure during human
+spaceﬂight. Front Physiol. 10:581. doi: 10.3389/fphys.2019.00581
+Hurst, C., Weston, K. L., McLaren, S. J., and Weston, M. (2019a) . The eﬀects of
+same-session combined exercise training on cardiorespiratory and f unctional
+ﬁtness in older adults: a systematic review and meta-analysis. Aging Clin. Exp.
+Res. 31, 1701–1717. doi: 10.1007/s40520-019-01124-7
+Hurst, C., Weston, K. L., and Weston, M. (2019c). The eﬀect of 1 2 weeks of
+combined upper- and lower-body high-intensity interval trainin g on muscular
+and cardiorespiratory ﬁtness in older adults. Aging Clin. Exp. Res . 31, 661–671.
+doi: 10.1007/s40520-018-1015-9
+Hwang, C.-L., Yoo, J.-K., Kim, H.-K., Hwang, M.-H., Handberg, E. M ., Petersen, J.
+W., et al. (2016). Novel all-extremity high-intensity interval t raining improves
+aerobic ﬁtness, cardiac function and insulin resistance in healt hy older adults.
+Exp. Gerontol. 82, 112–119. doi: 10.1016/j.exger.2016.06.009
+Jiménez-García, J., Martínez-Amat, A., De la Torre-Cruz, M., Fábreg a-Cuadros,
+R., Cruz-Díaz, D., Aibar-Almazán, A., et al. (2019). Suspension t raining HIIT
+improves gait speed, strength and quality of life in older adults. Int. J. Sports
+Med. 40, 116–124. doi: 10.1055/a-0787-1548
+Kim, T. N., and Choi, K. M. (2013). Sarcopenia: deﬁnition, epide miology, and
+pathophysiology. J. Bone Metab . 20, 1–10. doi: 10.11005/jbm.2013.20.1.1
+Knowles, A.-M., Herbert, P., Easton, C., Sculthorpe, N., and Grace, F. M. (2015).
+Impact of low-volume, high-intensity interval training on maximal a erobic
+capacity, health-related quality of life and motivation to exercis e in ageing men.
+Age 37:25. doi: 10.1007/s11357-015-9763-3
+Krzysztoﬁk, M., Wilk, M., Wojdała, G., and Goła ´s A. (2019). Maximizing
+muscle hypertrophy: a systematic review of advanced resistance traini ng
+techniques and methods. Int J Environ Res Public Health . 34, 364–380.
+doi: 10.3390/ijerph16244897
+Little, J. P., Gillen, J. B., Percival, M. E., Safdar, A., Tarnopolsk y, M.
+A., Punthakee, Z., et al. (2011). Low-volume high-intensity in terval
+training reduces hyperglycemia and increases muscle mitochondrial ca pacity
+in patients with type 2 diabetes. J. Appl. Physiol . 111, 1554–1560.
+doi: 10.1152/japplphysiol.00921.2011
+Losa-Reyna, J., Baltasar-Fernandez, I., Alcazar, J., Navarro-C ruz, R., Garcia-Garcia,
+F. J., Alegre, L. M., et al. (2019). Eﬀect of a short multicomponent exe rcise
+intervention focused on muscle power in frail and pre frail elderly: a pilo t trial.
+Exp Gerontol. 115, 114–121. doi: 10.1016/j.exger.2018.11.022
+Malin, S. K., Francois, M. E., Eichner, N. Z. M., Gilbertson, N. M. , Heiston, E.
+M., Fabris, C., et al. (2018). Impact of short-term exercise trainin g intensity
+on β -cell function in older obese adults with prediabetes. J. Appl. Physiol . 125,
+1979–1986. doi: 10.1152/japplphysiol.00680.2018
+Manini, T. M., and Clark, B. C. (2012). Dynapenia and aging: an upd ate. J.
+Gerontol. A Biol. Sci. Med. Sci . 67A, 28–40. doi: 10.1093/gerona/glr010
+Martins, F. M., de Paula Souza, A., Nunes, P. R. P., Michelin, M. A ., Murta, E.
+F. C., Resende, E. A. M. R., et al. (2018). High-intensity body w eight training
+is comparable to combined training in changes in muscle mass, physical
+performance, inﬂammatory markers and metabolic health in postmenopausal
+women at high risk for type 2 diabetes mellitus: a randomized controlled c linical
+trial. Exp. Gerontol. 107, 108–115. doi: 10.1016/j.exger.2018.02.016
+Marzetti, E., Calvani, R., Tosato, M., Cesari, M., Di Bari, M., Ch erubini, A., et al.
+(2017). Physical activity and exercise as countermeasures to ph ysical frailty and
+sarcopenia. Aging Clin. Exp. Res . 29, 35–42. doi: 10.1007/s40520-016-0705-4
+Mays, N., Roberts, E., and Popay, J. (2001). “Synthesising rese arch evidence, ”
+in Studying the Organisation and Delivery of Health Services: Re search
+Methods, eds N. Fulop, P. Allen, A. Clarke, N. Black (City of London:
+Routledge), 188–220.
+Melov, S., Tarnopolsky, M. A., Beckman, K., Felkey, K., and Hubbard, A . (2007).
+Resistance exercise reverses aging in human skeletal muscle. PLoS ONE. 2:e465.
+doi: 10.1371/journal.pone.0000465
+Munn, Z., Peters, M. D. J., Stern, C., Tufanaru, C., McArthur, A. , and Aromataris,
+E. (2018). Systematic review or scoping review? Guidance for aut hors when
+choosing between a systematic or scoping review approach. BMC Med Res
+Methodol. 18:143. doi: 10.1186/s12874-018-0611-x
+Nunes, P. R. P., Martins, F. M., Souza, A. P., Carneiro, M. A. S., N omelini,
+R. S., Michelin, M. A., et al. (2019). Comparative eﬀects of high-
+intensity interval training with combined training on physical function
+markers in obese postmenopausal women: a randomized controlled
+trial. Menopause 26, 1242–1249. doi: 10.1097/GME.00000000000
+01399
+Peterson, M. D., Rhea, M. R., Sen, A., and Gordon, P. M. (2010). Resistance
+exercise for muscular strength in older adults: a meta-analysis. Ageing Res Rev.
+9, 226–237. doi: 10.1016/j.arr.2010.03.004
+Pinedo-Villanueva, R., Westbury, L. D., Syddall, H. E., Sanchez-S antos, M. T.,
+Dennison, E. M., Robinson, S. M., et al. (2019). Health care costs associated
+with muscle weakness: a UK population-based estimate. Calciﬁed Tissue Int .
+104, 137–144. doi: 10.1007/s00223-018-0478-1
+Robinson, M. M., Dasari, S., Konopka, A. R., Johnson, M. L., Man junatha,
+S., Esponda, R. R., et al. (2017). Enhanced protein translation und erlies
+improved metabolic and physical adaptations to diﬀerent exercise
+training modes in young and old humans. Cell Metab . 25, 581–592.
+doi: 10.1016/j.cmet.2017.02.009
+Frontiers in Physiology | www.frontiersin.org 19 August 2021 | Volume 12 | Article 715044
+Hayes et al. HIIT and Sarcopenia Scoping Review
+Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and the ir
+application to resistance training. J. Strength Cond Res . 24, 2857–2872.
+doi: 10.1519/JSC.0b013e3181e840f3
+Sculthorpe, N. F., Herbert, P., and Grace, F. (2017). One session of high-intensity
+interval training (HIIT) every 5 days, improves muscle power but not st atic
+balance in lifelong sedentary ageing men: a randomized controlled trial.
+Medicine 96:e6040. doi: 10.1097/MD.0000000000006040
+Seldeen, K. L., Lasky, G., Leiker, M. M., Pang, M., Personius, K. E., and Troen,
+B. R. (2018). High intensity interval training improves physical pe rformance
+and frailty in aged mice. J. Gerontol. A Biol. Sci. Med. Sci . 73, 429–437.
+doi: 10.1093/gerona/glx120
+Seo, D. Y., and Hwang, B. G. (2020). Eﬀects of exercise training on the
+biochemical pathways associated with sarcopenia. Phys. Act. Nutr . 24, 32–38.
+doi: 10.20463/pan.2020.0019
+Slade, S. C., Dionne, C. E., Underwood, M., Buchbinder, R., Beck , B., Bennell,
+K., et al. (2016). Consensus on exercise reporting template (CERT): modiﬁed
+delphi study. Phys. Ther. 96, 1514–1524. doi: 10.2522/ptj.20150668
+Snijders, T., Nederveen, J. P., Bell, K. E., Lau, S. W., Mazara, N ., Kumbhare,
+D. A., et al. (2019). Prolonged exercise training improves the acute type II
+muscle ﬁbre satellite cell response in healthy older men. J. Physiol. 597, 105–119.
+doi: 10.1113/JP276260
+Søgaard, D., Baranowski, M., Larsen, S., Taulo Lund, M., Munk Sc heuer, C.,
+Vestergaard Abildskov, C., et al. (2019). Muscle-saturated bioa ctive lipids are
+increased with aging and inﬂuenced by high-intensity interv al training. IJMS
+20:1240. doi: 10.3390/ijms20051240
+Søgaard, D., Lund, M. T., Scheuer, C. M., Dehlbaek, M. S., Dideri ksen,
+S. G., Abildskov, C. V., et al. (2018). High-intensity interval training
+improves insulin sensitivity in older individuals. Acta Physiol . 222:e13009.
+doi: 10.1111/apha.13009
+Steib, S., Schoene, D., and Pfeifer, K. (2010). Dose–response relationship of
+resistance training in older adults: a meta-analysis. Br. J. Sports Med . 42,
+902–914. doi: 10.1249/MSS.0b013e3181c34465
+Taylor, J., Coombes, J. S., Leveritt, M. D., Holland, D. J., and Keat ing, S. E.
+(2019). Eﬀect of high intensity interval training on visceral adiposity and body
+composition in patients with coronary artery disease. Obesity Res. Clinical
+Pract. 13:265. doi: 10.1016/j.orcp.2018.11.086
+Thum, J. S., Parsons, G., Whittle, T., and Astorino, T. A. (2017) . High-intensity
+interval training elicits higher enjoyment than moderate intens ity continuous
+exercise. PLoS ONE 12:e0166299. doi: 10.1371/journal.pone.0166299
+Tieland, M., Verdijk, L. B., de Groot, L. C., and van Loon, L. J. C. (2015). Handgrip
+strength does not represent an appropriate measure to evaluate changes in
+muscle strength during an exercise intervention program in frail olde r people.
+Int. J. Sport. Nutr. Exerc. Metab . 25, 27–36. doi: 10.1123/ijsnem.2013-0123
+Tricco, A. C., Lillie, E., Zarin, W., O’Brien, K. K., Colquhoun, H., L evac,
+D., et al. (2018). PRISMA extension for scoping reviews (PRISMA -ScR):
+checklist and explanation. Ann Intern. Med. Am. College Physic. 169, 467–473.
+doi: 10.7326/M18-0850
+Trombetti, A., Reid, K. F., Hars, M., Herrmann, F. R., Pasha, E., Phi llips, E. M., et al.
+(2016). Age-associated declines in muscle mass, strength, power, and physical
+performance: impact on fear of falling and quality of life. Osteoporos Int . 27,
+463–471. doi: 10.1007/s00198-015-3236-5
+United Nations (2020). Department of Economic and Social Aﬀairs, Population
+Division. World population ageing.
+Warburton, D. E. R., McKenzie, D. C., Haykowsky, M. J., Taylor, A., Shoemaker, P.,
+Ignaszewski, A. P., et al. (2005). Eﬀectiveness of high-inte nsity interval training
+for the rehabilitation of patients with coronary artery disease. Am. J. Cardiol .
+95, 1080–1084. doi: 10.1016/j.amjcard.2004.12.063
+Way, K. L., Vidal-Almela, S., Keast, M.-L., Hans, H., Pipe, A. L., an d Reed, J.
+L. (2020). The feasibility of implementing high-intensity inter val training in
+cardiac rehabilitation settings: a retrospective analysis. BMC Sports Sci. Med.
+Rehabil. 12:38. doi: 10.1186/s13102-020-00186-9
+Weston, K. S., Wisløﬀ, U., and Coombes, J. S. (2014). High-intens ity
+interval training in patients with lifestyle-induced cardiometa bolic disease:
+a systematic review and meta-analysis. Br. J. Sports Med . 48, 1227–1234.
+doi: 10.1136/bjsports-2013-092576
+Wi´sniowska-Szurlej, A., Cwirlej-Soza ´nska, A., Wołoszyn, N., Soza ´nski, B.,
+and Wilmowska-Pietruszy ´nska, A. (2019). Association between handgrip
+strength, mobility, leg strength, ﬂexibility, and postural balance i n older
+adults under long-term care facilities. BioMed Res. Int. 2019:e1042834.
+doi: 10.1155/2019/1042834
+Witham, M. D., Chawner, M., De Biase, S., Oﬀord, N., Todd, O., Cle gg,
+A., et al. (2020). Content of exercise programmes targeting older peo ple
+with sarcopenia or frailty – ﬁndings from a UK survey. JFSF 5, 17–23.
+doi: 10.22540/JFSF-05-017
+Wyckelsma, V. L., Levinger, I., Murphy, R. M., Petersen, A. C., Pe rry, B. D.,
+Hedges, C. P., et al. (2017). Intense interval training in health y older adults
+increases skeletal muscle [ 3 H]ouabain-binding site content and elevates Na
++,K + -ATPase α 2 isoform abundance in Type II ﬁbers. Physiol. Rep. 5:e13219.
+doi: 10.14814/phy2.13219
+Yasar, Z., Elliott, B. T., Kyriakidou, Y., Nwokoma, C. T., Postlet hwaite, R.
+D., Gaﬀney, C. J., et al. (2021). Sprint interval training (SIT) re duces
+serum epidermal growth factor (EGF), but not other inﬂammatory
+cytokines in trained older men. Eur. J. Appl. Physiol . 121:1909–19.
+doi: 10.1007/s00421-021-04635-2
+Yee, X. S., Ng, Y. S., Allen, J. C., Latib, A., Tay, E. L., Abu Bakar , H. M., et al. (2021).
+Performance on sit-to-stand tests in relation to measures of funct ional ﬁtness
+and sarcopenia diagnosis in community-dwelling older adults. Eur Rev Aging
+Phys Activity 18:1. doi: 10.1186/s11556-020-00255-5
+Ziaaldini, M. M., Marzetti, E., Picca, A., and Murlasits, Z. (201 7). Biochemical
+pathways of sarcopenia and their modulation by physical exercise : a narrative
+review. Front Med . 4:167. doi: 10.3389/fmed.2017.00167
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Publisher’s Note:All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizat ions, or those of
+the publisher, the editors and the reviewers. Any product that may b e evaluated in
+this article, or claim that may be made by its manufacturer, is not gua ranteed or
+endorsed by the publisher.
+Copyright © 2021 Hayes, Elliott, Yasar, Bampouras, Sculthorpe, S anal-Hayes and
+Hurst. This is an open-access article distributed under the t erms of the Creative
+Commons Attribution License (CC BY). The use, distribution or reproduction in
+other forums is permitted, provided the original author(s) a nd the copyright owner(s)
+are credited and that the original publication in this journ al is cited, in accordance
+with accepted academic practice. No use, distribution or re production is permitted
+which does not comply with these terms.
+Frontiers in Physiology | www.frontiersin.org 20 August 2021 | Volume 12 | Article 715044

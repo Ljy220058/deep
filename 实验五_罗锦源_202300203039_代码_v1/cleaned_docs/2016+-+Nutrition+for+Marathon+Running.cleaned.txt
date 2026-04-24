@@ -1,0 +1,1010 @@
+Chapter 3
+Nutrition for Marathon Running
+Karsten Koehler
+Abstract Marathon runners can uniquely beneﬁt from nutritional strategies that
+support their training responses and/or maximize their performance during the actual
+race. Promising strategies during marathon training include the adequate provision
+of dietary energy, macronutrients (carbohydrates, protein), and selected micronu-
+trients (e.g., iron) to meet the increased requirements of prolonged distance running.
+Nutritional and training approaches aimed at increasing fat oxidation rates or
+facilitating weight loss may be associated with negative effects and should therefore
+be conducted with care. During the actual marathon race, runners can beneﬁt from
+carbohydrate loading strategies that serve to maximize pre-race muscle glycogen
+storage capacity. Consumption of carbohydrates, ﬂuid, and sodium can prevent
+preemptive fatigue due to nutrient depletion, and caffeine supplementation can
+provide ergogenic effects during prolonged running. Because the responses to these
+nutritional interventions can vary substantially among individuals and requireﬁne
+tuning depending on factors such as performance level, environmental conditions,
+designated running pace, propensity for gastrointestinal discomfort, and availability
+of aid stations during the race, marathon runners are highly encouraged to familiarize
+themselves with these strategies prior to utilizing them in a competitive setting.
+Keywords Aerobic performance
+/C1Sports nutrition/C1Muscle glycogen/C1Iron /C1Fat
+adaptation /C1Caffeine /C1Hydration
+3.1 Introduction
+Nutrition is a factor of paramount importance for marathon running. Adequate
+nutritional strategies can support the marathon runner in achieving their goals when
+training for marathon running as well as in maximizing their performance during
+K. Koehler (&)
+Department of Nutrition and Health Sciences, University of Nebraska-Lincoln,
+Lincoln, NE 68583, USA
+e-mail: kkoehler3@unl.edu
+© Springer International Publishing Switzerland 2016
+C. Zinner and B. Sperlich (eds.),Marathon Running: Physiology, Psychology,
+Nutrition and Training Aspects, DOI 10.1007/978-3-319-29728-6_3
+47
+the actual race (Burke et al.2007). It is beyond the scope of this chapter to address
+general nutritional guidelines for individuals who exercise, which are covered in
+detail elsewhere (Rodriguez et al.2009). The purpose of this chapter is to discuss
+and deﬁne speciﬁc nutritional requirements of the marathon runner and to identify
+nutritional strategies that have the potential to improve marathon performance.
+These include strategies to optimize the storage and utilization of energy substrates,
+the prevention of fatigue secondary to nutrient depletion, and minimization of
+gastrointestinal distress during prolonged running.
+Due to the high load of marathon training, runners uniquely bene ﬁt from
+strategies that allow them to sustain prolonged exercise at a vigorous pace and from
+interventions that maximize marathon-speciﬁc training adaptations (Stellingwerff
+2013). Nutritional strategies should be aligned with the goals, requirements, and
+characteristics of speciﬁc training periods and consequently may vary between
+general training, race-speciﬁc training, pre-race preparation periods, and speciﬁc
+training interventions practiced only by a few (elite) runners, such as altitude
+training or heat acclimatization (Stellingwerff2012; Burke et al.2007).
+Energy production during prolonged running is almost exclusively aerobic. The
+primary energy substrates utilized during marathon running are carbohydrates
+(CHO) originating from intramuscular glycogen stores and plasma glucose, which
+is maintained by liver glycogen as well ingested dietary CHO, and fatty acids
+originating from intramuscular triglycerides and plasma free fatty acids, which are
+mainly derived from adipose tissue (Spriet2007). However, the relative contribu-
+tion of these metabolic fuels is largely dependent the relative exercise intensity,
+which is deﬁned by the actual running pace as well as the runner’s training status:
+Recreational runners who complete the marathon distance in the range of 3.5 h or
+more exercise at intensities of 60–65 % of maximal oxygen uptake (VO
+2max),
+where fat oxidation can account for as much as 60 % of total energy production
+(Romijn et al.1993). The relative contribution of fatty acid oxidation is consider-
+able lower in faster recreational runners who exercise at intensities 70–75 % of
+VO
+2max, and elite marathon runners whoﬁnish a marathon in 2:20 (h:min) or less
+rely almost exclusively on CHO, as their intensity is between 80 and 90 % of
+VO
+2max (Spriet 2007; Stellingwerff 2013). Because CHO storage is limited, the
+depletion of muscle glycogen and plasma glucose can occur after as little as 90 min
+of running, which is associated with the onset of fatigue and the need to reduce the
+running pace (Rapoport2010; Jeukendrup2011). Therefore, various nutritional and
+training strategies that serve to maximize the muscle glycogen storage and mini-
+mize the utilization of muscle glycogen and liver-derived plasma glucose during
+marathon running are associated with performance beneﬁts (Jeukendrup 2011;
+Stellingwerff 2013).
+Another nutritional factor that can limit prolonged running performance during
+marathon training and competition is adequate hydration, particularly in environ-
+mental conditions that facilitate excessiveﬂuid losses (Maughan et al.2007). This
+chapter will provide a general overview of hydration strategies and discuss how
+these can be integrated with other nutritional goals.
+48 K. Koehler
+The cumulative mechanical impact of prolonged running on the gastrointestinal
+tract as well as the consumption of beverages and food while exercising is asso-
+ciated with an increased risk of gastrointestinal complications (Pfeiffer et al.2012).
+Nutritional strategies will be addressed that can help minimizing these complica-
+tions and consequently directly impact the well-being and performance of runners.
+3.2 Nutrition for Marathon Training
+During general marathon training, the optimal diet provides nutrients to ensure
+good overall health of the runner and to maximize the effects of marathon training.
+Appropriate nutrient timing before, during, or after a workout can help to reduce
+fatigue, enhance training adaptations and performance, and maximize recovery
+(Rodriguez et al. 2009). Nutrients that are of particular relevance for general
+marathon training include overall dietary energy, macronutrients, iron, vitamin C
+and other dietary antioxidants, and nutrients that modulate immune function.
+Recommendations for other nutrients, for which there is currently not sufﬁcient
+scientiﬁc evidence that they are speciﬁc to marathon running, can be found else-
+where (Rodriguez et al.2009).
+3.2.1 Energy, Body Weight, and Body Composition
+Endurance exercise, and particularly long distance running, is associated with a high
+energy cost (Loucks2007). The energy cost of distance running can be estimated at
+approximately 1 kcal (4.2 kJ) per km per kg body weight (1 kcal/kg/km or
+4.2 kJ/kg/km), or 1.6 kcal/kg/mile (6.7 kJ/kg/mile) (Maughan and Burke2002), so
+that even in recreational runners, energy requirements may be substantially higher
+than in the general populations. Considering that elite marathon runners may train as
+much as 150–280 km/week on 2–3 sessions per day (Burke et al.2007; Stellingwerff
+2013), it is not surprising that energy requirements of marathon runners are sig-
+niﬁcantly elevated when compared to their sedentary counterparts. For example,
+total energy expenditure increased on average by 30 % in sedentary individuals who
+underwent a 40-week training program while preparing for a half-marathon. As
+such, their physical activity level, which is deﬁned as the ratio of total energy
+expenditure to resting energy expenditure, increased from sedentary 1.6 to 2.1
+(Westerterp et al.1992). Even greater physical activity levels of 2.3 and higher have
+been measured in elite distance runners (Fudge et al.2006). It is generally recom-
+mended that athletes increase their caloric intake to account for the increased energy
+expenditure of exercise (Rodriguez et al.2009), but it should be considered that
+energy balance is not necessarily the goal of marathon training (Loucks2004, 2007).
+A low body weight and/or a low body fat percentage are beneﬁcial for marathon
+running, as they assist fast and economic running and facilitate heat dissipation
+3 Nutrition for Marathon Running 49
+(O’Connor et al.2007). Therefore, many marathon runners may intentionally limit
+their caloric intake to attain or maintain a low body weight and/or a low body fat
+percentage (Burke 2007). In fact, issues surrounding inadequate dietary energy
+intakes are particularly prevalent in marathon running and other endurance sports
+(Loucks 2004, 2007). Considerations speciﬁc for the female marathon runner, who is
+at an even greater risk of not meeting her energy requirements (Loucks2007), will be
+addressed elsewhere in this book, but there is increasing evidence that male
+endurance athletes are also at risk of energy deﬁciency (Hagmar et al. 2013).
+Negative health effects of chronic energy deﬁciency can include disrupted repro-
+ductive function, reduced bone strength and quality, and impaired cardiovascular
+health (Loucks et al.2011), and there is preliminary evidence that chronic energy
+deﬁciency may also be associated with suboptimal endurance exercise performance
+(Vanheest et al.2013). Therefore, marathon runners are advised to deﬁne realistic
+goals for their body weight and body composition, which should not interfere with
+other nutritional targets. Because appetite and voluntary food intake are not reliable
+markers of energy requirements, athletes may need to determine the increased
+energy cost of marathon training to adequately adjust their overall dietary energy
+intake (Loucks 2007). Observational as well as experimental data suggests that
+athletes should maintain their energy availability in the range of 30–45 kcal per kg
+fat-free mass (FFM) even when attempting to lose weight in order to prevent the
+suppression of metabolic and reproductive functions and to conserve bone health
+(Loucks 2007). Energy availability, which is deﬁned as the difference between daily
+caloric intake and the energy expended during exercise and describes the amount of
+dietary energy that is available for other metabolic functions after deducting the
+energy cost of exercise training, can be easily monitored by athletes and/or their
+coaches, as it requires only the assessment of total dietary energy intake, exercise
+expenditure, and the size of fat-free mass (Loucks2007).
+3.2.2 Substrate and Macronutrient Metabolism
+3.2.2.1 Carbohydrates
+Because of their high training load, it is a crucial ability for the marathon runner to
+quickly recover between subsequent training bouts. It is undisputed that a high dietary
+CHO intake can facilitate the restoration of muscle glycogen stores between repeated
+bouts of prolonged exercise as well as improve performance during subsequent
+exercise bouts (Costill and Miller1980; Fallowﬁeld and Williams1993). Current
+recommendations acknowledge that CHO requirements are increased during periods
+of high training load, even though most studies have failed to demonstrate that a high
+CHO intake during endurance training is associated with improved aerobic perfor-
+mance (Sherman et al.1993; Achten et al.2004). Nevertheless, current recommen-
+dations for long-distance running suggest a CHO intake of 5–7 g per kg body weight
+during periods of moderate training loads and a CHO intake of 7–12 g/kg during
+50 K. Koehler
+high-volume periods (Burke et al.2006; Jeukendrup2011). Because dietary energy
+intake may vary depending on energy balance and body weight goals, some athletes
+may need to increase their CHO intake substantially to reach these recommendations
+(Burke et al.2006; Loucks2007). This is particularly true for female athletes, whose
+habitual energy and CHO intakes are often lower when compared to their male
+counterparts (Tarnopolsky and Ruby2001). For athletes who attempt to lose weight,
+it may be beneﬁcial to periodize CHO and energy intakes over the course of a
+competitive season such that CHO and energy intakes are reduced during periods that
+emphasize body weight and body composition goals and, conversely, CHO and
+energy intakes are increased during training period that emphasize performance and
+recovery (Burke et al.2004).
+3.2.2.2 Fat Adaptation
+Strategies that are associated with an increased oxidation of fatty acids originating
+from plasma free fatty and/or intramuscular triglyceride stores will allow athletes to
+conserve crucial CHO stores during long-distance running (Spriet 2007).
+Well-controlled laboratory studies have shown that overall fat oxidation can
+increase by as much as 30 % after several days of endurance training on an iso-
+caloric diet with a low CHO (2.5 g/kg/d) and high fat content (4.6 g/kg/d) (Burke
+et al.2000). This drastic increase in fat oxidation is likely due to the upregulation of
+beta-oxidative pathways and muscle fatty acid transporters as well as elevated
+whole body-fat oxidation (Burke and Hawley2002). The increase in fat oxidation
+following several days of such a high-fat/low-CHO diet can be maintain even when
+athletes restore their muscle glycogen stores by consuming a high-CHO diet for
+24 h (Burke et al. 2002). However, studies have failed to demonstrate a clear
+performance beneﬁt of this strategy for trained individuals (Burke and Hawley
+2002). High-intensity performance capacity, which can be crucial during surges or
+sprints, appears to be compromised during high-fat/low-CHO diets secondary to a
+downregulation of glycolytic pathways during fat adaptation (Havemann et al.
+2006), and a low CHO intake has also been linked to an increased risk of injury or
+disease (Nimmo et al.2007), reduced well-being, and an impaired capacity to train
+(Burke et al.2004). Therefore, fat-adaptation strategies that involve multiple days
+of training on a high-fat/low-CHO diet are currently not recommended. However,
+many elite marathon runners periodically conduct single training sessions in a state
+of low CHO availability, which they achieve by exercising following an overnight
+fast or after deliberately not restoring CHO stores after workout earlier in the day
+(Stellingwerff 2013). These single training bouts on low CHO availability are
+considered physiologically and psychologically challenging and likely results in an
+improved capacity to oxidize fat without increasing the risk of side effects of
+prolonged fat adaptation strategies, such as delayed recovery, decreased training
+quality, immune stress, and impaired high-intensity exercise capacity. Elite mara-
+thon runners incorporate 1–5 training sessions with low CHO availability per week
+into their training regular training schedule, but it is recommended to gradually
+3 Nutrition for Marathon Running 51
+reduce the frequency of these low CHO availability training bouts during the
+preparatory training and taper periods prior to the marathon race (Stellingwerff
+2013).
+3.2.3 Protein Requirements
+For male endurance athletes, protein requirements can be as high as 1.6 g/kg, which
+is twice as high as requirements for the sedentary population. Protein requirements
+for female endurance athletes are about 10–20 % lower than in male athletes, i.e.
+1.3–1.45 g/kg (Tarnopolsky2004). The increased protein requirements in endur-
+ance athletes reﬂect increased levels of amino acid oxidation during prolonged
+aerobic exercise, which can account for as much as 5 % of the energy expenditure
+of exercise (Rennie et al.2006). Protein oxidation and requirements are particularly
+increased in the CHO-deﬁcient state, during high-intensity exercise, and in the
+calorie-restricted state (Tarnopolsky2004). In fact, increased protein during periods
+of calorie-restricted weight loss may be associated with a preservation of lean mass
+(Pasiakos et al.2013). In most endurance athletes, habitual dietary protein intake is
+in the range or exceeds these requirements, but some athletes may consume inad-
+equate protein from their diet, particularly those who chronically restrict caloric
+intake (Tarnopolsky 2004).
+The co-ingestion of protein and CHO following endurance exercise (<8 h) can
+enhance muscle resynthesis and stimulate muscle protein synthesis (Moore2015),
+and post-exercise consumption of a supplement providing both CHO and protein
+has been shown to result in improved endurance performance when compared to
+placebo (Roy et al.2002). There is no evidence that the ingestion of protein in
+addition to CHO during endurance exercise is beneﬁcial (Colombani et al.1999).
+3.2.4 Micronutrients
+3.2.4.1 Iron
+Iron is an integral component of the oxygen-carrying molecules hemoglobin and
+myoglobin and many cellular mechanisms. Reduced iron status is associated with
+impaired exercise capacity and performance (Zourdos et al.2015), and adequate
+iron stores may be particularly critical for adaptations to altitude training (Hawley
+and Spargo 2007). Due to potentially low dietary iron intake as well as increased
+iron requirements of endurance training, marathon runners and other endurance
+athletes are a group that is particular prone to suffer from suboptimal iron status
+(Zourdos et al.2015). In many endurance athletes, and particularly in female ath-
+letes, dietary iron intake is below the recommendations, and dietary iron intake may
+further be compromised by diets that provide only few sources of highly
+52 K. Koehler
+bioavailable heme iron, such as meat products, but include large amounts of
+nutrients that reduce intestinal iron absorption, such as tannins (e.g., in coffee or tea)
+or phytates (e.g., in legumes or grains).
+In addition, prolonged running is associated with increased iron requirements
+secondary to increased erythrocyte turnover and increased hemolysis and hemo-
+globinuiria, which can be caused by the destruction of erythrocytes in capillaries in
+the foot due to the prolonged repeated impacts of running (“foot strike hemolysis”).
+Other factors for increased iron requirements in endurance athletes include
+increased iron losses through gastrointestinal bleeding and sweating, as well as
+altered iron metabolism secondary to the exercise-induced upregulation of hepcidin,
+a protein involved in iron sequestration (Peeling et al.2008). The relative contri-
+bution of these factors in the pathophysiology of iron status abnormalities in
+endurance athletes remains poorly understood, but it is well documented that ath-
+letes are at increased risk of low iron status when compared to their sedentary
+counterparts. Whereas the prevalence of iron deﬁciency anemia, which presents the
+most severe form of iron status abnormalities characterized by hemoglobin con-
+centrations below the clinical range of 130 g/L in males and 120 g/L in female, is
+similar among athletes and general population, the prevalence of iron depletion,
+characterized by low iron storage, is signiﬁcantly increased in athletes. Among
+women the risk of low iron status is further elevated due to the iron loss of
+menstrual bleeding, and the prevalence of iron depletion in female athletes can be as
+high as 37 %, which is approximately 1.5 times greater than in sedentary women
+(Fogelholm 1995).
+For endurance athletes, it is typically recommended to monitor iron status at
+regular intervals of 1–2 times per year (Rodriguez et al.2009). Clinical measures of
+iron status (Table3.1) include makers of iron storage, such as ferritin, markers of
+cellular iron demand, such as soluble transferrin receptor (sTfR), and measures of
+oxygen transport capacity (hemoglobin, hematocrit). In athletes with
+iron-deﬁciency anemia, supplementation with 50–100 mg iron per day is typically
+associated with improvements in aerobic capacity (Zourdos et al.2015). In athletes
+with iron deﬁciency without anemia, which is typically deﬁned by serum ferritin
+concentrations below 12–15 µg/L, or iron depletion, deﬁned by ferritin concen-
+trations below 20–35 µg/L, iron supplementation may improve metabolic efﬁ-
+ciency, endurance capacity, and endurance performance (Zourdos et al. 2015);
+whereas, iron supplementation is not associated with performance bene ﬁts in
+athletes with adequate iron status, as indicated by serum ferritin above >35µg/L.
+A study among participants of the Zurich marathon revealed that 15 % of male
+runners demonstrated serum ferritin concentrations that were indicative of iron
+overload (Mettler and Zimmermann 2010). Because iron supplementation in
+individuals with adequate iron status can increase the risk of side effects, such as
+hematochromatosis and iron toxicity, it is critical to monitor iron status prior to
+supplementation (Zourdos et al. 2015). It is further noteworthy that nutritional
+interventions that increase dietary iron intake and enhance bioavailability of dietary
+iron appear at least equally effective in preventing exercise-induced reductions in
+iron status when compared to iron supplementation (Lyle et al.1992).
+3 Nutrition for Marathon Running 53
+3.2.4.2 Antioxidants
+The role of dietary antioxidants for marathon runners and other endurance athletes
+remains only poorly understood. It is well documented that due to their increased
+oxygen turnover, endurance athletes are exposed to greater levels of oxidative
+stress, and that supplementation of dietary antioxidants, primarily vitamin C and
+vitamin E, can attenuate measures of oxidative stress (Gomez-Cabrera et al.2015).
+However, recent evidence suggests that the generation of oxidative stress per se is
+not critical and in fact may trigger cellular mechanism that are required for optimal
+training responses to aerobic exercise training. Because supplementation of high
+doses of dietary antioxidants may have the capacity to attenuate the beneﬁcial
+effects of chronic exercise training (Gomez-Cabrera et al.2015; Braakhuis 2012),
+antioxidant supplementation is not recommended for marathon runners and other
+endurance athletes. However, consumption of antioxidants in the range of the
+recommended daily allowance from food sources should provide health beneﬁts
+without impairing training responses, and should be highly encouraged in athletes
+(Pingitore et al.2015; Braakhuis 2012).
+Table 3.1 Stages of Iron status abnormalities, their effects on marathon-related performance, and
+their prevalence in marathon runners
+Stage Clinical
+marker
+Performance and health effectsc Prevalence
+in marathon
+runnersd
+Low iron
+storage (iron
+depletion)
+Serum ferritin
+<20–35 µg/L
+c
+Unclear, but supplementation
+recommended
+Iron deﬁciency Serum ferritin
+<15 µg/Lb
+sTfR: log
+(serum
+ferritin) ≥4.5b
+Impaired marathon performance,
+immunosuppression, reduced bone
+strength; reversible by
+supplementation
+Women:
+28 %
+Men: 1.6 %
+Iron-deﬁciency
+anemia
+Hemoglobin
+<120 g/L
+(women)
+a
+Hemoglobin
+<130 g/L
+(men)
+a
+Impaired oxygen transport capacity,
+reduced aerobic capacity; reversible by
+supplementation
+Women:
+14 %
+Men: <1 %
+Iron overload Serum ferritin
+>150 µg/L
+(women)
+a
+Serum ferritin
+>200 µg/L
+(men)a
+Hemochromatosis, iron toxicity Women:
+4.7 %
+Men: 15 %
+aWorld Health Organization (2007)
+bSinclair and Hinton (2005)
+cZourdos et al. (2015)
+dMettler and Zimmermann (2010)
+54 K. Koehler
+3.2.5 Training of Race Strategies
+Particularly during later stages of marathon training, athletes are encouraged to
+incorporate race-speciﬁc strategies into their training regimen. Strategies that may
+warrant familiarization include CHO loading strategies as well as the consumption
+of CHO andﬂuid under race-like conditions. These strategies will be discussed in
+detail in the next section (Table3.2).
+Table 3.2 Recommended nutritional strategies during marathon training
+Nutrient/strategy Goal Recommended
+intake
+Comment
+Energy Weight stability: meet
+energy requirements
+Weight loss: energy
+deﬁcit, but prevent
+negative metabolic and
+health effects
+Energy
+Availability
+f:
+45 kcal/kg FFM/da
+Energy
+Availability:
+>30 kcal/kg
+FFM/d
+a
+Energy expenditure of
+running: *1 kcal/kg/km
+(1.6 kcal/kg/mile)
+Carbohydrates Meet CHO requirements Moderate training
+loads: 5–7 g/kg/db
+High training
+loads: 7–12 g/kgb
+Protein Meet protein
+requirements
+Men: 1.6 g/kgc
+Women: 1.3–
+1.45 g/kgc
+Sufﬁcient in most
+athletes
+Elevated during periods
+of energy deﬁcit
+Iron Prevent iron depletion
+and deﬁciency
+Men: 8 mg/d
+d
+Women (age ≤50):
+18 mg/dd
+Women (age >51):
+8 mg/d
+d
+Highly bioavailable iron
+(heme iron); facilitate
+iron absorption (vitamin
+C)
+Monitor iron status 1–2
+times/year
+Fat adaptation Single training sessions in
+low glycogen state
+1. Overnight fasted,
+exercise directly
+after waking, no
+food
+2. Limited CHO
+intake after ﬁrst
+session of the day
+Consume normal
+CHO following
+session
+e
+1–5 times per week,
+reduce frequency closer
+to raceaLoucks et al. (2011)
+bBurke (2007)
+cTarnopolsky (2004)
+dFood and Nutrition Board (2015)
+eStellingwerff (2012)
+fEnergy Availability = Dietary Energy Intake− Exercise Energy Expenditure
+3 Nutrition for Marathon Running 55
+3.3 Nutrition for the Marathon Race
+Nutritional strategies before and during the race that provide nutrients at the right
+time can help to delay the onset of fatigue. Because of the paramount importance of
+CHO as metabolic fuel for marathon running (Spriet 2007), interventions that
+maximize muscle glycogen stores prior to the race and approaches during the race
+that minimize the breakdown of muscle glycogen and liver-derived plasma glucose
+are the most promising strategies to improve marathon performance. Well-being
+and marathon performance can further be improve through the consumption ofﬂuid
+and minerals for the prevention of dehydration and the use of supplements with
+ergogenic effects.
+3.3.1 Carbohydrate Loading
+During running events with a distance of 30 km and greater, fatigue is typically
+caused by the depletion of muscle glycogen stores and/or hypoglycemia (Burke
+2007; Jeukendrup 2011), and is well established that fatigue can be delayed sub-
+stantially when muscle glycogen stores are increased (Rapoport 2010). Even
+though to this date noﬁeld studies have explicitly been conducted over the full
+marathon distance, it is unequivocally accepted that marathon runners uniquely
+beneﬁt from maximized muscle glycogen storage (Burke2007). Studies conducted
+in the 1960s and 1970s established a classical model of muscle glycogen super-
+compensation, according to which a 3- or 4-day phase of prolonged exercise with a
+very low dietary CHO intake (≤15 % of dietary energy from CHO), which served
+to fully deplete muscle glycogen stores, followed by a 3–4 day loading phase with
+minimal exercise and very a high CHO intake (≥70 % of dietary energy from
+CHO), doubled muscle glycogen stores (Karlsson and Saltin1971). As such, this
+strategy allowed runners to maintain their designated pace for a longer duration and
+improved 30-km running performance (Karlsson and Saltin1971; Williams et al.
+1992). However, these early studies also revealed potential side effects associated
+with glycogen supercompensation strategies, which included fatigue and difﬁculties
+to maintain the high training load required to fully deplete muscle glycogen as well
+as gastrointestinal distress secondary to the drastic change in dietary CHO intake
+between the depletion and loading phase (Burke2007). Follow-up studies showed
+that a similar increase in muscle glycogen could be attained when the CHO intake
+during the initial depletion phase was maintained at normal levels (50 %) while
+runners exercised to deplete their muscle glycogen stores (Sherman et al.1981).
+Recent experiments have shown that as little as 24 h of carbohydrate loading are
+sufﬁcient to maximize muscle glycogen storage when athletes consume a diet with
+very high CHO content of 10 g/kg or more (Sedlock2008). Most but not all data
+further suggest that slightly higher muscle glycogen levels can be attained when
+CHO loading occurs after the depletion of glycogen stores through prolonged
+56 K. Koehler
+low-intensity or short, high-intensity exercise due to increased rates of glucose
+transport and glycogen synthesis in the glycogen-depleted state. Elevated muscle
+glycogen levels can be maintained for 3–5 days when refraining from prolonged
+exercise (Sedlock 2008).
+Even though several carbohydrate loading strategies exist, all seem to result in a
+similar increase in muscle glycogen storage, which is unarguably effective in
+improving the ability to sustain prolonged endurance exercise (Jeukendrup2011).
+For endurance events lasting 90 min or longer, successful CHO loading can
+improve performance by as much as 2–3 % (Jeukendrup 2011), even though
+individual performance effects may vary substantially among individuals (Sedlock
+2008).
+The amount of CHO consumed during CHO loading is crucial for the success of
+CHO loading and should be in the range of 10–12 g/kg/day; whereas the type and
+source of dietary CHO do not seem to impact the capacity to store muscle glycogen
+(Sedlock 2008). Nevertheless, foods with a high CHO content may be required for
+athletes to consume the recommended amounts of CHO, and foods with a high
+glycemic index have been utilized in situations when the time for CHO loading is
+limited (Sedlock 2008). Despite earlier reports, it has been shown that female
+athletes exhibit a similar capacity to increase their muscle glycogen stores when
+compared to their male counterparts. However dietary intake must be adjusted to
+meet the CHO and energy needs of CHO loading, which may require female
+athletes, whose energy and CHO intake is habitually lower than that of male
+athletes, to drastically increase their dietary intake (Tarnopolsky and Ruby2001).
+Studies of dietary practices of marathon runners suggest that even though most
+athletes self-report the consumption of a high CHO diet prior to a race, actual
+pre-race CHO intake may be substantially lower than recommended. Thisﬁnding
+has been attributed to nutritional naivety as well as conscious attempts to avoid
+CHO-rich foods (Burke and Read1987).
+Because glycogen storage is associated with water retention, maximized CHO
+storage is typically associated with a weight gain of typically 1–2 kg (Jeukendrup
+2011). For most athletes, the beneﬁts of increased muscle glycogen storage will
+outweigh side effects, but some athletes may be opposed to gaining weight.
+Because most CHO loading strategies require substantial changes in the diet and as
+such can be associated with gastrointestinal distress, athletes should be encouraged
+to include their preferred CHO loading strategies into their training regimen as to
+test them prior to the actual marathon race.
+3.3.1.1 Pre-race Diet
+During theﬁnal hours before a marathon, athletes should consume primarily easily
+digestible foods in order to minimize the stress on the digestive system. Theories that
+the ingestion of CHO shortly before exercise could be associated with performance
+detriments secondary to insulin-induced hypoglycemia and subsequent performance
+detriments are not only unfounded (Jeukendrup2011). In fact, CHO ingestion as
+3 Nutrition for Marathon Running 57
+close as 5–15 min prior to exercising has been shown to evoke similar beneﬁcial
+metabolic effects as the ingestion of CHO during exercise (Jeukendrup2011).
+3.3.2 Maintaining High Rates of CHO Oxidation During
+the Marathon
+The beneﬁcial effects of CHO ingestion during prolonged running have been
+known since the 1920s. CHO can improve performance during prolonged running
+through central effects as well as metabolic effects, which include the preservation
+of muscle glycogen, the provision of additional fuels, and the prevention of
+hypoglycemia (Tsintzas and Williams 1998; Carter et al. 2004; Millard-Stafford
+et al. 1997; Tsintzas et al.1996). The effects of CHO ingestion on aerobic per-
+formance are dose-dependent, and performance beneﬁts are maximized at CHO
+intake rates of 60–80 g/h (Stellingwerff 2013; Jeukendrup 2011). However, the
+utilization of exogenous CHO as metabolic fuel is limited by the ability to absorb
+CHO in the small intestine, and marathon runners should carefully choose CHO
+sources that allow them to maximize the potential of CHO ingestion. When CHO
+are consumed from a single source, such as glucose or glucose polymers (e.g.
+maltodextrin), exogenous CHO oxidation is limited by the saturation of intestinal
+glucose transporters (SGLT-1), which occurs at around 60 g/h during exercise
+(Baker and Jeukendrup2014). However, the addition of fructose, which is absorbed
+using alternate intestinal transporters (GLUT-1), can increase exogenous CHO
+oxidation to approximately 90 g/h (Baker and Jeukendrup2014). Because high
+CHO oxidation rates have been reported following the administration ofﬂuids, bars,
+and gels (Jeukendrup 2011), it seems likely that exogenous CHO oxidation is
+independent of the form of CHO administration. Limitations in intestinal CHO
+absorption and oxidation appear to be independent of body size. Consequently, the
+beneﬁts of CHO supplementation may be even greater in smaller and lighter
+marathon runners, who are may be able to oxidize similar amounts of exogenous
+CHO when compared bigger and heavier athletes (Stellingwerff2013). On the other
+hand, slower runners, in whom CHO oxidation is lower due to the lower rate of
+energy expenditure as well as a lower contribution of CHO oxidation to total energy
+expenditure, may not require as much as 60–90 g/h of exogenous CHO while
+running a marathon. Athletes are strongly encouraged to adjust their CHO intake
+strategies to match CHO oxidation rates at their designated race pace.
+3.3.3 Hydration
+Depending on environmental conditions, hydration can become a performance-
+limiting factor during marathon running. Documentedﬂuid loss during marathon
+running and similar distance running events is typically in the range of 0.7–1.8 L/h,
+58 K. Koehler
+but may be as high as 3.7 L/h in some individuals (Cheuvront and Haymes2001).
+Athletes are generally advised to start exercising in a euhydrated state, which can be
+achieved through ingesting sufﬁcient ﬂuid (5–7 mL/kg) approximately 4 h before
+competition and subsequent monitoring of the urinary response (Sawka et al.2007).
+While exercising, it is recommended to consume adequateﬂuid in order to maintain
+the level of dehydration below 2 % of body weight (Sawka et al.2007; Maughan
+and Shirreffs 2008). If dehydration is expected to be greater due to severe envi-
+ronmental conditions and/or limited ﬂuid availability during the race, hyperhy-
+dration strategies may be warranted. Hyperhydration can be achieved through
+consumption of excessﬂuid and the addition of sodium to retainﬂuid and prevent
+increased urination (Shirreffs et al.2004). Athletes are strongly advised to refrain
+from prohibited hyperhydrating substances, such as glycerol (World Anti-Doping
+Agency 2015). Even though endurance performance capacity can be negatively
+impacted by dehydration by as little as 2 % of body weight, it has been repeatedly
+reported that faster marathon runners tend to consume lessﬂuid and attain greater
+levels of dehydration when compared to slower runners (Zouhal et al. 2011).
+However, it remains unclear if these ﬁndings suggest that mild dehydration is
+associated with a performance beneﬁt or that faster and better-trained runners have
+a greater tolerance for dehydration. Because ﬂuid losses can vary considerable
+among individuals and are strongly dependent on both individual and environ-
+mental factors, athletes are advised to determine their individualﬂuid loss, and
+consequently their requirements, under race-like conditions. Exercise-associated
+ﬂuid losses can easily be determined by assessing changes in body weight over the
+course of an exercise bout (Sawka et al.2007).
+Over-consumption of ﬂuid may result in dilutional hyponatremia, which is
+associated with moderate side effects, such as confusion, weakness, and fainting
+(plasma Na
++ <130 mmol/L), and severe side effects, including seizures, coma, and
+death (plasma Na+ <126 mmol/L). In most marathon runners, hyponatremia is
+asymptomatic, but it can become severe in a small proportion of athletes (Kipps
+et al. 2011), and has been linked to several fatalities during marathon races.
+Hyponatremia can be prevented by avoiding excessiveﬂuid intake and by atten-
+uating sodium depletion in runners who excrete salty sweat (Montain et al.2006),
+which can be reached through sodium consumption of approximately 450 mg/h
+from sports beverages or the addition of salt to water and other beverages
+(Murray 2007).
+3.3.4 Gastrointestinal Distress
+Between 10 and 95 % of marathon runners experience gastrointestinal distress
+during prolonged running (Jeukendrup 2011). Most runners report only mild
+symptoms, such as nausea and dizziness, but more severe complications such as
+stomach and intestinal cramps, vomiting, and diarrhea, may occur in a small pro-
+portion of runners and can impair marathon performance substantially (Pfeiffer
+3 Nutrition for Marathon Running 59
+et al.2012). Gastrointestinal distress occurs more frequently during running when
+compared to other endurance exercise modes and its incidence increases with
+exercise duration (Peters et al. 1999). Dietary factors that have been linked to
+gastrointestinal distress include the consumption of highly concentrated sports
+drinks and particularly highly concentrated CHO and/or large amounts of CHO that
+may exceed the intestinal CHO absorption capacity (Sareban et al.2015; Pfeiffer
+et al.2009; Rehrer et al.1992). Because the gastrointestinal CHO tolerance varies
+considerably among individuals and may adapt to chronically high CHO exposure,
+marathon runners are encouraged to determine their individual tolerable rate of
+CHO consumption (Jeukendrup 2011). Other dietary risk factors associated with
+gastrointestinal distress include the consumption of fat, ﬁber, or protein while
+exercising (Peters et al.1999). Because none of these nutrients are essential for
+marathon running, athletes should be discouraged from products that contain sig-
+niﬁcant amounts of fat,ﬁbers, or protein during the race. There is limited evidence
+that gastrointestinal distress could be linked to insufﬁcient ﬂuid consumption and
+dehydration during prolonged running (Stuempﬂe et al.2013), so thatﬂuid con-
+sumption, particularly early during the race, may reduce the risk of gastrointestinal
+distress. Vitamin E has been linked to the prevention of intestinal ischemia during
+prolonged exercise (Buchman et al.1999), but there is no evidence that vitamin E
+supplementation could reduce gastrointestinal distress during marathon running.
+3.3.5 Supplements
+Despite an ever-growing market for sport supplements, compelling scientiﬁc evi-
+dence for an ergogenic effect exists for only a few substances. Caffeine, when
+consumed at doses of 3–6 mg/kg, improves aerobic endurance performance (Burke
+2008) so that caffeine can have ergogenic effects for marathon runners. Caffeine has
+a half-life of 3–5 h and should be consumed approximately 1 h prior to the race.
+Slower runners may beneﬁt from additional caffeine consumption (1 mg/kg) after
+approximately 2 h into the race. Even when caffeine is consumed at later stages
+during the race, performance beneﬁts are still likely to occur (Burke2008). Side
+effects of caffeine exist and include insomnia, tachycardia, headache, and nausea.
+The effects of caffeine on exercise performance are not altered by habituation or
+withdrawal (Van Soeren and Graham1998), and the use of caffeine is currently not
+banned by the World Anti-Doping Agency (2015).
+A novel group of supplements that may be of interest for marathon runners are
+dietary sources of nitrates, which can increase metabolic efﬁciency during sub-
+maximal exercise via generation of nitric oxide. As such, acute supplementation of
+nitrate or consumption of nitrate-rich beetroot juice of can reduce oxygen demand
+and increase running economy during prolonged exercise (Barnes and Kilding
+2015). However, it remains to be determined whether these effects translated into
+meaningful improvements in aerobic performance, and consequently, in marathon
+performance (Table 3.3).
+60 K. Koehler
+3.3.6 Practical Recommendations
+During the marathon race, athletes typically have access to aid stations, whereﬂuid
+(e.g., water and sports drinks) and food (e.g. bars, gels, and bananas) are provided.
+Based on availability, preference, and needs, some athletes may consider carrying
+small amounts of food and/orﬂuid in pockets or attached to belts. Elite runners
+typically have access to reserved aid stations so that they can consume customized
+drinks and foods during the race without having to carry these items.
+The use of sport drinks is beneﬁcial because they provideﬂuid as well as CHO
+and electrolytes, which both facilitateﬂuid uptake. The CHO concentration of a
+drink can be tailored such that bothﬂuid and CHO requirements are met. CHO
+concentrations should be in the range of 4–8 % (40–80 g per L) in order to avoid
+delayed gastric emptying as well as gastrointestinal complications, both factors that
+are more likely to occur when CHO concentrations exceed 8 % (80 g per L) (Baker
+and Jeukendrup 2014). If needed, additional CHO can be supplied through sport
+Table 3.3 Recommended nutritional strategies for race preparation and during the marathon race
+Nutrient/Strategy Goal Recommended
+intake
+Comment
+Race preparation
+Carbohydrate
+loading
+Maximize
+intramuscular
+glycogen
+stores
+10–12 g/kg/d,
+1–3 d prior to
+race
+a
+High glycemic
+index if limited
+to 1 db
+Exercise to deplete glycogen stores
+prior to loading may increase
+effects; Little or no exercise during
+loading
+Hydration Begin race in
+euhydrated
+state
+5–7 mL/kg, 4 h
+prior to
+exercise
+c
+Test urine response
+Caffeine Ergogenic
+effects
+3–6 mg/kg, 1 h
+prior to raced
+Side effects possible
+During the race
+Carbohydrates Maximize
+exogenous
+CHO
+oxidation
+60–90 g/h
+e For >60 g/h: multiple CHO sources
+(e.g. glucose + fructose (2:1))
+Hydration Maintain
+dehydration
+<2 %
+Fluid intake
+should match
+sweat loss
+Considerable individual variation,
+dependent on environmental
+conditions
+Sodium Prevent
+hyponatremia
+450 mg/h
+f
+aBurke et al. (2007)
+bSedlock (2008)
+cSawka et al. (2007)
+dBurke (2008)
+eBaker and Jeukendrup (2014)
+fMurray (2007)
+3 Nutrition for Marathon Running 61
+gels, sport bars, or confectionary. Athletes are highly encouraged to incorporate
+their individual race strategies in their marathon training in order to familiarize
+themselves with the strategies and reﬁne and adjust them based on individual needs
+and preference.
+It is well documented that most athletes consume notably less CHO andﬂuid
+than recommended while competing in long-distance running events. Further,
+habitual CHO intake is typically lower during running when compared to other
+endurance events (Pfeiffer et al.2012). Factors that may be associated with the
+limited ad libitum intake of CHO andﬂuid include individual habits, nutritional
+beliefs and practices, difﬁculties to consume large amounts ofﬂuid while running,
+the need to slow down at aid stations, and the emergence of sport gels, which allow
+runners to consume CHO with lessﬂuid.
+3.4 Nutrition After the Marathon
+Only very limited research is available how nutritional strategies may affect the
+recovery from marathon running. The main nutritional goals after marathon com-
+pletion involve facilitation of the recovery ofﬂuid and glycogen stores and pro-
+viding nutrients to support recovery and repair mechanisms and immune function.
+Depending on the level of dehydration attained during the race, adequate
+rehydration may be the most signiﬁcant nutritional strategy following marathon
+running. The goal of rehydration is to regainﬂuid balance, and the effectiveness of
+rehydration is dependent on the amount ofﬂuid consumed as well as the electrolyte
+content, primarily that of sodium. Effective rehydration can only be attained if the
+amount ofﬂuid consumed covers both theﬂuid loss that occurred during the race
+(mainly in form of sweat) and additionalﬂuid losses that occur in response to
+ingesting ﬂuid (primarily in form of urine). As such, it is recommended to consume
+at least 1.5 times theﬂuid volume that was lost during exercise (Maughan et al.
+1997). A higher sodium concentration will replace sodium sweat losses and retain
+ﬂuid by reducing urinary output. Therefore, a sodium concentration of 50 –
+60 mmol/L (1.1–1.4 g/L) is considered beneﬁcial with regards to the effectiveness
+of rehydration when compared to a lower sodium concentration (20–25 mmol/L;
+0.5–0.6 g/L) (Maughan et al.1997).
+Repletion of muscle glycogen stores typically occurs within 24–48 h when
+adequate CHO (7–10 g/kg) are consumed (Burke et al.2004). Because glycogen
+synthesis is impaired in damaged muscleﬁbers (Costill et al.1988), more CHO may
+be needed to restore muscle glycogen levels. However, in contrast to other events
+where athletes may have to compete again shortly after the race, fast glycogen
+repletion recovery should not be a high priority for marathon runners (Burke et al.
+2004). Co-ingestion of protein along with may be beneﬁcial for glycogen resyn-
+thesis and may provide additional amino acids for post-exercise protein synthesis.
+However, it remains unknown if these strategies actually translate into improved
+recovery and/or improved performance during subsequent marathon races.
+62 K. Koehler
+Marathon running and other prolonged endurance exercise is associated with an
+increased risk of upper respiratory tract infections (URTI). Even though the patho-
+physiology of URTI is not fully understood, it has been hypothesized that prolonged
+heavy exertion is associated with an acute suppression of immune function
+(Akerström and Pedersen2007). Whereas results from a meta-analysis suggest that
+supplementation of vitamin C may be associated with a reduction in infection rates in
+populations who are exposed to severe exercise (Akerström and Pedersen2007),
+prospective studies have failed to demonstrate the capacity of vitamin C supple-
+mentation to attenuate the immune response to prolonged running (Peters et al.
+2001). Supplementation of glutamine, an amino acid that is essential for lymphocyte
+proliferation, has been associated with reduced infection rates following marathon
+and ultramarathon running in one study (Castell and Newsholme1997). However,
+subsequent trials have failed to conﬁrm these effects. For other supplements,
+including colostrum, which contains bovine immunoglobulins, there is no scientiﬁc
+evidence the infection risk following prolonged exerting exercise such as marathon
+running can be reduced by supplementation (Akerström and Pedersen2007).
+Alcohol consumption following strenuous exercise may impair muscle glycogen
+synthesis and can negatively impact the post-exercise inﬂammatory response. More
+importantly, alcohol consumption may interfere with other recovery strategies
+(Vella and Cameron-Smith 2010). Therefore, athletes are encouraged to refrain
+from excessive alcohol consumption following the race and focus their attention on
+nutritional and hydration strategies that are effective in supporting post-marathon
+recovery.
+3.5 Summary
+Promising nutritional strategies that can be beneﬁcial for marathon runners include
+provision of adequate energy, carbohydrates, and protein, to address the increased
+nutrient requirements of marathon training. Prolonged training in a state of low
+carbohydrate or energy availability can be associated with negative health and
+performance effects and should therefore be avoided by marathon runners. Both
+nutritional and exercise-related factors explain why marathon runners are at par-
+ticular risk of inadequate iron status. The importance of carbohydrates for marathon
+performance is highlighted by the fact that pre-race strategies aimed at maximizing
+muscle glycogen storage as well as the administration of additional carbohydrates
+during the race are highly likely to improve marathon performance. Adequate
+provision of ﬂuid and sodium is particularly important in conditions when dehy-
+dration and/or sodium losses may limit performance or impact health negatively.
+Among the many supplements available for marathon runners, clear scientiﬁc
+evidence for a performance beneﬁt is only available for caffeine. Incorporating
+these strategies into their training routine will allow marathon runners to become
+familiarized with these strategies and test their individual responsiveness prior to
+the actual race.
+3 Nutrition for Marathon Running 63
+References
+Achten J, Halson SL, Moseley L, Rayson MP, Casey A, Jeukendrup AE (2004) Higher dietary
+carbohydrate content during intensiﬁed running training results in better maintenance of
+performance and mood state. J Appl Physiol 96:1331–1340 (1985)
+Akerström TC, Pedersen BK (2007) Strategies to enhance immune function for marathon runners:
+what can be done? Sports Med 37:416–419
+Baker LB, Jeukendrup AE (2014) Optimal composition ofﬂuid-replacement beverages. Compr
+Physiol 4:575–620
+Barnes KR, Kilding AE (2015) Strategies to improve running economy. Sports Med 45:37–56
+Braakhuis AJ (2012) Effect of vitamin C supplements on physical performance. Curr Sports Med
+Rep 11:180–184
+Buchman AL, Killip D, Ou CN, Rognerud CL, Pownall H, Dennis K, Dunn JK (1999) Short-term
+vitamin E supplementation before marathon running: a placebo-controlled trial. Nutrition
+15:278–283
+Burke LM (2007) Nutrition strategies for the marathon: fuel for training and racing. Sports Med
+37:344–347
+Burke LM (2008) Caffeine and sports performance. Appl Physiol Nutr Metab 33:1319–1334
+Burke LM, Angus DJ, Cox GR, Cummings NK, Febbraio MA, Gawthorn K, Hawley JA,
+Minehan M, Martin DT, Hargreaves M (2000) Effect of fat adaptation and carbohydrate
+restoration on metabolism and performance during prolonged cycling. J Appl Physiol 89:2413–
+2421 (1985)
+Burke LM, Hawley JA (2002) Effects of short-term fat adaptation on metabolism and performance
+of prolonged exercise. Med Sci Sports Exerc 34:1492–1498
+Burke LM, Hawley JA, Angus DJ, Cox GR, Clark SA, Cummings NK, Desbrow B, Hargreaves M
+(2002) Adaptations to short-term high-fat diet persist during exercise despite high carbohydrate
+availability. Med Sci Sports Exerc 34:83–91
+Burke LM, Kiens B, Ivy JL (2004) Carbohydrates and fat for training and recovery. J Sports Sci
+22:15–30
+Burke LM, Loucks AB, Broad N (2006) Energy and carbohydrate for training and recovery.
+J Sports Sci 24:675–685
+Burke LM, Millet G, Tarnopolsky MA, International Association of Athletics Federations (2007)
+Nutrition for distance events. J Sports Sci 25(Suppl 1):S29–S38
+Burke LM, Read RS (1987) A study of carbohydrate loading techniques used by marathon
+runners. Can J Sport Sci 12:6–10
+Carter JM, Jeukendrup AE, Jones DA (2004) The effect of carbohydrate mouth rinse on 1-h cycle
+time trial performance. Med Sci Sports Exerc 36:2107–2111
+Castell LM, Newsholme EA (1997) The effects of oral glutamine supplementation on athletes after
+prolonged, exhaustive exercise. Nutrition 13:738–742
+Cheuvront SN, Haymes EM (2001) Thermoregulation and marathon running: biological and
+environmental inﬂuences. Sports Med 31:743–762
+Colombani PC, Kovacs E, Frey-Rindova P, Frey W, Langhans W, Arnold M, Wenk C (1999)
+Metabolic effects of a protein-supplemented carbohydrate drink in marathon runners. Int J
+Sport Nutr 9:181–201
+Costill DL, Miller J (1980) Nutrition for endurance sport: carbohydrate andﬂuid balance. Int J
+Sports Med 1:2–14
+Costill DL, Pearson DR, Fink WJ (1988) Impaired muscle glycogen storage after muscle biopsy.
+J Appl Physiol 64:2245–2248 (1985)
+Fallowﬁeld JL, Williams C (1993) Carbohydrate intake and recovery from prolonged exercise.
+Int J Sport Nutr 3:150–
+164
+Fogelholm M (1995) Indicators of vitamin and mineral status in athletes’ blood: a review. Int J
+Sport Nutr 5:267–284
+64 K. Koehler
+Food and Nutrition Board, IOM, National Academies (2015) Dietary reference intakes (DRIs):
+recommended dietary allowances and adequate intakes, elements (Online). Available:http://
+www.nal.usda.gov/fnic/DRI/DRI_Tables/recommended_intakes_individuals.pdf. Accessed
+November 2015
+Fudge BW, Westerterp KR, Kiplamai FK, Onywera VO, Boit MK, Kayser B, Pitsiladis YP (2006)
+Evidence of negative energy balance using doubly labelled water in elite Kenyan endurance
+runners prior to competition. Br J Nutr 95:59–66
+Gomez-Cabrera MC, Salvador-Pascual A, Cabo H, Ferrando B, Viña J (2015) Redox modulation
+of mitochondriogenesis in exercise. Does antioxidant supplementation blunt the beneﬁts of
+exercise training? Free Radic Biol Med 86:37–46
+Hagmar M, Berglund B, Brismar K, Hirschberg AL (2013) Body composition and endocrine
+proﬁle of male olympic athletes striving for leanness. Clin J Sport Med: Ofﬁcial J Can Acad
+Sport Med 23:197–201
+Havemann L, West SJ, Goedecke JH, Macdonald IA, St Clair Gibson A, Noakes TD, Lambert EV
+(2006) Fat adaptation followed by carbohydrate loading compromises high-intensity sprint
+performance. J Appl Physiol 100:194–202 (1985)
+Hawley JA, Spargo FJ (2007) Metabolic adaptations to marathon training and racing. Sports Med
+37:328–331
+Jeukendrup AE (2011) Nutrition for endurance sports: marathon, triathlon, and road cycling.
+J Sports Sci 29(Suppl 1):S91–S99
+Karlsson J, Saltin B (1971) Diet, muscle glycogen, and endurance performance. J Appl Physiol
+31:203–206
+Kipps C, Sharma S, Pedoe DT (2011) The incidence of exercise-associated hyponatraemia in the
+London marathon. Br J Sports Med 45:14–19
+Loucks AB (2004) Energy balance and body composition in sports and exercise. J Sports Sci
+22:1–14
+Loucks AB (2007) Low energy availability in the marathon and other endurance sports. Sports
+Med 37:348–352
+Loucks AB, Kiens B, Wright HH (2011) Energy availability in athletes. J Sports Sci 29(Suppl 1):
+S7–S15
+Lyle RM, Weaver CM, Sedlock DA, Rajaram S, Martin B, Melby CL (1992) Iron status in
+exercising women: the effect of oral iron therapy vs increased consumption of muscle foods.
+Am J Clin Nutr 56:1049–1055
+Maughan RJ, Burke L (2002) Sports nutrition. Blackwell Science, Malden
+Maughan RJ, Leiper JB, Shirreffs SM (1997) Factors inﬂuencing the restoration of ﬂuid and
+electrolyte balance after exercise in the heat. Br J Sports Med 31:175–182
+Maughan RJ, Shirreffs SM (2008) Development of individual hydration strategies for athletes. Int J
+Sport Nutr Exerc Metab 18:457–472
+Maughan RJ, Watson P, Shirreffs SM (2007) Heat and cold: what does the environment do to the
+marathon runner? Sports Med 37:396–399
+Mettler S, Zimmermann MB (2010) Iron excess in recreational marathon runners. Eur J Clin Nutr
+64:490–494
+Millard-Stafford M, Rosskopf LB, Snow TK, Hinson BT (1997) Water versus
+carbohydrate-electrolyte ingestion before and during a 15-km run in the heat. Int J Sport
+Nutr 7:26–38
+Montain SJ, Cheuvront SN, Sawka MN (2006) Exercise associated hyponatraemia: quantitative
+analysis to understand the aetiology. Br J Sports Med 40:98–105 (discussion 98–105)
+Moore DR (2015) Nutrition to support recovery from endurance exercise: optimal carbohydrate
+and protein replacement. Curr Sports Med Rep 14:294–
+300
+Murray B (2007) The role of salt and glucose replacement drinks in the marathon. Sports Med
+37:358–360
+Nimmo MA, Ekblom B (2007) Fatigue and illness in athletes. J Sports Sci 25(Suppl 1):S93–S102
+O’Connor H, Olds T, Maughan RJ (2007) Physique and performance for track andﬁeld events.
+J Sports Sci 25(Suppl 1):S49–S60
+3 Nutrition for Marathon Running 65
+Pasiakos SM, Cao JJ, Margolis LM, Sauter ER, Whigham LD, McClung JP, Rood JC,
+Carbone JW, Combs GF, Young AJ (2013) Effects of high-protein diets on fat-free mass and
+muscle protein synthesis following weight loss: a randomized controlled trial. FASEB J
+27:3837–3847
+Peeling P, Dawson B, Goodman C, Landers G, Trinder D (2008) Athletic induced iron deﬁciency:
+new insights into the role of inﬂammation, cytokines and hormones. Eur J Appl Physiol
+103:381–391
+Peters EM, Anderson R, Nieman DC, Fickl H, Jogessar V (2001) Vitamin C supplementation
+attenuates the increases in circulating cortisol, adrenaline and anti-inﬂammatory polypeptides
+following ultramarathon running. Int J Sports Med 22:537–543
+Peters HP, Bos M, Seebregts L, Akkermans LM, Van Berge Henegouwen GP, BOL E,
+Mosterd WL, De Vries WR (1999) Gastrointestinal symptoms in long-distance runners,
+cyclists, and triathletes: prevalence, medication, and etiology. Am J Gastroenterol
+94:1570–1581
+Pfeiffer B, Cotterill A, Grathwohl D, Stellingwerff T, Jeukendrup AE (2009) The effect of
+carbohydrate gels on gastrointestinal tolerance during a 16-km run. Int J Sport Nutr Exerc
+Metab 19:485–503
+Pfeiffer B, Stellingwerff T, Hodgson AB, Randell R, Pöttgen K, Res P, Jeukendrup AE (2012)
+Nutritional intake and gastrointestinal problems during competitive endurance events. Med Sci
+Sports Exerc 44:344–351
+Pingitore A, Lima GP, Mastorci F, Quinones A, Iervasi G, Vassalle C (2015) Exercise and
+oxidative stress: potential effects of antioxidant dietary strategies in sports. Nutrition
+31:916–922
+Rapoport BI (2010) Metabolic factors limiting performance in marathon runners. PLoS Comput
+Biol 6:e1000960
+Rehrer NJ, van Kemenade M, Meester W, Brouns F, Saris WH (1992) Gastrointestinal complaints
+in relation to dietary intake in triathletes. Int J Sport Nutr 2:48–59
+Rennie MJ, Bohé J, Smith K, Wackerhage H, Greenhaff P (2006) Branched-chain amino acids as
+fuels and anabolic signals in human muscle. J Nutr 136:264S–268S
+Rodriguez NR, di Marco NM, Langley S (2009) American college of sports medicine position
+stand. Nutrition and athletic performance. Med Sci Sports Exerc 41:709–731
+Romijn JA, Coyle EF, Sidossis LS, Gastaldelli A, Horowitz JF, Endert E, Wolfe RR (1993)
+Regulation of endogenous fat and carbohydrate metabolism in relation to exercise intensity and
+duration. Am J Physiol 265:E380–E391
+Roy BD, Luttmer K, Bosman MJ, Tarnopolsky MA (2002) The inﬂuence of post-exercise
+macronutrient intake on energy balance and protein metabolism in active females participating
+in endurance training. Int J Sport Nutr Exerc Metab 12:172–188
+Sareban M, Zügel D, Koehler K, Hartveg P, Zügel M, Schumann U, Steinacker JM, Treff G (2015)
+Carbohydrate Intake in form of gel is associated with increased gastrointestinal distress but not
+with performance differences when compared to liquid carbohydrate ingestion during
+simulated long-distance triathlon. Int J Sport Nutr Exerc Metab
+Sawka MN, Burke LM, Eichner ER, Maughan RJ, Montain SJ, Stachenfeld NS (2007) American
+College of Sports Medicine position stand. Exercise andﬂuid replacement. Med Sci Sports
+Exerc 39:377–390
+Sedlock DA (2008) The latest on carbohydrate loading: a practical approach. Curr Sports Med Rep
+7:209–213
+Sherman WM, Costill DL, Fink WJ, Miller JM (1981) Effect of exercise-diet manipulation on
+muscle glycogen and its subsequent utilization during performance. Int J Sports Med
+2:114–118
+Sherman WM, Doyle JA, Lamb DR, Strauss RH (1993) Dietary carbohydrate, muscle glycogen,
+and exercise performance during 7 d of training. Am J Clin Nutr 57:27–31
+Shirreffs SM, Armstrong LE, Cheuvront SN (2004) Fluid and electrolyte needs for preparation and
+recovery from training and competition. J Sports Sci 22:57
+–63
+66 K. Koehler
+Sinclair LM, Hinton PS (2005) Prevalence of iron de ﬁciency with and without anemia in
+recreationally active men and women. J Am Diet Assoc 105:975–978
+Spriet LL (2007) Regulation of substrate use during the marathon. Sports Med 37:332–336
+Stellingwerff T (2012) Case study: nutrition and training periodization in three elite marathon
+runners. Int J Sport Nutr Exerc Metab 22:392–400
+Stellingwerff T (2013) Contemporary nutrition approaches to optimize elite marathon perfor-
+mance. Int J Sports Physiol Perform 8:573–578
+Stuempﬂe KJ, Hoffman MD, Hew-Butler T (2013) Association of gastrointestinal distress in
+ultramarathoners with race diet. Int J Sport Nutr Exerc Metab 23:103–109
+Tarnopolsky M (2004) Protein requirements for endurance athletes. Nutrition 20:662–668
+Tarnopolsky MA, Ruby BC (2001) Sex differences in carbohydrate metabolism. Curr Opin Clin
+Nutr Metab Care 4:521–526
+Tsintzas K, Williams C (1998) Human muscle glycogen metabolism during exercise. Effect of
+carbohydrate supplementation. Sports Med 25:7–23
+Tsintzas OK, Williams C, Wilson W, Burrin J (1996) Inﬂuence of carbohydrate supplementation
+early in exercise on endurance running capacity. Med Sci Sports Exerc 28:1373–1379
+van Soeren MH, Graham TE (1998) Effect of caffeine on metabolism, exercise endurance, and
+catecholamine responses after withdrawal. J Appl Physiol 85:1493–1501 (1985)
+Vanheest JL, Rodgers CD, Mahoney CE, De Souza MJ (2013) Ovarian suppression impairs sport
+performance in junior elite female swimmers. Med Sci Sports Exerc
+Vella LD, Cameron-Smith D (2010) Alcohol, athletic performance and recovery. Nutrients
+2:781–789
+Westerterp KR, Meijer GA, Janssen EM, Saris WH, ten Hoor F (1992) Long-term effect of
+physical activity on energy balance and body composition. Br J Nutr 68:21–30
+Williams C, Brewer J, Walker M (1992) The effect of a high carbohydrate diet on running
+performance during a 30-km treadmill time trial. Eur J Appl Physiol Occup Physiol 65:18–24
+World Anti-Doping Agency (2015) The 2015 prohibited list. International Standard (Online).
+Available: https://wada-main-prod.s3.amazonaws.com/resources/ﬁles/wada-2015-prohibited-
+list-en.pdf. Accessed Nov 2015
+World Health Organization (2007) Assessing the iron status of populations (Online). Available:http://
+www.who.int/nutrition/publications/micronutrients/anaemia_iron_deﬁciency/9789241596107.
+pdf. Accessed Nov 2015
+Zouhal H, Groussard C, Minter G, Vincent S, Cretual A, Gratas-Delamarche A, Delamarche P,
+Noakes TD (2011) Inverse relationship between percentage body weight change andﬁnishing
+time in 643 forty-two-kilometre marathon runners. Br J Sports Med 45:1101–1105
+Zourdos MC, Sanchez-Gonzalez MA, Mahoney SE (2015) A brief review: the implications of iron
+supplementation for marathon runners on health and performance. J Strength Cond Res
+29:559–565
+3 Nutrition for Marathon Running 67

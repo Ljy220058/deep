@@ -1,0 +1,37 @@
+{
+  "vector_dir": "C:\\Users\\26318\\Documents\\trae_projects\\ollama_pro\\实验五_罗锦源_202300203039_代码_v1\\vector_kb",
+  "top_k": 5,
+  "question_count": 5,
+  "results": [
+    {
+      "question": "如何定义并安排周期化训练以支持长期跑步表现提升？",
+      "answer": "未检索到有效证据，请尝试更具体的问题。",
+      "citations": [],
+      "retrieved_chunks": []
+    },
+    {
+      "question": "马拉松训练期如何进行营养与补给规划？",
+      "answer": "未检索到有效证据，请尝试更具体的问题。",
+      "citations": [],
+      "retrieved_chunks": []
+    },
+    {
+      "question": "过度训练常见风险信号有哪些，如何识别？",
+      "answer": "未检索到有效证据，请尝试更具体的问题。",
+      "citations": [],
+      "retrieved_chunks": []
+    },
+    {
+      "question": "高温环境下训练有哪些安全建议？",
+      "answer": "未检索到有效证据，请尝试更具体的问题。",
+      "citations": [],
+      "retrieved_chunks": []
+    },
+    {
+      "question": "力量训练与耐力训练如何在同一训练计划中平衡？",
+      "answer": "未检索到有效证据，请尝试更具体的问题。",
+      "citations": [],
+      "retrieved_chunks": []
+    }
+  ]
+}

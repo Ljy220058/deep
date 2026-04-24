@@ -1,0 +1,437 @@
+Student Publications Student Scholarship
+Fall 2019
+Periodization for Massive Strength Gains Periodization for Massive Strength Gains
+Benjamin L. Yanes
+Gettysburg College
+Follow this and additional works at: https://cupola.gettysburg.edu/student_scholarship
+Part of the Sports Sciences Commons
+Recommended Citation Recommended Citation
+Yanes, Benjamin L., "Periodization for Massive Strength Gains" (2019). Student Publications. 758.
+https://cupola.gettysburg.edu/student_scholarship/758
+This open access student research paper is brought to you by The Cupola: Scholarship at Gettysburg College. It
+has been accepted for inclusion by an authorized administrator of The Cupola. For more information, please
+contact cupola@gettysburg.edu.
+Periodization for Massive Strength Gains Periodization for Massive Strength Gains
+Abstract Abstract
+In order to create the perfect resistance training program for their athletes, coaches must master the
+ability to control all variables of training over time in order to maximize physiological responses - this is a
+concept known as periodization (3, 6, 7, 8, 9, 10, 19, 21, 24, 25, 26).
+Periodization was first established in Russia, after the conclusion of the 1956 Olympic games (7, 21).
+Though simple in its principle and aim, periodization is frequently misunderstood due to the hyper-
+specific research that surrounds it (3, 4, 7, 8, 10, 15, 21, 23, 25). Over the last five decades, researchers
+have produced a multitude of studies that look at specific variables of periodization, which this paper will
+later examine, but many of them prove to be inconclusive due to uncontrollable factors outside of training
+(3, 4, 7, 8, 13, 14, 19, 21). These uncontrollable factors make it difficult to be absolute in any conclusions
+surrounding the topic of periodization, though there are a number of considerations that make
+periodization very valuable (25).
+Periodization is of paramount importance when creating resistance training plans due to its role in the
+manipulation and subsequent control of variables over time (3, 6, 7, 8, 9, 10, 19, 21, 24, 25, 26). Without
+control of variables, resistance training becomes an aimless and non goal-oriented task (25, 43). In
+comparison with non-periodized resistance programs, periodized plans prove to be significantly more
+effective in strength gained, lean mass gained, and percent body fat lost (1, 5, 6, 11, 15, 25). Periodization
+will likely remain a topic of controversy for a long time to come, as coaches continue to seek the most
+effective combination and manipulation of training variables at their disposal (23).
+Keywords Keywords
+Periodization, Strength, Gains
+Disciplines Disciplines
+Medicine and Health Sciences | Sports Sciences
+Comments Comments
+Written for HS 311: Neuromuscular Physiology.
+Creative Commons License Creative Commons License
+This work is licensed under a Creative Commons Attribution 4.0 License.
+This student research paper is available at The Cupola: Scholarship at Gettysburg College:
+https://cupola.gettysburg.edu/student_scholarship/758
+Yanes 1
+Periodization for Massive Strength Gains
+Ben Yanes
+Dr. Drury
+Neuromuscular Physiology
+26 November 2019
+Yanes 2
+INTRODUCTION
+In order to create the perfect resistance training program for their athletes,
+coaches must master the ability to control all variables of training over time in order to
+maximize physiological responses - this is a concept known as periodization (3, 6, 7, 8,
+9, 10, 19, 21, 24, 25, 26).
+Periodization was first established in Russia, after the conclusion of the 1956
+Olympic games (7, 21). Though simple in its principle and aim, periodization is
+frequently misunderstood due to the hyper-specific research that surrounds it (3, 4, 7, 8,
+10, 15, 21, 23, 25). Over the last five decades, researchers have produced a multitude
+of studies that look at specific variables of periodization, which this paper will later
+examine, but many of them prove to be inconclusive due to uncontrollable factors
+outside of training (3, 4, 7, 8, 13, 14, 19, 21). These uncontrollable factors make it
+difficult to be absolute in any conclusions surrounding the topic of periodization, though
+there are a number of considerations that make periodization very valuable (25).
+Periodization is of paramount importance when creating resistance training plans
+due to its role in the manipulation and subsequent control of variables over time (3, 6, 7,
+8, 9, 10, 19, 21, 24, 25, 26). Without control of variables, resistance training becomes
+an aimless and non goal-oriented task (25, 43). In comparison with non-periodized
+resistance programs, periodized plans prove to be significantly more effective in
+strength gained, lean mass gained, and percent body fat lost (1, 5, 6, 11, 15, 25).
+Periodization will likely remain a topic of controversy for a long time to come, as
+coaches continue to seek the most effective combination and manipulation of training
+variables at their disposal (23).
+Yanes 3
+TRAINING PRINCIPLES
+General Adaptation Sy ndrome, known as GAS, states that, when exposed to
+stress, three phases of adaptation will occur: the alarm phase, the resistance phase,
+and the exhaustion phase (7, 23). The alarm phase occurs when the athlete will
+experience mild fatigue or a decrease in performance (23). The resistance phase
+occurs when the body naturally responds to the stressor by adapting with less soreness
+and an improved performance (also known as supercompensation) (23). Finally, if the
+individual is unable to adapt to the stress, the exhaustion phase occurs (7, 23). There
+are several implications of GAS principle when considering periodization for athletes;
+one of the most important is the ability to regulate one’s fatigue properly over a long
+period of time (7, 10, 15, 23). Fatigue management is controlled by manipulating the
+training variables of volume, intensity, and frequency - which will be discussed later in
+this paper - and their relationship to the principle of overload (25).
+The principle of overload states that any individual who is exposed to training that
+goes beyond normal levels of physical performance will adapt to be able to achieve that
+higher level of performance in future exercise bouts (5, 11, 19, 24, 27, 28, 29). As the
+GAS principle indicates, when an individual continues to make gains from an exercise
+program, they will need to introduce more challenging stimuli in order to continue in their
+progression (28, 29). As muscles increase in both size and strength over time, they will
+naturally be able to produce more force and thus accrue more gain (25, 28, 29). This
+involves the concept of progressive overload, which states that, to continue creating
+Yanes 4
+adaptation, the individual must increase stress to the muscle over time that is
+proportional to that of the progress made (5, 24, 27, 28).
+In order to progressively overl oad effectively, one must properly apply the
+principle of specificity to their training, which states that the adaptations that one
+experiences in training are specific to the stress provided (27, 28, 29). The principle of
+specificity dictates which specific adaptations that an individual will acquire through their
+training, so it plays an imperative role in the overall picture of periodization (27, 28, 29).
+Additionally, the specificity of exercise dictates which muscle groups and movement
+patterns will be primarily developed through exercise (28). An example of this would be
+a baseball pitcher addressing a weak point in his shoulder through selecting exercises
+that involve the rotator cuff muscles in order to improve the circumductive nature of the
+throwing motion (28).
+After having trained specific mov ement patterns over a sustained period of time,
+the individual will adapt and will need new stimuli to continue getting stronger (20, 27,
+29, 30). Variation in a resistance training program refers to the changing of variables
+including weight used (intensity), volume performed, type of contraction, and speed of
+contraction through different blocks of training (29). Additionally, manipulation of these
+variables in the short term potentially reduces stress on certain muscle groups, thereby
+promoting supercompensation (27). Variation in resistance training may also create
+greater adherence of the individual to their program due to the novelty behind learning
+new movements (30). Variation in periodization is what allows the individual to
+continually adapt without becoming stuck at significant plateaus in strength gains (20,
+27, 29, 30). The principle of variation also directly impacts the principle of individuality,
+Yanes 5
+which states that each athlete may respond differently to the same stimulus based on
+his or her genetic predispositions to gain strength (42). The principle of individuality
+dictates that coaches should utilize variation in order to uncover what stimuli are optimal
+for each athlete (42). It also says that the athlete must vary exercise selection, volume,
+intensity, and frequency depending on their individual needs (42).
+THE FITNESS-FATIGUE MODEL
+The fitness-fatigue model of training describes the relationsh ip between an
+athlete’s performance and their level of fatigue (44). Fatigue is defined as maladaptation
+to a training stimulus which, if managed properly, can later be attributed to an increase
+in performance following the GAS principle (7, 23, 44, 45). The fitness fatigue model
+states that, after a significant amount of acute stress to the body, fatigue will initially
+increase and performance will decrease (44, 45). After proper recovery, fatigue will
+decrease, and performance will increase (44, 45). After a period of time, if fatigue
+accumulates beyond the individual’s recoverable capacity, overtraining will occur and
+performance will significantly decrease (28, 29, 44, 45). Performance will benefit,
+however, from a short-term period of overreaching, wherein an excessive amount of
+stimulus is placed on the individual followed by a period of recovery (6, 8, 21, 23, 25,
+44, 45). This results in an acute increase in performance, and is typical of athletes such
+as powerlifters or weightlifters who need to be at peak levels of fitness on one particular
+day of the year (44, 45). This is why manipulating the variables of volume, intensity, and
+frequency are of paramount importance to increasing strength (3, 6, 7, 8, 9, 10, 19, 21,
+24, 25, 26).
+Yanes 6
+TERMINOLOGY: VOLUME, INTENSITY, FREQUENCY
+Volume is defined as the total amount of work performed as either sets multiplied
+by reps and load (tonnage), or simply as sets multiplied by reps (6, 10, 18,19, 20, 24).
+Volume is an essential component of any periodization model, given that it needs to be
+balanced in tandem with intensity (25). Intensity simply refers to the amount of weight
+used in a given exercise (10, 18, 19, 20, 23, 25, 27, 30). Depending on the phase and
+goal of a training cycle, the relationship between volume and intensity will change (25,
+26). For example, if the athlete is in a hypertrophy phase (muscle-building phase),
+overall volume will be higher, and intensity will be lower (10, 18, 19, 25, 26, 27). If the
+athlete is in a strength or power phase (a phase wherein gaining strength or power is
+the primary goal), in general, prescribed intensities will be higher and volume will be
+lower (10, 18, 19, 25, 26, 27).
+Frequency simply refers to the amount of times per week or month that a specific
+exercise is performed (6, 10, 25, 26, 27). Generally speaking, the recommended
+frequencies per muscle group per week is two to three times, though this will vary
+depending on individual physiological responses and variables outside of training such
+as scheduling and free time available (6, 25, 26, 34, 35, 36).
+The balance of volume, intensit y, and frequency are the building blocks of any
+periodized program (25, 31). Manipulating these variables within each week and month
+allow athletes to aim and achieve their individual goals (25, 31, 32, 34, 25).
+Recommendations for starting points are as follows: if the primary goal is hypertrophy,
+10-20 sets per muscle group per week, with a 2x per week frequency, and with ⅔-¾ of
+Yanes 7
+total volume in the 6-12 repetition range, with the remaining volume in the 1-6 and 12-
+20 repetition range (25, 31, 32, 33). If the primary goal in training is strength, frequency
+and total sets remain the same, while ⅔-¾ of the volume should be in the 1-6 repetition
+range and the remaining volume in the 6-20 repetition range (25, 31, 32, 33).
+TERMINOLOGY: MICROCYCLES, MESOCYCLES, AND MACROCYCLES
+A microcycle is defined as a short period of training, typically one to four weeks
+(most often one or two) (9, 10, 18, 19, 20, 26). A mesocycle is defined as a period of
+training between one to four months (9, 10, 18, 19, 20, 26). A macrocycle is defined as
+a period of training between 9-12 months (9, 10, 18, 19, 20, 26). Properly planned micro
+and meso cycles, which constitute the macrocycle plan, take into account volume,
+intensity, and frequency in relation to the individual’s goals in training (9, 10, 18, 19, 25,
+26).
+MODELS OF PERIODIZATION - LINEAR
+Linear periodization, otherwise known as Western periodization, is a model of
+progression that begins with higher volumes and lower intensities across all exercises
+and gradually moves towards lower volumes and higher intensities across all exercises
+(2, 3, 5, 6, 8, 10, 11, 12, 13, 15, 16, 18, 21, 23, 24, 25). During the commencement of a
+linearly periodized program, higher rep ranges, lower intensities and fewer sport-specific
+movements (namely for individual strength athletes) should be utilized to achieve
+physiological adaptations such as muscular endurance and hypertrophy (2, 8, 23, 24,
+25). Both muscular hypertrophy and muscular endurance play imperative roles in
+Yanes 8
+increasing strength and power potential through increased cross-sectional area as well
+as increased work capacity of the muscle fibers (2, 8, 23, 24, 25). These adaptations
+will have great carryover to further adaptations such as strength and power in later
+phases of training where more specific movements will be used (for individual strength
+sport athletes) and lower overall volume will be accumulated (2, 8, 23, 24, 25).
+It is important to recognize that linear periodization, as well as all other models of
+periodization, were created to be adapted to each athlete’s sport-specific requirements
+(25). An example of this is a model of linear periodization that begins with a volume
+phase, where intensities are low and volume is high, transitions into a strength phase,
+where volume decreases and intensity increases, and ends with a power phase, where
+both intensity and volume decrease (21, 23, 24, 25). This could apply to an athlete such
+as a football player, who needs to transfer maximal power adaptations into the start of
+the season, but who also needs to reduce fatigue at the same time by decreasing
+volume and intensity over time (21, 23, 24, 25). This kind of model would not apply to a
+strength athlete such as a powerlifter, who needs to continue working with higher
+intensities and decreased volumes leading up to a taper prior to competition (21, 23, 24,
+25).
+Linear periodization is not without its limitations, however. Given the long phasic
+nature of the linear model, certain adaptations, such as muscular hypertrophy, are
+difficult to maintain in later phases of training (21, 23). This is likely due to a disuse of
+the adaptation achieved over a long period of time (21, 23). Additionally, linear
+periodization does not take into account the in-season taxes to the athlete’s recovery;
+Yanes 9
+athletes are not able to ‘peak’ a particular adaptation during their season due to fatigue
+accumulated from their sport (21, 23, 25).
+MODELS OF PERIODIZATION - BLOCK
+Block periodization is a training model that divides the macrocycle into 3-4
+mesocycles (blocks) that are each designated to achieve specific adaptations (2, 6, 8, 9,
+14, 21, 23, 25). Though block periodization shares many elements with linear
+periodization, such as varying volumes and intensities, the periods of time (the
+mesocycles) in which specific adaptations are focused are much shorter; in linear
+periodization, mesocycles typically last several months, whereas in block periodization,
+mesocycles last 4-6 weeks (2, 6, 8, 9, 14, 21, 23, 25). This allows athletes who need to
+be in peak condition multiple times a year, such as a powerlifter or sprinter, to plan
+these shorter blocks based on competition dates (25). An example of a block-periodized
+program would begin with a higher volume, lower intensity block, and would continue
+with a lowered volume, higher intensity block, culminating in a taper (a period of time to
+decrease either volume, intensity, or both in order to supercompensate) to peak
+performance (6, 8, 21, 23, 25). Outside of the shorter mesocycle plans, block
+periodization is similar to linear periodization in its fundamental elements (2, 6, 8, 9, 21,
+23, 25).
+MODELS OF PERIODIZATION - UNDULATING
+Undulating periodization is a form of periodization that utilizes more frequent
+changes to volume, intensity, and repetition ranges (3, 5, 6, 10, 11, 12, 13, 14, 15, 16,
+Yanes 10
+17, 22, 23, 25). Daily undulating periodization (DUP) changes these variables on a daily
+basis (throughout the microcycle), while weekly undulating periodization changes these
+variables every week (5, 15, 25). Like block periodization, DUP and WUP attempt to
+eliminate the potential downfalls of disuse to muscular adaptation that linear
+periodization creates, and like linear periodization, undulating programs follow a
+progression of focusing on hypertrophy, then strength, and finally power (5, 15, 21, 23,
+25). An example of a DUP progression would be training hypertrophy on the first day of
+the week, then strength two days later, and finally hypertrophy another two days later
+(5, 15, 21, 23, 25). A WUP model would follow this same progression, except in a
+weekly instead of daily progression (5, 15, 21, 23, 25).
+MODELS OF PERIODIZATION - A COMPARISON AND CLOSER LOOK
+Though there are a multitude of studies comparing the popular models of
+periodization, the answer as to the question of which model is best remains uncertain
+(25). Several studies have directly compared the effects on gaining strength using linear
+periodization against daily and weekly undulating periodization (3, 5, 6, 10, 11, 12, 13,
+15, 16, 23, 25, 37). In a number of these studies, the groups that utilized undulating
+periodization over short (4-6 weeks) and long (12+ weeks) periods of time were shown
+to increase their overall strength at a greater rate than groups that utilized linear
+periodization (10, 11, 15). There were a number of other studies, however, that
+concluded that there were no differences in strength gains, provided that total volume
+across all exercises was equated (13, 16, 23, 37). Other studies have also looked at the
+comparisons between block-periodized programs and linear-periodized programs (2, 8,
+Yanes 11
+9, 21, 23). Some of these studies conclude that block-periodized models result in
+greater strength gains than linear-periodized models (2, 8, 21, 23). It is worth noting,
+however, that many of these conclusions are based off of short-term findings that lead
+researchers to make statements such as “these findings suggest that BP (block
+periodization) may be more effective than TP (traditional periodization)” (2). Very few
+studies have looked into the comparison between block-periodized programs and
+undulating programs, but the ones that have show a greater increase in overall strength
+in the block periodized groups when volume was equated (38).
+It is difficult to discern which model of periodization will result in the greatest
+amount of strength gains for a number of reasons. The first reason is that there is a very
+limited amount of data that shows that one model of periodization is superior to another
+(39). The second reason is that, while there are trends that lead us to believe one model
+may be superior to another, as in the comparison between linear periodization and
+DUP/WUP, there are always other cases that show the exact opposite or that are
+inconclusive (3, 5, 6, 10, 11, 12, 13, 15, 16, 23, 25, 37, 39). The third, and perhaps most
+notable reason, is that there are an infinite number of ways that one can design a linear,
+block, or undulating model (25, 39). Many coaches design programs that are a
+combination of these models, and this is what makes it difficult to truly isolate one
+method versus another (25, 39). Because every periodization model should be linear in
+nature, meaning that the individual is improving in some measurable way over time, and
+because different athletes may need varying volumes and intensities throughout
+different periods of time (that come in blocks), research suggests that an approach that
+combines these models of periodization will be best (39, 40, 41).
+Yanes 12
+References
+1) Kraemer, W. J., Ratamess, N., Fry, A. C., Triplett-McBride , T., Koziris, L. P.,
+Bauer, J. A., … Fleck, S. J. (2000). Influence of Resistance Training Volume and
+Periodization on Physiological and Performance Adaptations in Collegiate
+Women Tennis Players. The American Journal of Sports Medicine, 28(5), 626–
+633. https://doi.org/10.1177/03635465000280050201
+2) Manchado, C., Cortell-Tormo, J., & Tortosa-Martínez, J. (n.d .). Effects of Two
+Different Training Periodization Models on Physical and Physiological Aspects of
+Elite Female Team Handball Players. Journal of Strength and Conditioning
+Research, 32(1), 280–287. https://doi.org/10.1519/JSC.0000000000002259
+3) Buford, T., Rossi, S., Smith, D., & Warren, A. (2007). A com parison of
+periodization models during nine weeks with equated volume and intensity for
+strength. Journal of Strength and Conditioning Research, 21(4), 1245–1250.
+https://doi.org/10.1519/R-20446.1
+4) Rhea, M., & Alderman, B. (2004) . A meta-analysis of periodized versus
+nonperiodized strength and power training programs. Research Quarterly for
+Exercise and Sport., 75(4), 413–422.
+https://doi.org/10.1080/02701367.2004.10609174
+5) Baker, D., Wilson, G., & Car lyon, R. (1994). Periodization: The Effect on Strength
+of Manipulating Volume and Intensity. The Journal of Strength and Conditioning
+Research, 8(4), 235. Doi: 10.1519/1533-4287(1994)008<0235:pteoso>2.3co;2
+6) Williams, T. D., Tolusso, D . V., Fedewa, M. V., & Esco, M. R. (2017).
+Comparison of periodized and non-periodized resistance training on maximal
+strength: A meta-analysis. Sports Medicine, 47(10), 2083.
+doi:http://dx.doi.org/10.1007/s40279-017-0734-y
+7) Nuckols, G. (2017). Periodization: History and Theory. Stronger By Science.
+Retrieved from https://www.strongerbyscience.com/periodization-history-theory/
+8) Bartolomei, S., Hoffman, J. R ., Merni, F., & Stout, J. R. (2014). A Comparison of
+Traditional and Block Periodized Strength Training Programs in Trained Athletes.
+Journal of Strength and Conditioning Research, 28(4), 990–997. doi:
+10.1519/jsc.0000000000000366
+9) Issurin, V. (n.d.). Block per iodization versus traditional training theory: a review. J
+Sports Med Phys Fitness, 48, 65–75. Retrieved from
+https://www.researchgate.net/profile/Vladimir_Issurin4/publication/5638447_Bloc
+k_periodization_versus_traditional_training_theory_A_review/links/59a4f8074585
+157031179b96/Block-periodization-versus-traditional-training-theory-A-review.pdf
+10) Rhea, M. R., Ball, S. D., Phillips, W. T., & Burkett, L. N. (2002). A Comparison of
+Linear and Daily Undulating Periodized Programs with Equated Volume and
+Yanes 13
+Intensity for Strength. The Journal of Strength and Conditioning Research, 16(2),
+250. doi: 10.1519/1533-4287(2002)016<0250:acolad>2.0.co;2
+11) Brown, L. E., Bradley-Popovich, G. E., & Haff, G. G. (2001). Nonlinear versus
+linear periodization models. Strength Cond J, 23(1), 42-44.
+12) Ahmadizad, S., Ghorbani, S., Ghasemikaram, M., & Bahmanzadeh, M. (2014).
+Effects of short-term nonperiodized, linear periodized and daily undulating
+periodized resistance training on plasma adiponectin, leptin and insulin
+resistance. Clinical biochemistry, 47(6), 417-422.
+13) Harries, S. K., Lubans, D. R., & Callister, R. (2015). Systematic review and meta-
+analysis of linear and undulating periodized resistance training programs on
+muscular strength. The Journal of Strength & Conditioning Research, 29(4),
+1113-1125.
+14) Painter, K. B., Haff, G. G., Ramsey, M. W., McBride, J., Triplett, T., Sands, W. A.,
+... & Stone, M. H. (2012). Strength gains: Block versus daily undulating
+periodization weight training among track and field athletes. International journal
+of sports physiology and performance, 7(2), 161-169.
+15) Prestes, J., Frollini, A. B., de Lima, C., Donatto, F. F., Foschini, D., de Cássia
+Marqueti, R., ... & Fleck, S. J. (2009). Comparison between linear and daily
+undulating periodized resistance training to increase strength. The Journal of
+Strength & Conditioning Research, 23(9), 2437-2442.
+16) Franchini, E., Branco, B. M., Agostinho, M. F., Calmet, M., & Candau, R. (2015).
+Influence of linear and undulating strength periodization on physical fitness,
+physiological, and performance responses to simulated judo matches. The
+Journal of Strength & Conditioning Research, 29(2), 358-367.
+17) Zourdos, M. C., Jo, E., Khamoui, A. V., Lee, S. R., Park, B. S., Ormsbee, M. J.,
+... & Kim, J. S. (2016). Modified daily undulating periodization model produces
+greater performance than a traditional configuration in powerlifters. The Journal
+of Strength & Conditioning Research, 30(3), 784-791.
+18) Plisk, S. S., & Stone, M. H. (2003). Periodization strategies. Strength &
+Conditioning Journal, 25(6), 19-37.
+19) Stone, M. H., O'bryant, H. S., Schilling, B. K., Johnson, R. L., Pierce, K. C., Haff,
+G. G., & Koch, A. J. (1999). Periodization: effects of manipulating volume and
+intensity. Part 1. Strength & Conditioning Journal, 21(2), 56.
+20) Stone, M. H., O'bryant, H. S., Schilling, B. K., Johnson, R. L., Pierce, K. C., Haff,
+G. G., & Koch, A. J. (1999). Periodization: effects of manipulating volume and
+intensity. Part 2. Strength & Conditioning Journal, 21(3), 54.
+21) Issurin, V. B. (2010). New horizons for the methodology and physiology of
+training periodization. Sports medicine, 40(3), 189-206.
+22) Monteiro, A. G., Aoki, M. S., Evangelista, A. L., Alveno, D. A., Monteiro, G. A., da
+Cruz Piçarro, I., & Ugrinowitsch, C. (2009). Nonlinear periodization maximizes
+Yanes 14
+strength gains in split resistance training routines. The Journal of Strength &
+Conditioning Research, 23(4), 1321-1326.
+23) Lorenz, D., & Morrison, S. (2015). CURRENT CONCEPTS IN PERIODIZATION
+OF STRENGTH AND CONDITIONING FOR THE SPORTS PHYSICAL
+THERAPIST. International journal of sports physical therapy, 10(6), 734–747.
+24) Lorenz, D. S., Reiman, M. P., & Walker, J. C. (2010). Periodization: current
+review and suggested implementation for athletic rehabilitation. Sports health,
+2(6), 509–518. doi:10.1177/1941738110375910
+25) Helms, E., Morgan, A., & Valdez, A. (2018). The Muscle & Strength Pyramid(2nd
+ed.).
+26) Fleck, S. J., & Kraemer, W. J. (1996). The Ultimate Training System:
+Periodization Breakthrough!(1st ed.). New York, NY: Advanced Research Press.
+27) Kavanaugh, A. (2007). The Role of Progressive Overload in Sports Conditioning.
+Conditioning Foundamentals. NSCA’s Performance Training Journal, 6(1).
+28) Cissik, J. M. (2002). Basic principles of strength training and conditioning.
+NSCA’s Performance Training Journal, 1(4), 7-11.
+29) Stone, M. H., Collins, D., Plisk, S., Haff, G., & Stone, M. E. (2000). Training
+principles: Evaluation of modes and methods of resistance training. Strength &
+Conditioning Journal, 22(3), 65.
+30) Poliquin, C. (1988). FOOTBALL: Five steps to increasing the effectiveness of
+your strength training program. National Strength & Conditioning Association
+Journal, 10(3), 34. doi: 10.1519/0744-0049(1988)010<0034:fstite>2.3.co;2
+31) Schoenfeld, B. J., Contreras, B., Vigotsky, A. D., & Peterson, M. (2016).
+Differential Effects of Heavy Versus Moderate Loads on Measures of Strength
+and Hypertrophy in Resistance-Trained Men. Journal of sports science &
+medicine, 15(4), 715–722.
+32) Schoenfeld, B. J., Peterson, M. D., Ogborn, D., Contreras, B., & Sonmez, G. T.
+(2015). Effects of Low- vs. High-Load Resistance Training on Muscle Strength
+and Hypertrophy in Well-Trained Men. Journal of Strength and Conditioning
+Research, 29(10), 2954–2963. doi: 10.1519/jsc.0000000000000958
+33) Schoenfeld, B. J., Ratamess, N. A., Peterson, M. D., Contreras, B., Sonmez, G.
+T., & Alvar, B. A. (2014). Effects of Different Volume-Equated Resistance
+Training Loading Strategies on Muscular Adaptations in Well-Trained Men.
+Journal of Strength and Conditioning Research, 28(10), 2909–2918. doi:
+10.1519/jsc.0000000000000480
+34) Ralston, G. W., Kilgore, L., Wyatt, F. B., & Baker, J. S. (2017). The Effect of
+Weekly Set Volume on Strength Gain: A Meta-Analysis. Sports medicine
+(Auckland, N.Z.), 47(12), 2585–2601. doi:10.1007/s40279-017-0762-7
+35) Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). Dose-response
+relationship between weekly resistance training volume and increases in muscle
+Yanes 15
+mass: A systematic review and meta-analysis. Journal of Sports Sciences,
+35(11), 1073–1082. doi: 10.1080/02640414.2016.1210197
+36) Timmons J. A. (2011). Variability in training-induced skeletal muscle adaptation.
+Journal of applied physiology (Bethesda, Md. : 1985), 110(3), 846–853.
+doi:10.1152/japplphysiol.00934.2010
+37) Kok, L. Y., Hamer, P. W., & Bishop, D. J. (2009). Enhancing Muscular Qualities
+in Untrained Women: Linear versus Undulating Periodization. Med Sci Sport
+Exerc, 41(9), 807–1797. doi: 10.1249/MSS.0b013e3181a154f3.
+38) Painter, K. B., Haff, G. G., Ramsey, M. W., Mcbride, J., Triplett, T., Sands, W. A.,
+… Stone, M. H. (2012). Strength Gains: Block Versus Daily Undulating
+Periodization Weight Training Among Track and Field Athletes. International
+Journal of Sports Physiology and Performance, 7(2), 161–169. doi:
+10.1123/ijspp.7.2.161
+39) Kiely, J. (2012). Periodization Paradigms in the 21st Century: Evidence-Led or
+Tradition-Driven? International Journal of Sports Physiology and Performance,
+7(3), 242–250. doi: 10.1123/ijspp.7.3.242
+40) Zourdos, M. C., Klemp, A., Dolan, C., Quiles, J. M., Schau, K. A., Jo, E., …
+Blanco, R. (2016). Novel Resistance Training–Specific Rating of Perceived
+Exertion Scale Measuring Repetitions in Reserve. Journal of Strength and
+Conditioning Research, 30(1), 267–275. doi: 10.1519/jsc.0000000000001049
+41) Willoughby, D. S. (1993). The Effects of Mesocycle-Length Weight Training
+Programs Involving Periodization and Partially Equated Volumes on Upper and
+Lower Body Strength. The Journal of Strength and Conditioning Research, 7(1),
+2. doi: 10.1519/1533-4287(1993)007<0002:teomlw>2.3.co;2
+42) Cox, R. (2007). Oxford Dictionary of Sports Science and Medicine (3rd
+edition)2007342Michael Kent. Oxford Dictionary of Sports Science and Medicine
+(3rd edition). Oxford: Oxford University Press 2006. vii 612 pp., ISBN: 978 0 19
+856850 6. Reference Reviews, 21(7), 50–50. doi: 10.1108/09504120710821848
+43) Fishbach, A., & Choi, J. (2012). When thinking about goals undermines goal
+pursuit. Organizational Behavior and Human Decision Processes, 118(2), 99–
+107. doi: 10.1016/j.obhdp.2012.02.003
+44) Chiu, L. Z., & Barnes, J. L. (2003). The Fitness-Fatigue Model Revisited.
+Strength and Conditioning Journal, 25(6), 42–51. doi: 10.1519/00126548-
+200312000-00007
+45) Pistilli, E.E., Kaminsky, D.E., Totten, L., & Miller, D. (2008). Incorporating One
+Week of Planned Overreaching into the Training Program of Weightlifters.

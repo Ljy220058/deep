@@ -34,26 +34,31 @@ class InputGuard:
         self.compiled_dangerous = [re.compile(p, re.IGNORECASE) for p in self.dangerous_patterns]
         self.compiled_injection = [re.compile(p, re.IGNORECASE | re.DOTALL) for p in self.injection_patterns]
 
-    def check(self, user_input: str) -> Tuple[bool, str]:
+    def check(self, input_text: str, input_type: str = "query") -> Tuple[bool, str]:
         """
-        检查用户输入是否安全。
+        检查输入内容是否安全。
+        input_type: "query", "rag", "history", "planner"
         返回 (is_safe, reason)
         """
+        if not input_text:
+            return True, "输入为空"
+
         # 1. 检查危险关键词
         for pattern in self.compiled_dangerous:
-            if pattern.search(user_input):
-                return False, f"检测到潜在的危险输入模式：{pattern.pattern[:30]}..."
+            if pattern.search(input_text):
+                return False, f"检测到潜在的危险模式 ({input_type})：{pattern.pattern[:30]}..."
 
         # 2. 检查注入模式
         for pattern in self.compiled_injection:
-            if pattern.search(user_input):
-                return False, "检测到潜在的注入攻击模式"
+            if pattern.search(input_text):
+                return False, f"检测到潜在的注入攻击模式 ({input_type})"
 
-        # 3. 检查输入长度（防止超长输入攻击）
-        if len(user_input) > 2000:
-            return False, "输入内容过长，请缩短后重试"
+        # 3. 检查输入长度（针对用户 Query 严格限制，对 RAG 放宽）
+        limit = 2000 if input_type == "query" else 10000
+        if len(input_text) > limit:
+            return False, f"输入内容过长 ({input_type})"
 
-        return True, "输入安全"
+        return True, "安全"
 
 class OutputGuard:
     """输出安全检测器"""

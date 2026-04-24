@@ -40,6 +40,7 @@ class GraphEngine:
         self.processed_chunks = set() # 记录已处理的分片 ID
         self._mermaid_cache = None # 增加缓存以减少重复生成
         self._cache_key = None
+        self.STRICT_MODE = True # [KB-only] 严格模式，禁用 LLM 提取以防幻觉
         self.load_graph()
 
     def load_graph(self):
@@ -100,6 +101,14 @@ class GraphEngine:
 
     async def extract_triples(self, text: str, chunk_id: str) -> List[List[str]]:
         """从文本中提取三元组 (Subject, Predicate, Object)"""
+        if self.STRICT_MODE:
+            # [KB-only] 严格模式下，禁止在生产链路上使用 LLM 提取三元组以防长期幻觉
+            # 除非是专门的图谱构建任务 (build_graph)，否则返回空
+            # 这里我们通过 chunk_id 是否包含 'build_' 来简单区分
+            if not chunk_id.startswith("build_"):
+                logger.info(f"[graph_engine] STRICT_MODE 开启，拦截 LLM 三元组提取 ({chunk_id})")
+                return []
+        
         prompt = f"""你是一个专业的知识图谱构建专家。请从以下文本中提取关键的实体（名词）及其相互关系。
 
 提取要求：

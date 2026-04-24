@@ -1,0 +1,26 @@
+{
+  "skill_name": "git-workflow-guardrails",
+  "evals": [
+    {
+      "id": 1,
+      "name": "handle-index-lock",
+      "prompt": "我想把刚才的代码改动提交到 master。但是 git 报错说 Unable to create '.../.git/index.lock'，好像被锁住了，帮我解决并完成推送。",
+      "expected_output": "Agent 应该先执行停止 Git 进程和删除 index.lock 的操作，然后再成功完成 add、commit 和 push。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "flatten-nested-repo",
+      "prompt": "我刚在 exp5_graphrag 目录下写了很多代码，现在想整体提交到 GitHub。注意这个子目录下可能以前有它自己的 .git 文件夹，我不想要子模块，我要把里面的文件直接提到主仓库里，帮我操作。",
+      "expected_output": "Agent 应该检查并删除子目录下的 .git，运行 git rm --cached，然后重新 add 所有文件并提交。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "fix-remote-url-and-push",
+      "prompt": "把代码推送到 GitHub，仓库地址是 https://github.com/Ljy220058/-.git。如果之前配置的 origin 不对请帮我修正。本地分支是 master，如果远程需要 main 也请处理好。",
+      "expected_output": "Agent 应该更新远程 URL，并确保分支正确推送到远程（可能需要 master:master 或 master:main）。",
+      "files": []
+    }
+  ]
+}

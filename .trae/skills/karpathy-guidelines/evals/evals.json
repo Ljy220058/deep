@@ -1,0 +1,23 @@
+{
+  "skill_name": "karpathy-guidelines",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我重构一下 `app.py` 中的路由逻辑，让它更清晰。",
+      "expected_output": "AI 应该先分析现有逻辑，列出重构计划，并确保只修改必要的部分，避免过度重构。",
+      "files": ["app.py"]
+    },
+    {
+      "id": 2,
+      "prompt": "为 `api_client.py` 添加一个重试机制。",
+      "expected_output": "AI 应该先询问重试策略（如指数退避），定义成功标准（例如通过一个简单的连接测试），并仅添加实现该功能所需的最少代码。",
+      "files": ["api_client.py"]
+    },
+    {
+      "id": 3,
+      "prompt": "优化一下 `debate_manager.py` 的并发处理。",
+      "expected_output": "AI 应该指出当前的瓶颈，提供多种优化方案供用户选择，并采用外科手术式修改，不触动无关代码。",
+      "files": ["debate_manager.py"]
+    }
+  ]
+}

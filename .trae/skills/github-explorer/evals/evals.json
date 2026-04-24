@@ -1,0 +1,17 @@
+{
+  "skill_name": "github-explorer",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "帮我找一个能在命令行里显示系统系统信息（类似 neofetch）的开源项目，但要速度快的（比如用 Rust 或 C 写的），只需告诉我基本信息，不要安装。",
+      "expected_output": "AI 应该使用 WebSearch/MCP 检索出如 fastfetch 或 macchina 等项目，返回一份中文的 Markdown 报告，包含 Star 数、语言、License 以及 3-4 条核心特性，并在最后附上仅供参考的安装命令，但不执行克隆或安装动作。",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "我需要一个很小的、用 Python 写的 HTTP 服务器项目来进行测试，请帮我找一个并直接安装到当前目录下。",
+      "expected_output": "AI 应该检索到一个微型 Python HTTP Server 项目（如 http.server 包装或 flask 极简脚手架），执行 Python 环境预检，然后静默地执行 `git clone` 并在克隆的目录内安装相关依赖。最后输出一份中文报告告知安装路径及如何启动。",
+      "files": []
+    }
+  ]
+}

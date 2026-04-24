@@ -1,0 +1,17 @@
+{
+  "skill_name": "hf-model-manager",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想下载 vikp/surya_det3 这个模型，放在本地的 marker_models_cache 目录下，请帮我下载。",
+      "expected_output": "应该提供三个方案：自动下载（使用镜像）、手动搬运校验、或降级处理。并在用户选择后执行 manage_hf.py 脚本。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我已经手动下载了 model.safetensors 到下载文件夹，请帮我把它移动到 marker_models_cache/surya_det3 目录下并验证完整性。",
+      "expected_output": "应该识别到 Downloads 下的文件，提供方案后使用 manage_hf.py --move 执行搬运并输出校验结果。",
+      "files": []
+    }
+  ]
+}

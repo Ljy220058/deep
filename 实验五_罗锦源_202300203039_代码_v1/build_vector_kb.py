@@ -212,35 +212,56 @@ def save_outputs(output_dir: Path, chunks: list[dict], vectorizer, matrix, bm25)
     
     # 先构建到临时目录
     logger.info(f"正在构建向量库到临时目录: {chroma_temp_dir}")
+    
+    # 使用 PersistentClient 确保更显式的控制
+    import chromadb
+    from chromadb.config import Settings
+    client = chromadb.PersistentClient(path=str(chroma_temp_dir), settings=Settings(anonymized_telemetry=False, is_persistent=True))
+    
     vector_store = Chroma.from_documents(
         documents=documents,
         embedding=embeddings,
+        client=client,
         persist_directory=str(chroma_temp_dir)
     )
     
-    # 显式关闭临时客户端以释放句柄 (如果支持)
-    if hasattr(vector_store, "_client") and hasattr(vector_store._client, "close"):
-        vector_store._client.close()
+    # 显式关闭客户端以释放句柄 (Chroma 0.4.x+)
+    try:
+        if hasattr(client, "close"):
+            client.close()
+        elif hasattr(client, "_system") and hasattr(client._system, "stop"):
+            client._system.stop()
+    except:
+        pass
+        
     del vector_store
+    del client
     import gc
     gc.collect()
+    time.sleep(1) # 给系统一点时间完全释放文件句柄
 
     # 替换旧索引
     logger.info("正在替换旧索引...")
-    for i in range(5): # 增加到 5 次尝试
+    for i in range(5): 
         try:
             if chroma_dir.exists():
-                shutil.rmtree(chroma_dir)
+                # Windows 兼容性：先重命名旧目录为 .old，再删除
+                old_dir = chroma_dir.with_suffix(".old")
+                if old_dir.exists():
+                    shutil.rmtree(old_dir, ignore_errors=True)
+                chroma_dir.rename(old_dir)
+                shutil.rmtree(old_dir, ignore_errors=True)
+            
             chroma_temp_dir.rename(chroma_dir)
             logger.info("[success] 索引替换成功")
             break
         except Exception as e:
             if i == 4:
                 logger.error(f"替换索引最终失败: {e}")
-                # 如果最终失败，保留临时目录供手动恢复，或者让用户知道
             else:
                 logger.warning(f"替换索引失败 (轮次 {i+1}), 正在重试... {e}")
-                time.sleep(1.5)
+                time.sleep(2)
+                gc.collect()
             
     return {
         "chunks_file": str(chunks_path),
@@ -296,11 +317,42 @@ def retrieve(question: str, chunks: list[dict], vectorizer, matrix, top_k: int, 
             enhanced_query = f"{enhanced_query} {v}"
             
     # 执行 Chroma 向量相似度检索 (带分数)
-    # 默认返回欧氏距离或余弦距离 (分数越小越好或越大越好取决于 Chroma 配置，默认是 L2 距离，越小越相似)
     try:
-        results = chroma_store.similarity_search_with_score(enhanced_query, k=top_k)
+        try:
+            results = chroma_store.similarity_search_with_score(enhanced_query, k=top_k)
+        except Exception as e:
+            err_msg = str(e).lower()
+            # 针对 Windows HNSW 索引加载失败或文件锁冲突进行自动重试/重载
+            if "hnsw" in err_msg or "index" in err_msg or "reader" in err_msg:
+                logger.warning(f"检测到 Chroma 索引失效 ({e})，尝试重新加载实例...")
+                # 尝试从原始持久化目录重新加载
+                persist_dir = getattr(chroma_store, "_persist_directory", None)
+                if not persist_dir:
+                    # 尝试从 settings 中获取
+                    try:
+                        persist_dir = chroma_store._client._system.settings.persist_directory
+                    except:
+                        pass
+                
+                if persist_dir and os.path.exists(persist_dir):
+                    embeddings = get_embeddings()
+                    # 重新构造实例
+                    new_store = Chroma(persist_directory=str(persist_dir), embedding_function=embeddings)
+                    results = new_store.similarity_search_with_score(enhanced_query, k=top_k)
+                    
+                    # 尝试更新全局状态 (如果是在 workflow_engine 环境下)
+                    try:
+                        from workflow_engine import set_kb_data, KB_CHUNKS, KB_VECTORIZER, KB_BM25, RETRIEVE_FUNC
+                        set_kb_data(KB_CHUNKS, KB_VECTORIZER, new_store, RETRIEVE_FUNC, bm25=KB_BM25)
+                        logger.info("已成功刷新全局 Chroma 实例。")
+                    except:
+                        pass
+                else:
+                    raise e
+            else:
+                raise e
     except Exception as e:
-        logger.error(f"Chroma 检索失败: {e}")
+        logger.error(f"Chroma 检索最终失败: {e}")
         return []
         
     hits = []

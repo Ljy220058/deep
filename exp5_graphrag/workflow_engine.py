@@ -159,10 +159,12 @@ def pace_to_seconds(pace_str: str) -> int:
     # 处理 3:15 格式
     if ":" in pace_str:
         try:
-            parts = pace_str.split(":")
+            # 提取数字部分，忽略可能的 M 或 min/km 等后缀
+            parts = [re.sub(r'\D', '', p) for p in pace_str.split(":")]
+            parts = [p for p in parts if p] # 移除空串
             if len(parts) == 2:
                 return int(parts[0]) * 60 + int(parts[1])
-            elif len(parts) == 3: # H:MM:SS
+            elif len(parts) >= 3: # H:MM:SS
                 return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
         except:
             pass
@@ -628,25 +630,28 @@ async def profiler_node(state: IntegratedState, config: RunnableConfig) -> dict:
         
         # 1.1 格式化 PB 成绩和 T-Pace (严格 Schema 校验与脏数据回滚)
         import re
-        time_pattern = re.compile(r"^(\d{1,2}:)?([0-5]?\d):([0-5]\d)$")
+        # 允许 H:MM:SS 或 M:SS，并允许尾部带有非数字字符（如 M, min/km）
+        time_pattern = re.compile(r"^(\d{1,2}:)?([0-5]?\d):([0-5]\d)")
         for key in ["pb_800m", "pb_1500m", "pb_5k", "pb_10k", "pb_half", "pb_full", "t_pace"]:
             if key in updated_profile and updated_profile[key]:
                 val = str(updated_profile[key]).strip()
                 
-                # [KB-only] 严格正则拦截
-                if not time_pattern.match(val):
+                # [KB-only] 严格正则拦截与清洗
+                match = time_pattern.search(val)
+                if not match:
                     # 尝试微小修复 (315 -> 3:15)
                     if val.isdigit() and len(val) >= 3:
                         val = f"{val[:-2]}:{val[-2:]}"
                     
-                    # 再次检查，若不合规，则执行脏数据回滚，恢复旧值
-                    if not time_pattern.match(val):
+                    # 再次检查
+                    match = time_pattern.search(val)
+                    if not match:
                         logger.warning(f"Profiler: 检测到脏数据 '{updated_profile[key]}'，已回滚为旧值。")
                         updated_profile[key] = current_profile.get(key, "")
                     else:
-                        updated_profile[key] = val
+                        updated_profile[key] = match.group(0) # 提取纯净的时间部分
                 else:
-                    updated_profile[key] = val
+                    updated_profile[key] = match.group(0) # 提取纯净的时间部分
             else:
                 # 如果为空，保留空值
                 updated_profile[key] = current_profile.get(key, "")

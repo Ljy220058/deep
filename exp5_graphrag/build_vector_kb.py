@@ -212,35 +212,56 @@ def save_outputs(output_dir: Path, chunks: list[dict], vectorizer, matrix, bm25)
     
     # 先构建到临时目录
     logger.info(f"正在构建向量库到临时目录: {chroma_temp_dir}")
+    
+    # 使用 PersistentClient 确保更显式的控制
+    import chromadb
+    from chromadb.config import Settings
+    client = chromadb.PersistentClient(path=str(chroma_temp_dir), settings=Settings(anonymized_telemetry=False, is_persistent=True))
+    
     vector_store = Chroma.from_documents(
         documents=documents,
         embedding=embeddings,
+        client=client,
         persist_directory=str(chroma_temp_dir)
     )
     
-    # 显式关闭临时客户端以释放句柄 (如果支持)
-    if hasattr(vector_store, "_client") and hasattr(vector_store._client, "close"):
-        vector_store._client.close()
+    # 显式关闭客户端以释放句柄 (Chroma 0.4.x+)
+    try:
+        if hasattr(client, "close"):
+            client.close()
+        elif hasattr(client, "_system") and hasattr(client._system, "stop"):
+            client._system.stop()
+    except:
+        pass
+        
     del vector_store
+    del client
     import gc
     gc.collect()
+    time.sleep(1) # 给系统一点时间完全释放文件句柄
 
     # 替换旧索引
     logger.info("正在替换旧索引...")
-    for i in range(5): # 增加到 5 次尝试
+    for i in range(5): 
         try:
             if chroma_dir.exists():
-                shutil.rmtree(chroma_dir)
+                # Windows 兼容性：先重命名旧目录为 .old，再删除
+                old_dir = chroma_dir.with_suffix(".old")
+                if old_dir.exists():
+                    shutil.rmtree(old_dir, ignore_errors=True)
+                chroma_dir.rename(old_dir)
+                shutil.rmtree(old_dir, ignore_errors=True)
+            
             chroma_temp_dir.rename(chroma_dir)
             logger.info("[success] 索引替换成功")
             break
         except Exception as e:
             if i == 4:
                 logger.error(f"替换索引最终失败: {e}")
-                # 如果最终失败，保留临时目录供手动恢复，或者让用户知道
             else:
                 logger.warning(f"替换索引失败 (轮次 {i+1}), 正在重试... {e}")
-                time.sleep(1.5)
+                time.sleep(2)
+                gc.collect()
             
     return {
         "chunks_file": str(chunks_path),

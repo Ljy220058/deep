@@ -469,9 +469,20 @@ async def get_context(query: str, top_k: int = 3, entities: List[str] = None, co
     if not KB_CHUNKS or not RETRIEVE_FUNC:
         return []
     
-    # [KB-only 约束] 彻底禁用所有 LLM 驱动的查询增强
-    # 不再使用 entities 拼接，确保检索 query 100% 原始
+    # [KB-only 约束优化] 
+    # 虽然禁止 LLM 驱动的查询“重写”，但允许利用已提取的实体进行“检索增强”
     search_query = query
+    if entities:
+        # 提取核心词（排除 [原词, 英文] 这种结构中的辅助词）
+        clean_entities = []
+        for e in entities:
+            # 处理 [间歇跑, Interval Training] 这种格式
+            e = e.replace("[", "").replace("]", "")
+            clean_entities.extend([item.strip() for item in e.split(",") if item.strip()])
+        
+        # 将实体加入检索词，提升相关性，但保留原始 query 核心
+        search_query = f"{query} {' '.join(clean_entities[:3])}"
+        logger.info(f"[get_context] 使用实体增强检索: {search_query}")
     
     # 2. 执行粗排检索 (获取更多的候选集供重排)
     candidate_k = top_k * 4
@@ -873,15 +884,42 @@ async def entity_extraction_node(state: IntegratedState, config: RunnableConfig)
     
     # 1. 结构化实体提取
     if STRICT_KB_ONLY:
-        # [KB-only] 禁用 LLM 提取，改用硬核关键词匹配 (从图谱节点 label 中提取)
-        logger.info("[entity_extraction] STRICT_KB_ONLY 开启，使用关键词匹配代替 LLM 提取")
+        # [KB-only 约束优化] 
+        # 混合模式：先尝试硬核匹配，若无结果则使用极简 LLM 提取并进行图谱对齐校验
+        logger.info("[entity_extraction] STRICT_KB_ONLY 开启，执行混合匹配策略")
+        
         all_labels = [n.get("label", "").lower() for n in graph_engine.nodes.values()]
         entities = []
         clean_query = query.lower()
+        
+        # 1.1 第一优先级：硬核子串匹配 (最安全)
         for label in all_labels:
             if label and label in clean_query and label not in entities:
                 entities.append(label)
         
+        # 1.2 第二优先级：如果硬核匹配失败，使用 LLM 进行“语义对齐”提取
+        if not entities:
+            prompt = f"""你是一个长跑领域的实体提取助手。
+从以下问题中提取 1-2 个核心专业名词。
+要求：
+1. 仅输出名词，不要解释。
+2. 优先保留原词。
+3. 如果是中文专业术语，请同时给出英文对应词，格式如 [中文, 英文]。
+
+问题：{query}
+直接输出列表："""
+            response_content, _ = await stream_llm(prompt, config, {"prompt_tokens":0, "completion_tokens":0, "total_tokens":0})
+            llm_entities = [e.strip() for e in response_content.replace("[", "").replace("]", "").split(",") if e.strip()]
+            
+            # 语义网关过滤：LLM 提取出的词必须在知识库/图谱中有“存在感”
+            for le in llm_entities:
+                # 检查 LLM 提取的词是否与图谱中的任何标签有交集
+                if any(le.lower() in label or label in le.lower() for label in all_labels):
+                    entities.append(le)
+            
+            if entities:
+                logger.info(f"[entity_extraction] 硬核匹配失败，LLM 语义对齐召回: {entities}")
+
         # 限制数量
         entities = entities[:5]
         usage_delta = {"prompt_tokens":0, "completion_tokens":0, "total_tokens":0}
@@ -939,7 +977,7 @@ async def entity_extraction_node(state: IntegratedState, config: RunnableConfig)
     
     # 3. [KB-only] 证据门槛 (Evidence Gate) - 事前检索
     # 在进入生成节点前，先执行一次检索以确认知识库是否有相关证据
-    rag_hits = await get_context(query, config=config)
+    rag_hits = await get_context(query, entities=entities, config=config)
     
     # [方案优化] 强化 Gate 强度：如果意图是 PLAN，检查是否有“处方级”证据
     has_plan_evidence = True

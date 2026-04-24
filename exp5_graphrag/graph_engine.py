@@ -37,7 +37,7 @@ class GraphEngine:
         self.GRAPH_DATA_PATH = GRAPH_DATA_PATH
         self.nodes = {} # {id: {label: str, type: str, source_chunks: []}}
         self.edges = [] # [{source: id, target: id, relation: str}]
-        self.processed_chunks = set() # 记录已处理的分片 ID
+        self.processed_chunks = {} # 记录已处理的分片 ID 及其文本哈希 {chunk_id: text_hash}
         self._mermaid_cache = None # 增加缓存以减少重复生成
         self._cache_key = None
         self.STRICT_MODE = True # [KB-only] 严格模式，禁用 LLM 提取以防幻觉
@@ -50,8 +50,12 @@ class GraphEngine:
                     data = json.load(f)
                     self.nodes = data.get("nodes", {})
                     self.edges = data.get("edges", [])
-                    # 加载已处理的分片 ID
-                    self.processed_chunks = set(data.get("processed_chunks", []))
+                    # 加载已处理的分片记录 (兼容旧版本的 list 格式)
+                    processed = data.get("processed_chunks", {})
+                    if isinstance(processed, list):
+                        self.processed_chunks = {cid: "" for cid in processed}
+                    else:
+                        self.processed_chunks = processed
                     self.clear_cache()
             except Exception as e:
                 logger.error(f"加载图谱失败: {e}")
@@ -62,7 +66,7 @@ class GraphEngine:
             json.dump({
                 "nodes": self.nodes, 
                 "edges": self.edges,
-                "processed_chunks": list(self.processed_chunks) # 持久化已处理的分片
+                "processed_chunks": self.processed_chunks # 持久化已处理的分片记录 (dict 格式)
             }, f, ensure_ascii=False, indent=2)
         self.clear_cache()
 
@@ -161,9 +165,11 @@ JSON 输出："""
 
         except asyncio.TimeoutError:
             logger.warning(f"提取超时 ({chunk_id})")
+            return None # P1: 返回 None 表示明确失败，允许重试
         except Exception as e:
             logger.error(f"提取三元组失败 ({chunk_id}): {e}")
-        return []
+            return None # P1: 返回 None 表示明确失败，允许重试
+        return [] # 模型明确返回空，标记为已处理但无三元组
 
     def _add_triple(self, sub: str, pred: str, obj: str, source_id: str):
         """将单个三元组添加到图谱中"""
@@ -215,44 +221,57 @@ JSON 输出："""
             logger.info("正在进行全量构建，清除现有图谱数据...")
             self.nodes = {}
             self.edges = []
-            self.processed_chunks = set()
+            self.processed_chunks = {}
         
         if not chunks:
             logger.warning("传入的 chunks 为空，无法构建图谱")
             return len(self.nodes), len(self.edges)
 
-        # 过滤掉已经处理过的分片
-        new_chunks = [c for c in chunks if c["chunk_id"] not in self.processed_chunks]
+        # P2: 基于 ID 和内容哈希过滤掉已经处理过且内容未变的分片
+        new_chunks = []
+        for c in chunks:
+            cid = c["chunk_id"]
+            text = c.get("text", "")
+            text_hash = hashlib.md5(text.encode()).hexdigest()
+            
+            # 如果 ID 不在记录中，或者内容哈希变了，则需要处理
+            if cid not in self.processed_chunks or self.processed_chunks[cid] != text_hash:
+                new_chunks.append((c, text_hash))
         
         if not new_chunks:
-            logger.info("所有分片均已处理，无需更新图谱。")
+            logger.info("所有分片均已处理且内容无变化，无需更新图谱。")
             return len(self.nodes), len(self.edges)
 
         # 对新分片进行策略性选择（如果新分片仍然很多）
         if len(new_chunks) <= 300:
-            process_chunks = new_chunks
+            process_items = new_chunks
         else:
             # 取头、中、尾，确保新上传的文档能被覆盖到
             mid = len(new_chunks) // 2
-            process_chunks = new_chunks[:100] + new_chunks[mid-50:mid+50] + new_chunks[-100:]
+            process_items = new_chunks[:100] + new_chunks[mid-50:mid+50] + new_chunks[-100:]
             
-        total = len(process_chunks)
+        total = len(process_items)
         logger.info(f"开始构建图谱 (增量: {incremental})，共需处理 {total} 个新分片...")
         
         extracted_count = 0
-        for i, chunk in enumerate(process_chunks):
+        for i, (chunk, text_hash) in enumerate(process_items):
             triples = await self.extract_triples(chunk["text"], chunk["chunk_id"])
-            if triples:
+            
+            # P1: 只有当 triples 不为 None 时（包括空 list []），才标记为已处理
+            if triples is not None:
                 extracted_count += len(triples)
-                logger.info(f"[{i+1}/{total}] 成功从 {chunk['chunk_id']} 提取 {len(triples)} 条三元组 (累计: {extracted_count})")
-            
-            # 标记该分片已处理
-            self.processed_chunks.add(chunk["chunk_id"])
-            
-            for triple in triples:
-                if not isinstance(triple, list) or len(triple) < 3:
-                    continue
-                self._add_triple(triple[0], triple[1], triple[2], chunk["chunk_id"])
+                if triples:
+                    logger.info(f"[{i+1}/{total}] 成功从 {chunk['chunk_id']} 提取 {len(triples)} 条三元组 (累计: {extracted_count})")
+                
+                # 标记该分片已处理，并记录其内容哈希
+                self.processed_chunks[chunk["chunk_id"]] = text_hash
+                
+                for triple in triples:
+                    if not isinstance(triple, list) or len(triple) < 3:
+                        continue
+                    self._add_triple(triple[0], triple[1], triple[2], chunk["chunk_id"])
+            else:
+                logger.warning(f"[{i+1}/{total}] {chunk['chunk_id']} 提取失败，跳过标记以待下次重试")
             
             if progress_callback:
                 progress_callback(i + 1, total)

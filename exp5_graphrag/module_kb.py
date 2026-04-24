@@ -221,6 +221,7 @@ class KBModule:
             # 重置图谱状态，提示用户重新构建
             graph_engine.nodes = {}
             graph_engine.edges = []
+            graph_engine.processed_chunks = {} # 清空已处理分片记录，避免“增量构图必空图”
             if graph_engine.GRAPH_DATA_PATH.exists():
                 graph_engine.GRAPH_DATA_PATH.unlink()
                 

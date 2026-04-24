@@ -590,6 +590,7 @@ async def on_upload_file(action: cl.Action):
         
         actions = [
             cl.Action(name="reindex_kb", payload={"value": "reindex"}, label="立即构建索引", icon="build"),
+            cl.Action(name="build_graph_ai", payload={"mode": "full"}, label="全量重构图谱（推荐）", icon="refresh"),
             cl.Action(name="build_graph_ai", payload={"mode": "incremental"}, label="增量更新图谱", icon="share")
         ]
         await cl.Message(content="现在要构建索引或更新图谱吗？", actions=actions).send()
@@ -666,6 +667,13 @@ async def on_reindex_kb(action: cl.Action):
     if meta:
         report_md = UIHelper.render_build_summary_md(meta)
         await cl.Message(content=report_md).send()
+        
+        # P0: 索引重建后，引导用户全量重构图谱
+        actions = [
+            cl.Action(name="build_graph_ai", payload={"mode": "full"}, label="全量重构图谱（推荐）", icon="refresh"),
+            cl.Action(name="build_graph_ai", payload={"mode": "incremental"}, label="增量更新图谱", icon="share")
+        ]
+        await cl.Message(content="📚 **索引已更新**。建议立即进行**全量重构图谱**以保证知识关联的准确性：", actions=actions).send()
     else:
         # 如果没有 meta，说明可能彻底失败了，显示原始 status
         await cl.Message(content=f"❌ **构建过程中出现问题**\n{status}").send()

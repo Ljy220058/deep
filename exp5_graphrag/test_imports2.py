@@ -1,0 +1,11 @@
+import sys
+import core_state
+print("core_state imported")
+import utils_ui
+print("utils_ui imported")
+import module_kb
+print("module_kb imported")
+import module_research
+print("module_research imported")
+import module_training
+print("module_training imported")

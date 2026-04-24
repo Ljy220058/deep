@@ -103,15 +103,13 @@ class GraphEngine:
         
         return False
 
-    async def extract_triples(self, text: str, chunk_id: str) -> List[List[str]]:
+    async def extract_triples(self, text: str, chunk_id: str, allow_llm: bool = False) -> List[List[str]]:
         """从文本中提取三元组 (Subject, Predicate, Object)"""
-        if self.STRICT_MODE:
+        if self.STRICT_MODE and not allow_llm:
             # [KB-only] 严格模式下，禁止在生产链路上使用 LLM 提取三元组以防长期幻觉
-            # 除非是专门的图谱构建任务 (build_graph)，否则返回空
-            # 这里我们通过 chunk_id 是否包含 'build_' 来简单区分
-            if not chunk_id.startswith("build_"):
-                logger.info(f"[graph_engine] STRICT_MODE 开启，拦截 LLM 三元组提取 ({chunk_id})")
-                return []
+            # 除非显式允许 (如图谱构建任务)，否则拦截并返回空
+            logger.info(f"[graph_engine] STRICT_MODE 开启，拦截 LLM 三元组提取 ({chunk_id})")
+            return []
         
         prompt = f"""你是一个专业的知识图谱构建专家。请从以下文本中提取关键的实体（名词）及其相互关系。
 
@@ -255,7 +253,8 @@ JSON 输出："""
         
         extracted_count = 0
         for i, (chunk, text_hash) in enumerate(process_items):
-            triples = await self.extract_triples(chunk["text"], chunk["chunk_id"])
+            # 构图任务显式允许 LLM 提取
+            triples = await self.extract_triples(chunk["text"], chunk["chunk_id"], allow_llm=True)
             
             # P1: 只有当 triples 不为 None 时（包括空 list []），才标记为已处理
             if triples is not None:
@@ -283,7 +282,8 @@ JSON 输出："""
     async def add_multimodal_description(self, description: str, source_id: str):
         """将多模态描述提取为三元组并注入图谱"""
         logger.info(f"开始处理多模态描述，来源: {source_id}")
-        triples = await self.extract_triples(description, source_id)
+        # 多模态注入任务显式允许 LLM 提取
+        triples = await self.extract_triples(description, source_id, allow_llm=True)
         if triples:
             for triple in triples:
                 if not isinstance(triple, list) or len(triple) < 3:

@@ -544,16 +544,17 @@ async def security_gate_node(state: IntegratedState, config: RunnableConfig) -> 
             "mode": "intercepted" # 特殊标记
         }
     
-    # 扫描历史记录
+    # 扫描历史记录：仅扫描用户输入，避免助手输出（如 token 统计）被误判
     history = state.get("history", [])
     for h in history:
-        is_h_safe, h_reason = input_guard.check(h.get("content", ""), input_type="history")
-        if not is_h_safe:
-            return {
-                "is_approved": True,
-                "final_report": f"### 🛡️ 安全拦截\n\n对话历史中检测到不安全内容，已强制重置会话。\n\n**原因：** {h_reason}",
-                "mode": "intercepted"
-            }
+        if h.get("role") == "user":
+            is_h_safe, h_reason = input_guard.check(h.get("content", ""), input_type="history")
+            if not is_h_safe:
+                return {
+                    "is_approved": True,
+                    "final_report": f"### 🛡️ 安全拦截\n\n对话历史中检测到不安全内容，已强制重置会话。\n\n**原因：** {h_reason}",
+                    "mode": "intercepted"
+                }
 
     return {"mode": "normal"}
 
@@ -1025,16 +1026,36 @@ TASK 3: [恢复与监测子任务描述]"""
     lines = response_content.strip().split('\n')
     
     # [Security] 对 LLM 生成的子任务描述进行安全扫描
+    # 使用更宽松且带序号提取的正则：支持 TASK 1, 任务 1, TASK: 1 等
     subtasks = []
-    for i, line in enumerate(lines):
-        if "TASK" in line:
-            clean_desc = scan_and_clean_context(line, input_type="planner")
-            subtasks.append({"id": i, "desc": clean_desc, "status": "pending"})
+    task_pattern = re.compile(r"(?i)^(?:task|任务)\s*(\d+)\s*[:：]?\s*(.*)", re.IGNORECASE)
+    
+    for line in lines:
+        line = line.strip()
+        match = task_pattern.match(line)
+        if match:
+            task_no = int(match.group(1))
+            desc = match.group(2).strip()
+            if not desc: continue # 跳过空描述
+            
+            clean_desc = scan_and_clean_context(desc, input_type="planner")
+            # 统一使用 TASK_n 字符串作为 ID，确保排序与编号一致
+            subtasks.append({"id": f"TASK_{task_no}", "task_no": task_no, "desc": clean_desc, "status": "pending"})
+    
+    # 按任务序号排序，防止模型输出顺序混乱导致编号错位
+    subtasks.sort(key=lambda x: x["task_no"])
+    
+    # 场景：如果模型输出格式完全不对导致子任务为空，标记缺失信息以触发引导/重试
+    missing = []
+    if not subtasks:
+        logger.warning("[planner] 未能解析出任何有效子任务")
+        missing = ["任务拆解失败（输出格式不符合 TASK n: 要求）"]
     
     usage = usage_delta
     
     return {
         "subtasks": subtasks,
+        "missing_fields": missing,
         "token_usage": usage,
         "reasoning_log": [f"[planner] 拆解任务完成，共 {len(subtasks)} 个子项"]
     }
@@ -1072,10 +1093,12 @@ async def executor_node(state: IntegratedState, config: RunnableConfig) -> dict:
             source_id = start_index + i + 1
             source_file = hit.get("source_file", "未知文档")
             page = hit.get("page", 1)
+            # [Consistency] 审计对齐基准一致性：rag_sources 存入清洗后的文本，与 LLM 看到的保持一致
+            cleaned_text = scan_and_clean_context(hit["text"])
             task_sources.append({
-                "title": f"任务{task['id']+1} 来源{source_id}", 
-                "snippet": hit["text"][:200], 
-                "full_text": hit["text"], 
+                "title": f"{task['id']} 来源{source_id}", 
+                "snippet": cleaned_text[:200], 
+                "full_text": cleaned_text, 
                 "score": hit.get("score", 0.0), 
                 "source": source_file,
                 "page": page
@@ -2196,7 +2219,16 @@ workflow.add_conditional_edges(
 workflow.add_edge("missing_info_handler", "formatter")
 
 # Subagent 模式链路
-workflow.add_edge("planner", "executor")
+def after_planner_route(state: IntegratedState):
+    if not state.get("subtasks"):
+        return "missing_info_handler"
+    return "executor"
+
+workflow.add_conditional_edges(
+    "planner",
+    after_planner_route,
+    {"executor": "executor", "missing_info_handler": "missing_info_handler"}
+)
 workflow.add_edge("executor", "auditor")
 
 # Team 模式链路 (Option C: 协作会诊)
@@ -2227,6 +2259,13 @@ workflow.add_edge("nutritionist", "auditor")
 def after_auditor_route(state: IntegratedState):
     if state["is_approved"]:
         return "formatter"
+    
+    # [Circuit Breaker] 审计迭代上限控制：防止无限重试
+    if state.get("iteration_count", 0) >= 3:
+        logger.warning(f"[auditor] 已达最大审计迭代次数 ({state['iteration_count']})，强制转入引导节点")
+        # 借用 missing_info_handler 来输出“证据不足或格式无法对齐”的最终拒答
+        return "missing_info_handler"
+
     # 如果终审拒绝，根据模式返回
     if state["mode"] == "subagent":
         return "executor"

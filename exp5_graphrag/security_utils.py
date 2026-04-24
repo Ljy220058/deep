@@ -17,7 +17,7 @@ class InputGuard:
         self.dangerous_patterns = [
             r"忽略.*(?:之前|以上|所有).*(?:指令|规则|限制)",
             r"(?:system|系统).*(?:prompt|提示|指令)",
-            r"(?:api|密钥|key|token|password|密码)",
+            r"\b(?:api|密钥|key|token|password|密码)\b\s*[:：=]",
             r"(?:扮演|假装|角色扮演).*(?:DAN|无限制|不受限)",
             r"(?:越狱|jailbreak|bypass|绕过)",
             r"(?:ignore|disregard).*(?:previous|above|all).*(?:instructions|rules)",

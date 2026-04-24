@@ -21,9 +21,10 @@ REQUIRED_CONCEPTS = {
 }
 
 # 与 workflow_engine.py 一致的强特征正则 (1480c39 增强版)
-WEEKLY_PATTERN = r"(周[一二三四五六日]|monday|tuesday|wednesday|thursday|friday|saturday|sunday|mon|tue|wed|thu|fri|sat|sun|第[1-9一二三四五六七八九十]周|day\s*\d+|session\s*\d+|microcycle)"
+WEEKLY_PATTERN = r"(周[一二三四五六日]|monday|tuesday|wednesday|thursday|friday|saturday|sunday|mon\b|tue\b|wed\b|thu\b|fri\b|sat\b|sun\b|第[1-9一二三四五六七八九十]周|day\s*\d+|session\s*\d+|workout\s*\d+|microcycle)"
 PRESCRIPTION_PATTERN = r"(\d+(\.\d+)?\s*(km|公里|公里/小时|bpm|次/分)|[1-9]\d{0,2}[:：][0-5]\d\s*(min/km|/km|配速))"
 STRUCTURE_PATTERN = r"(\d+\s*[xX*×]\s*\d+|间歇|重复|组|循环|次|组数)"
+NUMERIC_PRESCRIPTION_PATTERN = r"(\d+[:：]\d+\s*(min/km|/km)|[1-9]\d{1,2}\s*bpm)"
 
 def check_kb_readiness():
     if not os.path.exists(INDEX_PATH):
@@ -49,6 +50,7 @@ def check_kb_readiness():
         weekly_hits = 0
         prescription_hits = 0
         structure_hits = 0
+        numeric_hits = 0
         plan_ready_chunks = 0
         
         for chunk in chunks:
@@ -63,13 +65,15 @@ def check_kb_readiness():
             has_weekly = bool(re.search(WEEKLY_PATTERN, text))
             has_prescription = bool(re.search(PRESCRIPTION_PATTERN, text))
             has_structure = bool(re.search(STRUCTURE_PATTERN, text))
+            has_numeric = bool(re.search(NUMERIC_PRESCRIPTION_PATTERN, text))
             
             if has_weekly: weekly_hits += 1
             if has_prescription: prescription_hits += 1
             if has_structure: structure_hits += 1
+            if has_numeric: numeric_hits += 1
             
-            # 联合命中检查 (Plan Readiness)
-            if has_weekly and (has_prescription or has_structure):
+            # 联合命中检查 (Plan Readiness) - 与 Evidence-First 2.0 逻辑一致
+            if has_weekly and (has_prescription or has_structure or has_numeric):
                 plan_ready_chunks += 1
         
         print("\n[1] Keyword Analysis Results:")
@@ -86,7 +90,8 @@ def check_kb_readiness():
         print(f"Weekly Structure Patterns: {weekly_hits} matches")
         print(f"Prescription Patterns:     {prescription_hits} matches")
         print(f"Workout Structure Patterns: {structure_hits} matches")
-        print(f"Plan-Ready Chunks:         {plan_ready_chunks} matches (Weekly + Prescription in same chunk)")
+        print(f"Numeric Pace/HR Patterns:  {numeric_hits} matches")
+        print(f"Plan-Ready Chunks:         {plan_ready_chunks} matches (Weekly + Evidence in same chunk)")
         
         print("-" * 40)
         
